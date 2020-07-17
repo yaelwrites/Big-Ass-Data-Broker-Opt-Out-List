@@ -19,7 +19,7 @@ Please send corrections or updates to [yael.grauer@gmail.com](mailto:yael.grauer
 
 _Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, information is pulled from other sources and you&#39;ll need to opt out multiple times for the same site. Data brokers come and go (and are bought out by others), and they also often change their opt-out pages. I try to update this ~every six months, but it&#39;s not always current. Finally, even opting out of these sites doesn&#39;t mean that your address is secure. In many states, real estate data and voter registration information is public (or easy to obtain). And, of course, location data can be found by physical means (e.g., following you home) and through other people who know it (i.e., social engineering). That said, removing your home address from data broker sites can significantly lower your attack surface and make it harder for people to find it. 💕_
 
-## People Search Sites:
+## People Search Sites
 
 **411.com:** See Whitepages.com below.
 
@@ -215,11 +215,11 @@ If you&#39;re a victim of violent crime or identity theft, it&#39;s often possib
 
 **Get on the Do Not Call Registry:** [https://www.donotcall.gov/register/reg.aspx](https://www.donotcall.gov/register/reg.aspx)
 
-## Paid options:
+## Paid options
 
 DeleteMe, PrivacyDuck, OneRep, Reputation Defender and Reputation.com all offer different opt-out services. However, these are not comprehensive, as some data brokers do not allow third parties to remove listings.
 
-## Further reading:
+## Further reading
 
 [Here are the data brokers quietly buying and selling your personal information](https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information) (Fast Company)
 
