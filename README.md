@@ -9,7 +9,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-<p style="color :red;">*last updated 6/21/20: updated link for Addresses.com
+<p style="color :red;">*last updated 7/21/20: updated link for Addresses.com
  6/17/20: Added SmartBackground Checks
 6/14 update: Added BeenVerified property search, SearchPeopleFree address search, added ID True, NeighborReport, Persopo,
 TruePeopleSearch, US Phone Book, VoterRecords, Xlek, removed Veromi and VerifyThem, which appear to no longer exist.
@@ -40,7 +40,7 @@ Find your information here:
 
 [http://www.addresses.com/white-pages](http://www.addresses.com/white-pages)
 
-Opt out here: [http://www.addresses.com/optout.php](http://www.addresses.com/optout.php)
+Opt out via Intelius here: [https://www1.intelius.com/optout](https://www1.intelius.com/optout)
 
 #### AddressSearch:
 
