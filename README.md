@@ -169,7 +169,8 @@ Find your information and opt out here: [https://www.peoplesearchnow.com/opt-out
 ### PeopleSmart
 Now owned by BeenVerified (see their opt-out instructions). Look for your info here: [https://www.peoplesmart.com/](https://www.peoplesmart.com/)
 
-### Persopo** Search for your information here: [https://persopo.com/search](https://persopo.com/search). Cut and paste the text of it (which is hard to do because of the 1990s site format, but is required by the site) and email it along with your opt-out request to[support@persopo.com](mailto:support@persopo.com). You can also mail your request to Persopo.com **,
+### Persopo
+Search for your information here: [https://persopo.com/search](https://persopo.com/search). Cut and paste the text of it (which is hard to do because of the 1990s site format, but is required by the site) and email it along with your opt-out request to[support@persopo.com](mailto:support@persopo.com). You can also mail your request to Persopo.com,
 Attention: Opt Out Dept., 848 N. Rainbow Blvd., Suite 20, Las Vegas, NV 89107. (Opt-out instructions are posted here: [http://info.persopo.com/opt-out.html](http://info.persopo.com/opt-out.html)).
 
 ### Phone Detective
@@ -185,7 +186,7 @@ Look for your info here: [https://www.privateeye.com/](https://www.privateeye.co
 
 Owned by Intelius. Find your information here: [https://www.publicrecords.com/](https://www.publicrecords.com/).
 
-To opt out, you need to mail or fax a **_notarized form_
+To opt out, you need to mail or fax a _notarized form_
 (available here: [https://www.intelius.com/docs/notaryverificationform.pdf](https://www.intelius.com/docs/notaryverificationform.pdf)) along with your driver’s license or state-issued ID card, your full name, any nicknames or variations you want removed, address, and date of birth to the address and fax number listed under &quot;How to Remove your Information from PublicRecords.com Public Records Databases&quot; on [https://secure.publicrecords.com/privacy.php](https://secure.publicrecords.com/privacy.php). Unfortunately, that site appears to be down. The most recent contact information we have is a fax number, which is (425) 974-6194, and two mailing addresses: P.O. Box 4145, Bellevue, WA 98009-4145, and PublicRecords.com, Attn: Removal, 4607 Lakeview Canyon Rd. Suite 127, Westlake Village, CA 91361.
 
 ### PublicRecordsNow
@@ -198,7 +199,7 @@ Find your information and opt out here: [https://www.publicrecords360.com/optout
 Find your information here: [http://radaris.com](http://radaris.com/). Click on &quot;control information&quot; and &quot;remove information&quot; by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Details are here: [http://radaris.com/page/how-to-remove](http://radaris.com/page/how-to-remove)
 
 ### ReversePhone Lookup
-Look up your number on [https://www.reversephonelookup.com](https://www.reversephonelookup.com/) ~~and opt out at~~ [~~https://www.reversephonelookup.com/remove.php~~](https://www.reversephonelookup.com/remove.php).Unfortunately, the site’s opt-out page is broken and contact form is not accepting messages.
+Look up your number on [https://www.reversephonelookup.com](https://www.reversephonelookup.com/) ~~and opt out at~~ [~~https://www.reversephonelookup.com/remove.php~~](https://www.reversephonelookup.com/remove.php). Unfortunately, the site’s opt-out page is broken and contact form is not accepting messages.
 
 ### 💰 SearchBug
 Unfortunately, you have to pay to search for your information at[https://www.searchbug.com](https://www.searchbug.com/), but you can email support@searchbug.com to ask them to block the display of your personal information from being listed.
@@ -213,7 +214,7 @@ Find your information here: [https://www.smartbackgroundchecks.com/](https://www
 Find your information here:[http://www.spoke.com/](http://www.spoke.com/). Suppress it by clicking on the &quot;Request Removal&quot; link at the bottom of the page, enter the URL in the contact form it takes you to, and provide your email address. You can also email your removal request to [feedback@readwritelabs.com](mailto:feedback@readwritelabs.com). Unfortunately, Spoke’s opt-out page may not be working—its link from the FAQ page is dead.
 
 ### ☠ Spokeo
-Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search)and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout)
+Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout)
 
 ### TruePeopleSearch
 Opt out here: [https://www.truepeoplesearch.com/removal](https://www.truepeoplesearch.com/removal).
