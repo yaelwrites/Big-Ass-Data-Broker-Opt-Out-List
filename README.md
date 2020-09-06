@@ -46,7 +46,7 @@ Opt out via Intelius here: [https://www1.intelius.com/optout](https://www1.intel
 
 Look up your address here: [http://www.addresssearch.com/](http://www.addresssearch.com/)
 
-Opt out via Intelius here: [https://www1.intelius.com/optout/](https://www1.intelius.com/optout/)
+Opt out via Intelius here: [https://www1.intelius.com/opt-out/submit/](https://www1.intelius.com/opt-out/submit)
 
 #### Advanced Background Checks:
 
