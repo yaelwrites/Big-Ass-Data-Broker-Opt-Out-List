@@ -137,7 +137,7 @@ Find your information here:
 Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out here: [https://www.intelius.com/optout](https://www.intelius.com/optout). (Intelius owns Classmates, DateCheck, iSearch, LookUpAnyone, Peopleconnect.us, PeopleLookup, Phonesbook, Publicrecords, Spock, USSearch, Zabasearch).
 
 ### ☠ 📞 MyLife
-Find your information here: [https://www.mylife.com](https://www.mylife.com/). (You don’t need to sign up and pay for anything). Opt out by calling (888) 704-1900, press 2, ask to be removed from MyLife (and Wink.com, just in case). You’ll need to provide your name, age, date of birth, email address, current mailing address, and a previous mailing address. Another option to try is to email a link to your profile to [removalrequests@mylife.com](mailto:removalrequests@mylife.com). (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
+Find your information here: [https://www.mylife.com](https://www.mylife.com/). (You don’t need to sign up and pay for anything). Opt out by calling (888) 704-1900, press 5, ask to be removed from MyLife (and Wink.com, just in case). You’ll need to provide your name, age, date of birth, email address, current mailing address, and a previous mailing address. (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
 
 ### NeighborReport
 Look for your name or search under your address at [https://neighbor.report/](https://neighbor.report/). Try to get information removed at [https://neighbor.report/remove](https://neighbor.report/remove).
