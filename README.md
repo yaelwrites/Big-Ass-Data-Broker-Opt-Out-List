@@ -120,12 +120,12 @@ Look for and remove your information here:
 ### IDTrue
 Find your information and out here: [https://www.idtrue.com/optout/](https://www.idtrue.com/optout/)
 
-### 🎫 📠 📫 InfoTracer
+### 🎫 📞📫 InfoTracer
 Find your information here:
 
 [https://www.infotracer.com](https://www.infotracer.com/)
 
-You will need to opt out by mail or fax by filling out this form: [https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf)
+You can opt out by mailing in this form: [https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or by calling (800) 791-1427.
 
 ### ☠ InstantCheckmate
 Find and remove your information here:
@@ -133,17 +133,16 @@ Find and remove your information here:
 [https://www.instantcheckmate.com/opt-out/](https://www.instantcheckmate.com/opt-out/)
 
 ### 💰 InstantPeopleFinder
-Find your information here:
+InstantPeopleFinder is now owned by Intelius. Find your information here:
 
-[https://instantpeoplefinder.com](https://instantpeoplefinder.com/), remove listings from the sites it’s aggregating the data from, and try to opt out here, though you can’t provide requested URLs without paying.
-
-[https://www.instantpeoplefinder.com/optout.php.](https://www.instantpeoplefinder.com/optout.php) You can also email [optout@instantpeoplefinder.com](mailto:optout@instantpeoplefinder.com).
+[https://instantpeoplefinder.com](https://instantpeoplefinder.com/), and remove it from Intelius following the instructions below.
 
 ### ☠ Intelius
-Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out here: [https://www.intelius.com/optout](https://www.intelius.com/optout). (Intelius owns Classmates, DateCheck, iSearch, LookUpAnyone, Peopleconnect.us, PeopleLookup, Phonesbook, Publicrecords, Spock, USSearch, Zabasearch).
+Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out here: [https://www.intelius.com/optout](https://www.intelius.com/optout). (Intelius owns Classmates, DateCheck, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleLookup, Phonesbook, Publicrecords, Spock, USSearch, Zabasearch).
 
 ### ☠ 📞 MyLife
-Find your information here: [https://www.mylife.com](https://www.mylife.com/). (You don’t need to sign up and pay for anything). Opt out by calling (888) 704-1900, press 2, ask to be removed from MyLife (and Wink.com, just in case). You’ll need to provide your name, age, date of birth, email address, current mailing address, and a previous mailing address. Another option to try is to email a link to your profile to [removalrequests@mylife.com](mailto:removalrequests@mylife.com). (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
+Find your information here: [https://www.mylife.com](https://www.mylife.com/). Email your removal request to [privacy@mylife.com](mailto:privacy@mylife.com) with your name and a link to your profile. MyLife will try to get you to create an account with a copy of your driver’s license to submit a profile removal request, and we’ve received reports that emailing the info@mylife.com or removalrequests@mylife.com email addresses will require a phone call to 
+(888) 704-1900. Previously, calling that number and pressing 2 allowed you to be removed from MyLife (and Wink.com) after providing your name, age, date of birth, email address, current mailing address, and a previous mailing address, but this no longer appears to be the case. (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
 
 ### NeighborReport
 Look for your name or search under your address at [https://neighbor.report/](https://neighbor.report/). Try to get information removed at [https://neighbor.report/remove](https://neighbor.report/remove).
@@ -156,9 +155,6 @@ Find your information here: [https://www.peekyou.com/](https://www.peekyou.com/)
 
 ### 💰 PeopleByName
 Type your phone number here: [http://www.peoplebyname.com/](http://www.peoplebyname.com/). It may not give you information without you paying, but it will tell you whether there is data associated with your number. Opt out for each number here: [http://www.peoplebyname.com/remove.php](http://www.peoplebyname.com/remove.php)
-
-### PeopleFinder
-Find your information here: [http://www.peoplefinder.com/](http://www.peoplefinder.com/), opt out at [http://www.peoplefinder.com/optout.php](http://www.peoplefinder.com/optout.php)
 
 ### ☠ PeopleFinders
 : Find your information and opt out here:[https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes PublicRecordsNow)
@@ -285,7 +281,7 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 ## Paid options
 
-DeleteMe, PrivacyDuck, OneRep, Reputation Defender and Reputation.com all offer different opt-out services. However, these are not comprehensive, as some data brokers do not allow third parties to remove listings.
+DeleteMe, PrivacyDuck, OneRep, Reputation Defender and Reputation.com all offer different opt-out services. Of those options, we recommend DeleteMe. However, these are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it.
 
 ## Further reading
 
