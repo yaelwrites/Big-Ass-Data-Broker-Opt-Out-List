@@ -271,7 +271,7 @@ offered by your state’s motor vehicle department.
 to see if they offer privacy options, such as not listing your number on caller ID or allowing you to opt out of sales of phone numbers.
 
 ### Consider opting out of direct marketing and telemarketing.
-This list, compiled by Griffin Boyce, has a lot of information on doing so: [https://github.com/glamrock/data-brokers/blob/master/data-brokers.md](https://github.com/glamrock/data-brokers/blob/master/data-brokers.md). A good place to start is to opt out at the Direct Marketing Association. [https://dmachoice.thedma.org/register.php](https://dmachoice.thedma.org/register.php)
+This list, compiled by Griffin Boyce, has a lot of information on doing so: [https://github.com/glamrock/data-brokers/blob/master/data-brokers.md](https://github.com/glamrock/data-brokers/blob/master/data-brokers.md). A potential place to start is to opt out at the Direct Marketing Association. [https://dmachoice.thedma.org/register.php](https://dmachoice.thedma.org/register.php) Unfortunately the DMA now charges $2 to place yourself on the opt-out list.
 
 ### Opt out of prescreened credit offers
 Follow the instructions at [https://www.optoutprescreen.com/](https://www.optoutprescreen.com/)
