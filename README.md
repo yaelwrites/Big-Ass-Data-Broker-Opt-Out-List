@@ -220,11 +220,12 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 ## Paid options
 
-DeleteMe, Kanary, PrivacyDuck, OneRep, Reputation Defender and Reputation.com all offer different opt-out services. Of those options, we recommend DeleteMe and Kanary. However, these are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it.
+[DeleteMe](https://joindeleteme.com/), [Kanary](https://www.thekanary.com/), [PrivacyDuck](https://www.privacyduck.com/)
+[OneRep](https://onerep.com/), [Reputation Defender](https://www.reputationdefender.com/), and [Reputation.com](Reputation.com) all offer different opt-out services. Of those options, we recommend DeleteMe and Kanary. However, these are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it.
 
 ## Further reading
 
-[Doxing: Tips To Protect Yourself Online & How to Minimize Harm](Doxxing: Tips To Protect Yourself Online & How to Minimize Harm) (EFF)
+[Doxing: Tips To Protect Yourself Online & How to Minimize Harm](https://www.eff.org/deeplinks/2020/12/doxxing-tips-protect-yourself-online-how-minimize-harm) (EFF)
 
 [Here are the data brokers quietly buying and selling your personal information](https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information) (Fast Company)
 
