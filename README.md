@@ -38,11 +38,13 @@ It is hard to find your own info for free, but you can opt out here:
 
 If you don’t have an email address, call (877) 774-2094 and follow the prompts.
 
-#### Advanced Background Checks:
-
+#### Advanced Background Checks
 Remove your data here:
 
 [https://www.advancedbackgroundchecks.com/removal](https://www.advancedbackgroundchecks.com/removal)
+
+### Apollo
+Find your information here: [https://www.apollo.io/](https://www.apollo.io/). You may need to create a free account if you want to verify the types of information they have about you in their database. Email your removal request to [remove@apollo.io](mailto:remove@apollo.io) with your name, email, and, if you have it, a link to your profile.
 
 ### Archives
 To find your information, you must sign up for a free trial here:
@@ -50,6 +52,9 @@ To find your information, you must sign up for a free trial here:
 [https://www.archives.com/search/ancestor/checkout](https://www.archives.com/search/ancestor/checkout)(and then cancel)
 
 Opt out here: [http://www.archives.com/?\_act=Optout](http://www.archives.com/?_act=Optout)
+
+### 🎫 BackgroundAlert
+Find your information and opt out here: [https://www.backgroundalert.com/optout/](https://www.backgroundalert.com/optout/).
 
 ### ☠ BeenVerified
 Find your information and opt out here:
@@ -60,10 +65,18 @@ Opt out of property search here:
 
 [https://www.beenverified.com/app/optout/address-search](https://www.beenverified.com/app/optout/address-search)
 
+### CheckPeople
+Find your information and opt out here: [https://checkpeople.com/do-not-sell-info](https://checkpeople.com/do-not-sell-info)
+You will need to confirm by clicking a link sent via email. You can use an alias or temporary email.
+
 ### CheckThem.com
 Find your information and opt out here:
 
 [https://www.checkthem.com/optout/](https://www.checkthem.com/optout/). You will receive a link via email you’ll need to click on to complete the process.
+
+### CyberBackgroundChecks
+Find your information and opt out here: [https://www.cyberbackgroundchecks.com/removal](https://www.cyberbackgroundchecks.com/removal) 
+You will need to confirm by clicking a link sent via email. You can use an alias or temporary email.
 
 ### Classmates.com
 If you have a free membership, opt out or control information that’s posted here:
@@ -88,6 +101,12 @@ Search for yourself and remove your information here:
 Look for and remove your information here:
 
 [https://www.fastpeoplesearch.com/removal](https://www.fastpeoplesearch.com/removal)
+
+### Homemetry
+Look for your information here: [https://homemetry.com/](https://homemetry.com/)
+Once you find the record with your name and address listed, find the 'Information Control' link.
+Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out.
+You will need to click the verification link they email you to finalize the opt out.
 
 ### IDTrue
 Find your information and out here: [https://www.idtrue.com/optout/](https://www.idtrue.com/optout/)
@@ -146,7 +165,11 @@ Find your information here: [http://radaris.com](http://radaris.com/). Click on 
 Unfortunately, you have to pay to search for your information at[https://www.searchbug.com](https://www.searchbug.com/), but you can email support@searchbug.com to ask them to block the display of your personal information from being listed.
 
 ### SearchPeopleFree
-FInd your information here: [https://www.searchpeoplefree.com/](https://www.searchpeoplefree.com/), making sure to search by name, phone number, address and email address: Opt out here: [https://www.searchpeoplefree.com/opt-out](https://www.searchpeoplefree.com/opt-out).
+Find your information here: [https://www.searchpeoplefree.com/](https://www.searchpeoplefree.com/), making sure to search by name, phone number, address and email address: Opt out here: [https://www.searchpeoplefree.com/opt-out](https://www.searchpeoplefree.com/opt-out).
+
+### SearchQuarry
+Find your information and opt out here: [https://www.searchquarry.com/opt-out/](https://www.searchquarry.com/opt-out/)
+You will need to click the verification link they email you to finalize the opt out.
 
 ### SmartBackground Checks
 Find your information here: [https://www.smartbackgroundchecks.com/](https://www.smartbackgroundchecks.com/). Opt out here: [https://www.smartbackgroundchecks.com/optout](https://www.smartbackgroundchecks.com/optout)
@@ -174,6 +197,10 @@ Find and remove your information here: [https://www.ussearch.com/opt-out/submit/
 
 ### USPhoneBook
 Look for your number and opt out here:: [https://www.usphonebook.com/opt-out/](https://www.usphonebook.com/opt-out/).
+
+### 🎫 Verispy
+Look for you information here: [https://www.verispy.com/](https://www.verispy.com/)
+Opt out here: [https://www.dataaccessmanagement.com/verispy/](https://www.dataaccessmanagement.com/verispy/)
 
 ### VoterRecords
 Go to [VoterRecords.com](https://voterrecords.com/), find your information, scroll to the bottom of the page and click on the &quot;record opt-out&quot; link. This will lead to an opt-out form, which you’ll need to submit. You may receive a verification link you’ll need to click on to verify your opt-out request.
