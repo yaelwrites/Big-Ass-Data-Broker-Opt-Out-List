@@ -74,6 +74,9 @@ Or, cancel your free or paid membership following the instructions here:
 
 [https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-)
 
+### Clustrmaps.com
+Submit the URL with your name here: https://clustrmaps.com/bl/opt-out
+
 ### DOBSearch
 Find your information here:
 
