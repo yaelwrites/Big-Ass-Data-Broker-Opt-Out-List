@@ -77,6 +77,8 @@ Or, cancel your free or paid membership following the instructions here:
 ### Clustrmaps.com
 Submit the URL with your name here: https://clustrmaps.com/bl/opt-out
 
+Email and address appear to be optional. Also note that if you have multiple submissions, you can go back in the history and change the URL, instead of filling the form multiple times.
+
 ### DOBSearch
 Find your information here:
 
