@@ -70,6 +70,10 @@ Or, cancel your free or paid membership following the instructions here:
 
 [https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-)
 
+### ClustrMaps
+
+Find your information here: [https://clustrmaps.com/] (https://clustrmaps.com). To remove it, go here: [https://clustrmaps.com/bl/opt-out](https://clustrmaps.com/bl/opt-out). It will ask you for a mailing address, but doesn’t seem to verify them. It will then ask you to check off anything associated with your account that you want removed.
+
 ### DOBSearch
 Find your information here:
 
@@ -216,8 +220,7 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 ## Paid options
 
-[DeleteMe](https://joindeleteme.com/), [Kanary](https://www.thekanary.com/), [PrivacyDuck](https://www.privacyduck.com/)
-[OneRep](https://onerep.com/), [Reputation Defender](https://www.reputationdefender.com/), and [Reputation.com](Reputation.com) all offer different opt-out services. Of those options, we recommend DeleteMe and Kanary. However, these are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it.
+[DeleteMe](https://joindeleteme.com/), [Kanary](https://www.thekanary.com/), PrivacyDuck [OneRep](https://onerep.com/), [Reputation Defender](https://www.reputationdefender.com/), and [Reputation.com](Reputation.com) all offer different opt-out services. Of those options, we recommend DeleteMe and Kanary. We do not recommend PrivacyDuck (you can see the Yelp reviews(https://www.yelp.com/biz/privacyduck-west-hollywood-4) and Better Business Bureau complaints (https://www.bbb.org/us/ca/west-hollywood/profile/network-security/privacyduck-1216-649413/complaints) to find out why). In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it.
 
 ## Further reading
 
