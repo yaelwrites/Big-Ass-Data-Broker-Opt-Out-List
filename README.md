@@ -232,7 +232,9 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 [Preliminary results are in! CCPA testers provide important insights into the landmark privacy law](https://medium.com/cr-digital-lab/preliminary-results-are-in-ccpa-testers-provide-important-insights-into-the-landmark-privacy-law-c299f733de09) (Medium/Consumer Reports)
 
-<p style="color :red;">*last updated 2/13/21: Updated URLs and removal details for Infotracer, Pipl, PeopleByName and Spoke
+<p style="color :red;">*last updated 3/9/21: Added Clustrmaps. Removed link to PrivacyDuck and explicitly mentioned that we do not recommend it (you can see the Better Business Bureau and Yelp reviews to find out more on why)
+
+2/13/21: Updated URLs and removal details for Infotracer, Pipl, PeopleByName and Spoke
 
 12/21/20: removed Addresses.com, Addresssearch.com, Anywho, InstantPeopleFinder, PublicRecords, ZabaSearch, since they’re owned by Intelius. Added some of those names to Intelius. Removed 411 since it linked to WhitePages. Updated Classmates info. Removed extra DOB search link. Updated InfoTracer with fax number, removed phone number. Updated PeopleFinders. Updated USPhoneBook.  Removed NeighborReport, since you can’t opt out of address listings. Updated PeopleByName to search by name rather than number. Removed PeopleLooker and PeopleSmart, now owned by BeenVerified. Removed PeopleLookUp and PublicRecords360 now owned by US Search. Removed Phone Detective (now NumberGuru) and Reverse Phone Lookup as there’s no opt-out. 
 Deleted bonus link on PublicRecordsNow. Added U.S. Search. Added cost for DMA opt-out. Added EFF doxing article. Added a recommendation to Kanary.
