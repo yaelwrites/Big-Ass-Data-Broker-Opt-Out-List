@@ -218,6 +218,26 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 ### Get on the Do Not Call Registry
 [https://www.donotcall.gov/register/reg.aspx](https://www.donotcall.gov/register/reg.aspx)
 
+
+### SageStream LLC
+
+SageStream LLC: A Data broker that has credit file like information that can sometimes accumulate data about you like DOB, Addresses, Names, SSNs, phones, etc. Has a 5 year opt out and a perm-opt out option.
+[https://www.sagestreamllc.com/opt-out-opt-in/](https://www.sagestreamllc.com/opt-out-opt-in/)
+
+### Infutor
+
+An information broker who's file can show up on various other consumer reports and cross-checking of other data sources.
+
+[https://privacy.infutor.com/privacy/s/optout](https://privacy.infutor.com/privacy/s/optout) - Form for all other US-states
+[https://privacy.infutor.com/s/](https://privacy.infutor.com/s/) - Special form for US-California people, requires extra steps
+
+### Neustar
+
+Neustar is a information gathering company that accumulates data similar to Infutor, has a Delete My Data and Opt-Out request, you can also get information about the types of information it carries about you. The website is a little bit glitchy, use incognito mode it also requires a SMS + Email verify to file a request. 
+
+[https://privacychoices.home.neustar/](https://privacychoices.home.neustar/)
+
+
 ## Paid options
 
 [DeleteMe](https://joindeleteme.com/), [Kanary](https://www.thekanary.com/), PrivacyDuck [OneRep](https://onerep.com/), [Reputation Defender](https://www.reputationdefender.com/), and [Reputation.com](Reputation.com) all offer different opt-out services. Of those options, we recommend DeleteMe and Kanary. We do not recommend PrivacyDuck (you can see the Yelp reviews(https://www.yelp.com/biz/privacyduck-west-hollywood-4) and Better Business Bureau complaints (https://www.bbb.org/us/ca/west-hollywood/profile/network-security/privacyduck-1216-649413/complaints) to find out why). In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it.
