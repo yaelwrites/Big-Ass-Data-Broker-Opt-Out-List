@@ -79,6 +79,11 @@ Find your information here:
 
 [https://www.dobsearch.com/people-finder/](https://www.dobsearch.com/people-finder/). Then hit &quot;manage my records&quot; and opt out. You will need to supply your number and email address and provide text or email confirmation. Info here: [https://www.dobsearch.com/people-finder/pf_manage_help.php](https://www.dobsearch.com/people-finder/pf_manage_help.php) 
 
+### Epsilon
+You can request your information or opt out here:
+
+[https://www.epsilon.com/us/marketing-data-summary-request](https://www.epsilon.com/us/marketing-data-summary-request)
+
 ### FamilyTreeNow
 Search for yourself and remove your information here:
 
