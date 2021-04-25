@@ -193,6 +193,11 @@ Find your information here: [https://www.whitepages.com/](https://www.whitepages
 
 You will need to provide a phone number and enter an opt-out code when you receive the phone call. Opt-out information is available here: [https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing)-. You can also send a request here [https://support.whitepages.com/hc/en-us/requests/new](https://support.whitepages.com/hc/en-us/requests/new). (Including multiple options because these sites have a tendency to disappear.) Sometimes, information is removed from White Pages but not White Pages Premium, so make sure to double-check for your listing. Also, White Pages also owns [411.com](https://www.411.com/), so check for your information there. The opt-out is the same.
 
+
+### 🎫 Wunderman Thompson Data
+You can request your information or opt out here:
+https://www.kbmg.com/about-us/ccpa-privacy-policy/#optout
+
 ### Xlek
 (formerly Cubib?) Look up your information at [https://www.xlek.com/](https://www.xlek.com/). Opt out at [https://www.xlek.com/optout.php](https://www.xlek.com/optout.php). You’ll need to submit a separate opt-out request for each item you’d like removed
 
