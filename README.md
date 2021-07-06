@@ -92,7 +92,7 @@ Look for and remove your information here:
 ### IDTrue
 Find your information and out here: [https://www.idtrue.com/optout/](https://www.idtrue.com/optout/)
 
-### 🎫 📠 📫 InfoTracer
+### InfoTracer
 Find your information here:
 
 [https://www.infotracer.com/](https://www.infotracer.com/)
