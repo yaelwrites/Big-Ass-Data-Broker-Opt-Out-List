@@ -73,8 +73,10 @@ Cancel your free or paid membership following the instructions here:
 [https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-)
 
 ### ClustrMaps
-
 Find your information here: [https://clustrmaps.com/] (https://clustrmaps.com). To remove it, go here: [https://clustrmaps.com/bl/opt-out](https://clustrmaps.com/bl/opt-out). It will ask you for a mailing address, but doesn’t seem to verify it. It will then ask you to check off anything associated with your account that you want removed.
+
+### CyberBackgroundChecks
+Find your information here: [https://www.cyberbackgroundchecks.com/](https://www.cyberbackgroundchecks.com/). If it’s listed, remove it here. [https://www.cyberbackgroundchecks.com/removal](https://www.cyberbackgroundchecks.com/removal). You will need to confirm by clicking a link sent via email. 
 
 ### FamilyTreeNow
 Search for yourself and remove your information here:
