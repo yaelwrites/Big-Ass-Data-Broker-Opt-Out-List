@@ -174,7 +174,10 @@ Find and remove your information at [https://www.usa-people-search.com/manage](h
 Find and remove your information here: [https://www.ussearch.com/opt-out/submit/](https://www.ussearch.com/opt-out/submit/).
 
 ### USPhoneBook
-Look for your number and opt out here:: [https://www.usphonebook.com/opt-out/](https://www.usphonebook.com/opt-out/).
+Look for your number and opt out here:[https://www.usphonebook.com/opt-out/](https://www.usphonebook.com/opt-out/).
+
+### Verecor
+Find your information at [https://verecor.com](https://verecor.com). To opt out, enter the profile URL (along with your name and email) at [https://verecor.com/ng/control/privacy](https://verecor.com/ng/control/privacy). You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email assist@verecor.com. 
 
 ### VoterRecords
 Go to [VoterRecords.com](https://voterrecords.com/), find your information, scroll to the bottom of the page and click on the &quot;record opt-out&quot; link. This will lead to an opt-out form, which you’ll need to submit. You may receive a verification link you’ll need to click on to verify your opt-out request.
