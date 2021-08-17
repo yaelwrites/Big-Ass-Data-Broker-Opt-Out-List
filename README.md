@@ -242,10 +242,4 @@ Deleted bonus link on PublicRecordsNow. Added U.S. Search. Added cost for DMA op
 
 6/17/20: Added SmartBackground Checks
 
-6/14/20: Added BeenVerified property search, SearchPeopleFree address search, added ID True, NeighborReport, Persopo, TruePeopleSearch, US Phone Book, VoterRecords, Xlek, removed Veromi and VerifyThem, which appear to no longer exist. </p>
-
-To add:
-LexisNexis: optout.lexisnexis.com, https://consumer.risk.lexisnexis.com/request?#california
-Axciom: https://isapps.acxiom.com/optout/optout.aspx?#section8
-Gravatar? privacypolicyupdates@automattic.com
-MyLife license requirement?
+6/14/20: Added BeenVerified property search, SearchPeopleFree address search, added ID True, NeighborReport, Persopo, TruePeopleSearch, US Phone Book, VoterRecords, Xlek, removed Veromi and VerifyThem, which appear to no longer exist. 
