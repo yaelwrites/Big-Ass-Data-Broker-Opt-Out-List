@@ -45,7 +45,7 @@ To find your information, you must sign up for a free trial here:
 
 [https://www.archives.com/search/ancestor/checkout](https://www.archives.com/search/ancestor/checkout)(and then cancel)
 
-Opt out here: [http://www.archives.com/?\_act=Optout](http://www.archives.com/?_act=Optout)
+Opt out here: [http://www.archives.com/Optout](http://www.archives.com/Optout)
 
 ### ☠ BeenVerified
 Find your information and opt out here:
@@ -62,22 +62,13 @@ Find your information and opt out here:
 [https://www.checkthem.com/optout/](https://www.checkthem.com/optout/). You will receive a link via email you’ll need to click on to complete the process.
 
 ### Classmates.com
-If you have a free membership, opt out or control information that’s posted here:
-
-[https://www.classmates.com/siteui/account/privacy](https://www.classmates.com/siteui/account/privacy), owned by Intelius.
-
-Or, cancel your free or paid membership following the instructions here: 
+Cancel your free or paid membership following the instructions here: 
 
 [https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-)
 
 ### ClustrMaps
 
-Find your information here: [https://clustrmaps.com/] (https://clustrmaps.com). To remove it, go here: [https://clustrmaps.com/bl/opt-out](https://clustrmaps.com/bl/opt-out). It will ask you for a mailing address, but doesn’t seem to verify them. It will then ask you to check off anything associated with your account that you want removed.
-
-### DOBSearch
-Find your information here:
-
-[https://www.dobsearch.com/people-finder/](https://www.dobsearch.com/people-finder/). Then hit &quot;manage my records&quot; and opt out. You will need to supply your number and email address and provide text or email confirmation. Info here: [https://www.dobsearch.com/people-finder/pf_manage_help.php](https://www.dobsearch.com/people-finder/pf_manage_help.php) 
+Find your information here: [https://clustrmaps.com/] (https://clustrmaps.com). To remove it, go here: [https://clustrmaps.com/bl/opt-out](https://clustrmaps.com/bl/opt-out). It will ask you for a mailing address, but doesn’t seem to verify it. It will then ask you to check off anything associated with your account that you want removed.
 
 ### FamilyTreeNow
 Search for yourself and remove your information here:
@@ -85,19 +76,15 @@ Search for yourself and remove your information here:
 [https://www.familytreenow.com/optout](https://www.familytreenow.com/optout)
 
 ### FastPeopleSearch
-Look for and remove your information here:
-
-[https://www.fastpeoplesearch.com/removal](https://www.fastpeoplesearch.com/removal)
+Look for and remove your information here: [https://www.fastpeoplesearch.com/removal](https://www.fastpeoplesearch.com/removal). You may need to solve a captcha. 
 
 ### IDTrue
 Find your information and out here: [https://www.idtrue.com/optout/](https://www.idtrue.com/optout/)
 
-### 🎫 📠 📫 InfoTracer
-Find your information here:
+### InfoTracer
+Find your information here: [https://www.infotracer.com/](https://www.infotracer.com/)
 
-[https://www.infotracer.com/](https://www.infotracer.com/)
-
-You can opt out by filling out this form: [https://www.infotracer.com/optout](https://www.infotracer.com/optout). You can also mail in this form: [https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or by faxing it to 1-617-933-9946. 
+You can opt out by filling out this form: [https://www.infotracer.com/optout](https://www.infotracer.com/optout). You can also mail in this form: [https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946. 
 
 ### ☠ InstantCheckmate
 Find and remove your information here:
@@ -143,7 +130,7 @@ Find your information here: [https://www.publicrecordsnow.com/]. Click “opt ou
 Find your information here: [http://radaris.com](http://radaris.com/). Click on &quot;control information&quot; and &quot;remove information&quot; by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Details are here: [http://radaris.com/page/how-to-remove](http://radaris.com/page/how-to-remove)
 
 ### 💰 SearchBug
-Unfortunately, you have to pay to search for your information at[https://www.searchbug.com](https://www.searchbug.com/), but you can email support@searchbug.com to ask them to block the display of your personal information from being listed.
+Unfortunately, you have to sign up with a credit card to search for your information at [https://www.searchbug.com](https://www.searchbug.com/), but you can email support@searchbug.zohodesk.com to ask them to block the display of your personal information from being listed. Additional contact info is listed here: https://www.searchbug.com/contact-us.aspx.
 
 ### SearchPeopleFree
 FInd your information here: [https://www.searchpeoplefree.com/](https://www.searchpeoplefree.com/), making sure to search by name, phone number, address and email address: Opt out here: [https://www.searchpeoplefree.com/opt-out](https://www.searchpeoplefree.com/opt-out).
@@ -152,7 +139,7 @@ FInd your information here: [https://www.searchpeoplefree.com/](https://www.sear
 Find your information here: [https://www.smartbackgroundchecks.com/](https://www.smartbackgroundchecks.com/). Opt out here: [https://www.smartbackgroundchecks.com/optout](https://www.smartbackgroundchecks.com/optout)
 
 ### Spoke
-Find your information here:[http://www.spoke.com/](http://www.spoke.com/). Find the “people site map” on the bottom, and it’ll take you here (with a different initial at the end, depending on your last name): https://www.spoke.com/dir/people/name/a. Click the links to search for your last name. Then same for your first name. You will get to a results page. Click each name listing, and suppress it by clicking the "Request Removal" link at the bottom of the page, entering the URL in the contact form it takes you to, and providing your email address. You can also email your removal request to [feedback@readwritelabs.com](mailto:feedback@readwritelabs.com). Unfortunately, Spoke’s opt-out page may not be working—its link from the FAQ page is dead.
+Find your information here:[http://www.spoke.com/](http://www.spoke.com/). Find the “people site map” on the bottom, and it’ll take you here (with a different initial at the end, depending on your last name): https://www.spoke.com/dir/people/name/a. Click the links to search for your last name. Then do the same for your first name. You will get to a results page. Click each name listing, and suppress it by clicking the "Request Removal" link at the bottom of the page, entering the URL in the contact form it takes you to, and providing your email address. You can also email your removal request to [feedback@readwritelabs.com](mailto:feedback@readwritelabs.com). Unfortunately, Spoke’s opt-out page is not be working—its link from the FAQ page is dead.
 
 ### ☠ Spokeo
 Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout)
@@ -167,7 +154,7 @@ Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if
 Find and remove your information at [https://www.truthfinder.com/opt-out/](https://www.truthfinder.com/opt-out/). Search for your name, click &quot;remove this record,&quot; and fill out the information (your name and email address). You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). (More contact information here: [https://www.truthfinder.com/about/#contact](https://www.truthfinder.com/about/#contact).)
 
 ### USA People Search
-Find and remove your information at [https://www.usa-people-search.com/manage](https://www.usa-people-search.com/manage). The site asks you to wait four hours between opt-out requests.
+Find and remove your information at [https://www.usa-people-search.com/manage](https://www.usa-people-search.com/manage). 
 
 ### US Search ☠
 Find and remove your information here: [https://www.ussearch.com/opt-out/submit/](https://www.ussearch.com/opt-out/submit/).
@@ -186,8 +173,8 @@ You will need to provide a phone number and enter an opt-out code when you recei
 ### Xlek
 (formerly Cubib?) Look up your information at [https://www.xlek.com/](https://www.xlek.com/). Opt out at [https://www.xlek.com/optout.php](https://www.xlek.com/optout.php). You’ll need to submit a separate opt-out request for each item you’d like removed
 
-### ☠ 🎫  ZoomInfo
-Check to see if your information is on ZoomInfo by filling out this form:[http://www.zoominfo.com/lookupEmail](http://www.zoominfo.com/lookupEmail). Opt out if it has an email on record—they will email you a code. ZoomInfo appears to have moved towards focusing primarily on business rather than individuals.
+### ☠ � ZoomInfo
+Check to see if your information is on ZoomInfo by filling out this form:[https://www.zoominfo.com/update/remove](https://www.zoominfo.com/update/remove). Opt out if it has an email on record—they will email you a code. ZoomInfo appears to have moved towards focusing primarily on business rather than individuals.
 
 ## Special Circumstances
 
@@ -210,7 +197,9 @@ offered by your state’s motor vehicle department.
 to see if they offer privacy options, such as not listing your number on caller ID or allowing you to opt out of sales of phone numbers.
 
 ### Consider opting out of direct marketing and telemarketing.
-This list, compiled by Griffin Boyce, has a lot of information on doing so: [https://github.com/glamrock/data-brokers/blob/master/data-brokers.md](https://github.com/glamrock/data-brokers/blob/master/data-brokers.md). A good place to start is to opt out at the Direct Marketing Association. [https://dmachoice.thedma.org/register.php](https://dmachoice.thedma.org/register.php), which costs $2 for 10 years.
+This list, compiled by Griffin Boyce, has a lot of information on doing so: [https://github.com/glamrock/data-brokers/blob/master/data-brokers.md](https://github.com/glamrock/data-brokers/blob/master/data-brokers.md). 
+
+You can also opt out of targeted ads using cookies and similar technology at the browser level at https://optout.aboutads.info.
 
 ### Opt out of prescreened credit offers
 Follow the instructions at [https://www.optoutprescreen.com/](https://www.optoutprescreen.com/)
@@ -220,7 +209,7 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 ## Paid options
 
-[DeleteMe](https://joindeleteme.com/), [Kanary](https://www.thekanary.com/), PrivacyDuck [OneRep](https://onerep.com/), [Reputation Defender](https://www.reputationdefender.com/), and [Reputation.com](Reputation.com) all offer different opt-out services. Of those options, we recommend DeleteMe and Kanary. We do not recommend PrivacyDuck (you can see the Yelp reviews(https://www.yelp.com/biz/privacyduck-west-hollywood-4) and Better Business Bureau complaints (https://www.bbb.org/us/ca/west-hollywood/profile/network-security/privacyduck-1216-649413/complaints) to find out why). In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it.
+[DeleteMe](https://joindeleteme.com/), [Kanary](https://www.thekanary.com/), PrivacyDuck [OneRep](https://onerep.com/), [Reputation Defender](https://www.reputationdefender.com/), and [Reputation.com](Reputation.com) all offer different opt-out services. Of those options, we recommend DeleteMe and Kanary. In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it.
 
 ## Further reading
 
