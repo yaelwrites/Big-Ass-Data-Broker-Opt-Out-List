@@ -86,6 +86,9 @@ Search for yourself and remove your information here:
 ### FastPeopleSearch
 Look for and remove your information here: [https://www.fastpeoplesearch.com/removal](https://www.fastpeoplesearch.com/removal). You may need to solve a captcha. 
 
+### FreePeopleDirectory
+Search for your information at ]https://www.freepeopledirectory.com](https://www.freepeopledirectory.com). If you find it, you can opt out on Spokeo at [https://www.spokeo.com/privacy/control](https://www.spokeo.com/privacy/control). 
+
 ### Homemetry
 Look for your home address here: [https://homemetry.com/](https://homemetry.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
 
