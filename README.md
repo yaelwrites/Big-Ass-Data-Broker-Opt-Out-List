@@ -56,6 +56,9 @@ Opt out of property search here:
 
 [https://www.beenverified.com/app/optout/address-search](https://www.beenverified.com/app/optout/address-search)
 
+### CheckPeople
+Look for your contact info here: [https://checkpeople.com/](https://checkpeople.com/). If it shows up, opt out here: [https://checkpeople.com/do-not-sell-info](https://checkpeople.com/do-not-sell-info). You will need to fill out a form and captcha, select the record for removal, fill out your name and email, and solve another captcha. You will receive an email which will require you to confirm your opt-out request. 
+
 ### CheckThem.com
 Find your information and opt out here:
 
@@ -95,8 +98,8 @@ Find and remove your information here:
 Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out here: [https://www.intelius.com/optout](https://www.intelius.com/optout). (Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Zabasearch, and possibly US Search.)
 
 ### ☠ 📞 MyLife
-Find your information here: [https://www.mylife.com](https://www.mylife.com/). Email your removal request to [privacy@mylife.com](mailto:privacy@mylife.com) with your name and a link to your profile. MyLife will try to get you to create an account with a copy of your driver’s license to submit a profile removal request, and we’ve received reports that emailing the info@mylife.com or removalrequests@mylife.com email addresses will require a phone call to 
-(888) 704-1900. Previously, calling that number and pressing 2 allowed you to be removed from MyLife (and Wink.com) after providing your name, age, date of birth, email address, current mailing address, and a previous mailing address, but this no longer appears to be the case. (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
+Find your information here: [https://www.mylife.com](https://www.mylife.com/). 
+Opt out using the following URL: [https://www.mylife.com/ccpa/index.pubview](https://www.mylife.com/ccpa/index.pubview). Although this is CCPA-focused, non-California folks have successfully removed their profiles. However, another option is to email your removal request to [privacy@mylife.com](mailto:privacy@mylife.com) with your name and a link to your profile. MyLife will try to get you to create an account with a copy of your driver’s license to submit a profile removal request, and we’ve received reports that emailing the info@mylife.com or removalrequests@mylife.com email addresses will require a phone call to (888) 704-1900. Previously, calling that number and pressing 2 allowed you to be removed from MyLife (and Wink.com) after providing your name, age, date of birth, email address, current mailing address, and a previous mailing address, but this no longer appears to be the case. (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
 
 ### Nuwber
 Find your information here: [https://nuwber.com/](https://nuwber.com/). Enter the URL of the profile page you found and your email address here: [https://nuwber.com/removal/link](https://nuwber.com/removal/link).
