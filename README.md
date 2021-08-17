@@ -34,11 +34,9 @@ It is hard to find your own info for free, but you can opt out here:
 
 If you don’t have an email address, call (877) 774-2094 and follow the prompts.
 
-#### Advanced Background Checks:
+#### Advanced Background Checks
 
-Remove your data here:
-
-[https://www.advancedbackgroundchecks.com/removal](https://www.advancedbackgroundchecks.com/removal)
+Search for your information here: [https://www.advancedbackgroundchecks.com/](https://www.advancedbackgroundchecks.com/). (Remember that you can leave your city and state and your age blank.) If your information shows up, remove your data here: [https://www.advancedbackgroundchecks.com/removal](https://www.advancedbackgroundchecks.com/removal)
 
 ### Archives
 To find your information, you must sign up for a free trial here:
@@ -47,9 +45,6 @@ To find your information, you must sign up for a free trial here:
 
 Opt out here: [http://www.archives.com/Optout](http://www.archives.com/Optout)
 
-#### Advanced Background Checks
-
-Search for your information here: [https://www.advancedbackgroundchecks.com/](https://www.advancedbackgroundchecks.com/). (Remember that you can leave your city and state and your age blank.) If your information shows up, remove your data here: [https://www.advancedbackgroundchecks.com/removal](https://www.advancedbackgroundchecks.com/removal)
 
 ### 🎫 BackgroundAlert
 
