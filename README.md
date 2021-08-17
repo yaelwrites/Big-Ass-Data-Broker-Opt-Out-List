@@ -11,7 +11,7 @@
 
 
 
-Please send corrections or updates to [yael.grauer@gmail.com](mailto:yael.grauer@gmail.com).
+Please send corrections or updates to [yael.grauer@gmail.com](mailto:yael.grauer@gmail.com). I will add opt-outs where users can verify that the data broker has their information before providing it, and that are not limited to GDPR/CCPA/etc.
 
 _Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, information is pulled from other sources and you’ll need to opt out multiple times for the same site. Data brokers come and go (and are bought out by others), and they also often change their opt-out pages. I try to update this ~every six months, but it’s not always current. Finally, even opting out of these sites doesn’t mean that your address is secure. In many states, real estate data and voter registration information is public (or easy to obtain). And, of course, location data can be found by physical means (e.g., following you home) and through other people who know it (i.e., social engineering). That said, removing your home address from data broker sites can significantly lower your attack surface and make it harder for people to find it. 💕_
 
@@ -110,7 +110,7 @@ Find your information here: [https://www.intelius.com](https://www.intelius.com/
 
 ### ☠ 📞 MyLife
 Find your information here: [https://www.mylife.com](https://www.mylife.com/). 
-Opt out using the following URL: [https://www.mylife.com/ccpa/index.pubview](https://www.mylife.com/ccpa/index.pubview). Although this is CCPA-focused, non-California folks have successfully removed their profiles. However, another option is to email your removal request to [privacy@mylife.com](mailto:privacy@mylife.com) with your name and a link to your profile. MyLife will try to get you to create an account with a copy of your driver’s license to submit a profile removal request, and we’ve received reports that emailing the info@mylife.com or removalrequests@mylife.com email addresses will require a phone call to (888) 704-1900. Previously, calling that number and pressing 2 allowed you to be removed from MyLife (and Wink.com) after providing your name, age, date of birth, email address, current mailing address, and a previous mailing address, but this no longer appears to be the case. (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
+Opt out using the following URL: [https://www.mylife.com/ccpa/index.pubview](https://www.mylife.com/ccpa/index.pubview). Although this is CCPA-focused, non-California folks have successfully removed their profiles. However, another option is to email your removal request to [privacy@mylife.com](mailto:privacy@mylife.com) with your name and a link to your profile. MyLife will try to get you to create an account with a copy of your driver’s license to submit a profile removal request, and we’ve received reports that emailing the [info@mylife.com](mailto:info@mylife.com) or [removalrequests@mylife.com](mailto:removalrequests@mylife.com) email addresses will require a phone call to (888) 704-1900. Previously, calling that number and pressing 2 allowed you to be removed from MyLife (and Wink.com) after providing your name, age, date of birth, email address, current mailing address, and a previous mailing address, but this no longer appears to be the case. (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
 
 ### Nuwber
 Find your information here: [https://nuwber.com/](https://nuwber.com/). Enter the URL of the profile page you found and your email address here: [https://nuwber.com/removal/link](https://nuwber.com/removal/link).
@@ -144,7 +144,7 @@ Find your information here: [https://www.publicrecordsnow.com/]. Click “opt ou
 Find your information here: [http://radaris.com](http://radaris.com/). Click on &quot;control information&quot; and &quot;remove information&quot; by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Details are here: [http://radaris.com/page/how-to-remove](http://radaris.com/page/how-to-remove)
 
 ### 💰 SearchBug
-Unfortunately, you have to sign up with a credit card to search for your information at [https://www.searchbug.com](https://www.searchbug.com/), but you can email support@searchbug.zohodesk.com to ask them to block the display of your personal information from being listed. Additional contact info is listed here: https://www.searchbug.com/contact-us.aspx.
+Unfortunately, you have to sign up with a credit card to search for your information at [https://www.searchbug.com](https://www.searchbug.com/), but you can email [support@searchbug.zohodesk.com](mailto:support@searchbug.zohodesk.com) to ask them to block the display of your personal information from being listed. Additional contact info is listed here: https://www.searchbug.com/contact-us.aspx.
 
 ### SearchPeopleFree
 FInd your information here: [https://www.searchpeoplefree.com/](https://www.searchpeoplefree.com/), making sure to search by name, phone number, address and email address: Opt out here: [https://www.searchpeoplefree.com/opt-out](https://www.searchpeoplefree.com/opt-out).
@@ -180,7 +180,7 @@ Find and remove your information here: [https://www.ussearch.com/opt-out/submit/
 Look for your number and opt out here:[https://www.usphonebook.com/opt-out/](https://www.usphonebook.com/opt-out/).
 
 ### Verecor
-Find your information at [https://verecor.com](https://verecor.com). To opt out, enter the profile URL (along with your name and email) at [https://verecor.com/ng/control/privacy](https://verecor.com/ng/control/privacy). You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email assist@verecor.com. 
+Find your information at [https://verecor.com](https://verecor.com). To opt out, enter the profile URL (along with your name and email) at [https://verecor.com/ng/control/privacy](https://verecor.com/ng/control/privacy). You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email [assist@verecor.com](mailto:assist@verecor.com). 
 
 ### VoterRecords
 Go to [VoterRecords.com](https://voterrecords.com/), find your information, scroll to the bottom of the page and click on the &quot;record opt-out&quot; link. This will lead to an opt-out form, which you’ll need to submit. You may receive a verification link you’ll need to click on to verify your opt-out request.
@@ -229,7 +229,7 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 ## Paid options
 
-[DeleteMe](https://joindeleteme.com/), [Kanary](https://www.thekanary.com/), PrivacyDuck [OneRep](https://onerep.com/), [Reputation Defender](https://www.reputationdefender.com/), and [Reputation.com](Reputation.com) all offer different opt-out services. Of those options, we recommend DeleteMe and Kanary. In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it.
+[DeleteMe](https://joindeleteme.com/), [Kanary](https://www.thekanary.com/), [OneRep](https://onerep.com/), Privacy Duck, [Removaly](https://removaly.com/), [Reputation Defender](https://www.reputationdefender.com/), and [Reputation.com](Reputation.com) all offer different opt-out services. Of these options, I have personally paid for and had good experiences with DeleteMe and Kanary. In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it. 
 
 ## Further reading
 
@@ -237,23 +237,8 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 [Here are the data brokers quietly buying and selling your personal information](https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information) (Fast Company)
 
+[New Open Source Project Automates Data Deletion Requests by Email] (https://digital-lab-wp.consumerreports.org/2021/05/12/new-open-source-project-automates-data-deletion-requests-by-email/) (Consumer Reports' Digital Lab blog)
+
 [Personal Data Removal Workbook and Credit Freeze Guide](https://inteltechniques.com/data/workbook.pdf) (Michael Bazzell)
 
 [Preliminary results are in! CCPA testers provide important insights into the landmark privacy law](https://medium.com/cr-digital-lab/preliminary-results-are-in-ccpa-testers-provide-important-insights-into-the-landmark-privacy-law-c299f733de09) (Medium/Consumer Reports)
-
-<p style="color :red;">*last updated 3/9/21: Added Clustrmaps. Removed link to PrivacyDuck and explicitly mentioned that we do not recommend it (you can see the Better Business Bureau and Yelp reviews to find out more on why)
-
-2/13/21: Updated URLs and removal details for Infotracer, Pipl, PeopleByName and Spoke
-
-12/21/20: removed Addresses.com, Addresssearch.com, Anywho, InstantPeopleFinder, PublicRecords, ZabaSearch, since they’re owned by Intelius. Added some of those names to Intelius. Removed 411 since it linked to WhitePages. Updated Classmates info. Removed extra DOB search link. Updated InfoTracer with fax number, removed phone number. Updated PeopleFinders. Updated USPhoneBook.  Removed NeighborReport, since you can’t opt out of address listings. Updated PeopleByName to search by name rather than number. Removed PeopleLooker and PeopleSmart, now owned by BeenVerified. Removed PeopleLookUp and PublicRecords360 now owned by US Search. Removed Phone Detective (now NumberGuru) and Reverse Phone Lookup as there’s no opt-out. 
-Deleted bonus link on PublicRecordsNow. Added U.S. Search. Added cost for DMA opt-out. Added EFF doxing article. Added a recommendation to Kanary.
-
-12/5/20: Updated InstantPeopleFinder, removed PeopleFinder (it probes for information and doesn’t find out much, and is owned by Intelius so that opt-out should work), removed InfoTracer fax number as it was disconnected, added an InfoTracer phone number, updated MyLife removal option, added a recommendation to Paid Removal Options. Updated AnyWho. Moved update info to the bottom of the page.
-
-8/23/20: updated opt-out link for Addresses.com
-
-7/21/20: updated link for Addresses.com
-
-6/17/20: Added SmartBackground Checks
-
-6/14/20: Added BeenVerified property search, SearchPeopleFree address search, added ID True, NeighborReport, Persopo, TruePeopleSearch, US Phone Book, VoterRecords, Xlek, removed Veromi and VerifyThem, which appear to no longer exist. 
