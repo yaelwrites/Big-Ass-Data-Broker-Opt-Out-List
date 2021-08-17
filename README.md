@@ -47,6 +47,14 @@ To find your information, you must sign up for a free trial here:
 
 Opt out here: [http://www.archives.com/Optout](http://www.archives.com/Optout)
 
+#### Advanced Background Checks
+
+Search for your information here: [https://www.advancedbackgroundchecks.com/](https://www.advancedbackgroundchecks.com/). (Remember that you can leave your city and state and your age blank.) If your information shows up, remove your data here: [https://www.advancedbackgroundchecks.com/removal](https://www.advancedbackgroundchecks.com/removal)
+
+### 🎫 BackgroundAlert
+
+Find your information and opt out here: [https://www.backgroundalert.com/optout/](https://www.backgroundalert.com/optout/).
+
 ### ☠ BeenVerified
 Find your information and opt out here:
 
@@ -111,7 +119,7 @@ Find your information here: [https://www.peekyou.com/](https://www.peekyou.com/)
 Look up your name here: [http://www.peoplebyname.com/people](http://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: http://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out for each record here: [http://www.peoplebyname.com/remove.php](http://www.peoplebyname.com/remove.php)
 
 ### ☠ PeopleFinders
-Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here:[https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes PublicRecordsNow)
+Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here:[https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes Advanced People Search and PublicRecordsNow)
 
 ### PeopleSearchNow
 Find your information and opt out here: [https://www.peoplesearchnow.com/opt-out](https://www.peoplesearchnow.com/opt-out)
