@@ -237,7 +237,7 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 [Here are the data brokers quietly buying and selling your personal information](https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information) (Fast Company)
 
-[New Open Source Project Automates Data Deletion Requests by Email] (https://digital-lab-wp.consumerreports.org/2021/05/12/new-open-source-project-automates-data-deletion-requests-by-email/) (Consumer Reports' Digital Lab blog)
+[New Open Source Project Automates Data Deletion Requests by Email](https://digital-lab-wp.consumerreports.org/2021/05/12/new-open-source-project-automates-data-deletion-requests-by-email/) (Consumer Reports' Digital Lab blog)
 
 [Personal Data Removal Workbook and Credit Freeze Guide](https://inteltechniques.com/data/workbook.pdf) (Michael Bazzell)
 
