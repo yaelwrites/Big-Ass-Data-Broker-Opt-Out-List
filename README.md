@@ -34,7 +34,7 @@ It is hard to find your own info for free, but you can opt out here:
 
 If you don’t have an email address, call (877) 774-2094 and follow the prompts.
 
-#### Advanced Background Checks
+#### ☠ Advanced Background Checks
 
 Search for your information here: [https://www.advancedbackgroundchecks.com/](https://www.advancedbackgroundchecks.com/). (Remember that you can leave your city and state and your age blank.) If your information shows up, remove your data here: [https://www.advancedbackgroundchecks.com/removal](https://www.advancedbackgroundchecks.com/removal)
 
@@ -78,12 +78,12 @@ Find your information here: [https://clustrmaps.com/] (https://clustrmaps.com). 
 ### CyberBackgroundChecks
 Find your information here: [https://www.cyberbackgroundchecks.com/](https://www.cyberbackgroundchecks.com/). If it’s listed, remove it here. [https://www.cyberbackgroundchecks.com/removal](https://www.cyberbackgroundchecks.com/removal). You will need to confirm by clicking a link sent via email. 
 
-### FamilyTreeNow
+### ☠ FamilyTreeNow
 Search for yourself and remove your information here:
 
 [https://www.familytreenow.com/optout](https://www.familytreenow.com/optout)
 
-### FastPeopleSearch
+### ☠ FastPeopleSearch
 Look for and remove your information here: [https://www.fastpeoplesearch.com/removal](https://www.fastpeoplesearch.com/removal). You may need to solve a captcha. 
 
 ### FreePeopleDirectory
@@ -140,7 +140,7 @@ Look for your info here: [https://www.privateeye.com/](https://www.privateeye.co
 ### PublicRecordsNow
 Find your information here: [https://www.publicrecordsnow.com/]. Click “opt out” on this form: [https://www.publicrecordsnow.com/static/view/contact/],  fill out the form, complete the captcha and send it in.
 
-### Radaris
+### ☠ Radaris
 Find your information here: [http://radaris.com](http://radaris.com/). Click on &quot;control information&quot; and &quot;remove information&quot; by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Details are here: [http://radaris.com/page/how-to-remove](http://radaris.com/page/how-to-remove)
 
 ### 💰 SearchBug
@@ -167,16 +167,16 @@ Opt out here: [https://www.truepeoplesearch.com/removal](https://www.truepeoples
 ### That’s Them
 Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if it shows up, try to opt out here: [https://thatsthem.com/optout](https://thatsthem.com/optout).
 
-### TruthFinder
+### ☠ TruthFinder
 Find and remove your information at [https://www.truthfinder.com/opt-out/](https://www.truthfinder.com/opt-out/). Search for your name, click &quot;remove this record,&quot; and fill out the information (your name and email address). You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). (More contact information here: [https://www.truthfinder.com/about/#contact](https://www.truthfinder.com/about/#contact).)
 
 ### USA People Search
 Find and remove your information at [https://www.usa-people-search.com/manage](https://www.usa-people-search.com/manage). 
 
-### US Search ☠
+### US Search 
 Find and remove your information here: [https://www.ussearch.com/opt-out/submit/](https://www.ussearch.com/opt-out/submit/).
 
-### USPhoneBook
+### ☠ USPhoneBook
 Look for your number and opt out here:[https://www.usphonebook.com/opt-out/](https://www.usphonebook.com/opt-out/).
 
 ### Verecor
@@ -193,7 +193,7 @@ You will need to provide a phone number and enter an opt-out code when you recei
 ### Xlek
 (formerly Cubib?) Look up your information at [https://www.xlek.com/](https://www.xlek.com/). Opt out at [https://www.xlek.com/optout.php](https://www.xlek.com/optout.php). You’ll need to submit a separate opt-out request for each item you’d like removed
 
-### ☠ � ZoomInfo
+### � ZoomInfo
 Check to see if your information is on ZoomInfo by filling out this form:[https://www.zoominfo.com/update/remove](https://www.zoominfo.com/update/remove). Opt out if it has an email on record—they will email you a code. ZoomInfo appears to have moved towards focusing primarily on business rather than individuals.
 
 ## Special Circumstances
@@ -203,7 +203,7 @@ If you’re a victim of violent crime or identity theft, it’s often possible t
 ## Preventing Identity Theft &amp; Opting Out of Marketing Sites
 
 ### 📞 Consider freezing your credit
-, which prevents creditors from accessing your credit report. (It also prevents credit, loans, and services from being approved in your name, but you will receive a pin to unfreeze your credit, if needed.) You will need to provide personal information such as your name, address, date of birth, and social security number to freeze your credit. While you can sometimes initiate this online, it’s better to do it by phone. Fees for freezing your credit [vary by state](http://consumersunion.org/research/consumers-unions-guide-to-security-freeze-protection-2/). To freeze your credit, contact:
+which prevents creditors from accessing your credit report. (It also prevents credit, loans, and services from being approved in your name, but you will receive a pin to unfreeze your credit, if needed.) You will need to provide personal information such as your name, address, date of birth, and social security number to freeze your credit. While you can sometimes initiate this online, it’s better to do it by phone. Fees for freezing your credit [vary by state](http://consumersunion.org/research/consumers-unions-guide-to-security-freeze-protection-2/). To freeze your credit, contact:
 
 - Equifax: 1 (800) 349-9960, [https://www.equifax.com/personal/credit-report-services/credit-freeze/](https://www.equifax.com/personal/credit-report-services/credit-freeze/)
 - Experian: 1 (888) 397‑3742, [https://www.experian.com/freeze/center.html](https://www.experian.com/freeze/center.html) or [https://www.experian.com/ncaconline/freeze](https://www.experian.com/ncaconline/freeze)
