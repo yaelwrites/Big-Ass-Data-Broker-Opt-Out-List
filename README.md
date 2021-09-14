@@ -229,7 +229,7 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 ## Paid options
 
-[DeleteMe](https://joindeleteme.com/), [Kanary](https://www.thekanary.com/), [OneRep](https://onerep.com/), [Removaly](https://removaly.com/), [Reputation Defender](https://www.reputationdefender.com/), and [Reputation.com](Reputation.com) all offer different opt-out services. Of these options, I have personally paid for and had good experiences with DeleteMe and Kanary. In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it. 
+[DeleteMe](https://joindeleteme.com/), [Kanary](https://www.thekanary.com/), [OneRep](https://onerep.com/), [Optery](https://www.optery.com), [Removaly](https://removaly.com/), [Reputation Defender](https://www.reputationdefender.com/), and [Reputation.com](Reputation.com) all offer different opt-out services. Of these options, I have personally paid for and had good experiences with DeleteMe and Kanary. In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it. 
 
 ## Further reading
 
