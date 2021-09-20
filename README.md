@@ -103,7 +103,7 @@ You can opt out by filling out this form: [https://www.infotracer.com/optout](ht
 ### ☠ InstantCheckmate
 Find and remove your information here:
 
-[https://www.instantcheckmate.com/opt-out/](https://www.instantcheckmate.com/opt-out/)
+[https://www.instantcheckmate.com/opt-out/v2/submit/](https://www.instantcheckmate.com/opt-out/v2/submit)
 
 ### ☠ Intelius
 Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out here: [https://www.intelius.com/optout](https://www.intelius.com/optout). (Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Zabasearch, and possibly US Search.)
@@ -168,7 +168,7 @@ Opt out here: [https://www.truepeoplesearch.com/removal](https://www.truepeoples
 Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if it shows up, try to opt out here: [https://thatsthem.com/optout](https://thatsthem.com/optout).
 
 ### ☠ TruthFinder
-Find and remove your information at [https://www.truthfinder.com/opt-out/](https://www.truthfinder.com/opt-out/). Search for your name, click &quot;remove this record,&quot; and fill out the information (your name and email address). You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). (More contact information here: [https://www.truthfinder.com/about/#contact](https://www.truthfinder.com/about/#contact).)
+Find and remove your information at [https://www.truthfinder.com/opt-out/v2/submit](https://www.truthfinder.com/opt-out/v2/submit). Search for your name, click &quot;remove this record,&quot; and fill out the information (your name and email address). You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). (More contact information here: [https://www.truthfinder.com/about/#contact](https://www.truthfinder.com/about/#contact).)
 
 ### USA People Search
 Find and remove your information at [https://www.usa-people-search.com/manage](https://www.usa-people-search.com/manage). 
