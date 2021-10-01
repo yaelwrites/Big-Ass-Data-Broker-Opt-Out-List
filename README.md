@@ -11,7 +11,7 @@
 
 
 
-Please send corrections or updates to [yael.grauer@gmail.com](mailto:yael.grauer@gmail.com). I will add opt-outs where users can verify that the data broker has their information before providing it, and that are not limited to GDPR/CCPA/etc.
+Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com). I will add opt-outs where users can verify that the data broker has their information before providing it, and that are not limited to GDPR/CCPA/etc.
 
 _Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, information is pulled from other sources and you’ll need to opt out multiple times for the same site. Data brokers come and go (and are bought out by others), and they also often change their opt-out pages. I try to update this ~every six months, but it’s not always current. Finally, even opting out of these sites doesn’t mean that your address is secure. In many states, real estate data and voter registration information is public (or easy to obtain). And, of course, location data can be found by physical means (e.g., following you home) and through other people who know it (i.e., social engineering). That said, removing your home address from data broker sites can significantly lower your attack surface and make it harder for people to find it. 💕_
 
