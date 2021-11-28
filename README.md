@@ -137,6 +137,9 @@ Go to [https://pipl.com](https://pipl.com/) to find your data. Opt out from Pipl
 ### Private Eye
 Look for your info here: [https://www.privateeye.com/](https://www.privateeye.com/static/view/optout/) Opt out here: [https://www.privateeye.com/static/view/optout/](https://www.privateeye.com/static/view/optout/). You can also skip the first part and head to the second. This site will also take you to PeopleFinders, so you can opt out of that, too.
 
+### PrivateRecords 
+Search for your name and state and opt out here:  [https://www.privaterecords.net/optOut/name/landing](https://www.privaterecords.net/optOut/name/landing).
+
 ### PublicRecordsNow
 Find your information here: [https://www.publicrecordsnow.com/]. Click “opt out” on this form: [https://www.publicrecordsnow.com/static/view/contact/],  fill out the form, complete the captcha and send it in.
 
@@ -173,6 +176,10 @@ Find and remove your information at [https://www.truthfinder.com/opt-out/v2/subm
 ### USA People Search
 Find and remove your information at [https://www.usa-people-search.com/manage](https://www.usa-people-search.com/manage). 
 
+### United States Phone Book
+Search for your information here: [https://www.unitedstatesphonebook.com/search.php](https://www.unitedstatesphonebook.com/search.php).
+If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site in this page [https://www.unitedstatesphonebook.com/contact.php](https://www.unitedstatesphonebook.com/contact.php).
+
 ### US Search 
 Find and remove your information here: [https://www.ussearch.com/opt-out/submit/](https://www.ussearch.com/opt-out/submit/).
 
@@ -198,7 +205,12 @@ Check to see if your information is on ZoomInfo by filling out this form:[https:
 
 ## Special Circumstances
 
-If you’re a victim of violent crime or identity theft, it’s often possible to opt out of information that others can’t opt out of. You may, however, need to provide court orders or other information. It may be worth checking more complete data broker lists which include those: [https://www.privacyrights.org/data-brokers](https://www.privacyrights.org/data-brokers) See this resource: [https://nnedv.org/mdocs-posts/people-searches-data-brokers/](https://nnedv.org/mdocs-posts/people-searches-data-brokers/)
+If you’re a victim of violent crime or identity theft, it’s often possible to opt out of information that others can’t opt out of. You may, however, need to provide court orders or other information. It may be worth checking more complete data broker lists which include those: [https://www.privacyrights.org/data-brokers](https://www.privacyrights.org/data-brokers) See this resource: [https://nnedv.org/mdocs-posts/people-searches-data-brokers/](https://nnedv.org/mdocs-posts/people-searches-data-brokers/).
+
+If you are experiencing or have experienced domestic violence, sexual abuse, or stalking, you may be able to keep your address private through state programs that provide a substitute address and mail forwarding. To see if a program exists in your state, look up “address confidentiality program” along with the name of your state in a search engine.
+
+If you are a healthcare worker with a National Provider Index (NPI) number, your personal cell phone number or home address may be showing up on various online directories and websites because they were listed as primary contact information when you filled out your NPI profile (or when someone else filled it out on your behalf).
+Look up your information here: [https://opennpi.com/provider/](https://opennpi.com/provider/). You can update or remove information by filling out this form: [https://opennpi.com/contact](https://opennpi.com/contact). You’ll also need to reach out to any sites aggregating this data, like Doximity, where you may be able to edit or delete your profile. 
 
 ## Preventing Identity Theft &amp; Opting Out of Marketing Sites
 
@@ -229,7 +241,7 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 ## Paid options
 
-[DeleteMe](https://joindeleteme.com/), [Kanary](https://www.thekanary.com/), [OneRep](https://onerep.com/), [Optery](https://www.optery.com), [Removaly](https://removaly.com/), [Reputation Defender](https://www.reputationdefender.com/), and [Reputation.com](Reputation.com) all offer different opt-out services. Of these options, I have personally paid for and had good experiences with DeleteMe and Kanary. In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it. 
+[Brand Yourself](https://brandyourself.com/), [DeleteMe](https://joindeleteme.com/), [DeleteMeNow](https://deletemenow.com/), [EasyOptOuts](https://easyoptouts.com/), [IDX Privacy](https://www.idx.us/idx-privacy), [Kanary](https://www.thekanary.com/), [OneRep](https://onerep.com/), [Optery](https://www.optery.com), [Privacy Pros](https://privacypros.io/), [Spartacus](https://spartacus.com), [Removaly](https://removaly.com/), [Reputation Defender](https://www.reputationdefender.com/), and [Reputation.com](Reputation.com) all offer different opt-out services. Of these options, I have personally paid for and had good experiences with DeleteMe and Kanary. In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it. 
 
 ## Further reading
 
