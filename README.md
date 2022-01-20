@@ -158,6 +158,9 @@ Find your information here: [https://www.searchquarry.com/](https://www.searchqu
 ### SmartBackground Checks
 Find your information here: [https://www.smartbackgroundchecks.com/](https://www.smartbackgroundchecks.com/). Opt out here: [https://www.smartbackgroundchecks.com/optout](https://www.smartbackgroundchecks.com/optout)
 
+### Social Catfish
+Find your information here: [https://socialcatfish.com/](https://socialcatfish.com). Record the URL of each page that has your information. Then, go to [https://socialcatfish.com/opt-out/](https://socialcatfish.com) and scroll down to the instructions for removing URLs, email, phone number, and address. (Make sure to only ask for information to be removed if you already see it on the site.) You’ll need to provide your email address and click on a confirmation link to complete the opt-out process.
+
 ### Spoke
 Find your information here:[http://www.spoke.com/](http://www.spoke.com/). Find the “people site map” on the bottom, and it’ll take you here (with a different initial at the end, depending on your last name): https://www.spoke.com/dir/people/name/a. Click the links to search for your last name. Then do the same for your first name. You will get to a results page. Click each name listing, and suppress it by clicking the "Request Removal" link at the bottom of the page, entering the URL in the contact form it takes you to, and providing your email address. You can also email your removal request to [feedback@readwritelabs.com](mailto:feedback@readwritelabs.com). Unfortunately, Spoke’s opt-out page is not be working—its link from the FAQ page is dead.
 
