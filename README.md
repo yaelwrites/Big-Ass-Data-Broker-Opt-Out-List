@@ -87,7 +87,7 @@ Search for yourself and remove your information here:
 Look for and remove your information here: [https://www.fastpeoplesearch.com/removal](https://www.fastpeoplesearch.com/removal). You may need to solve a captcha. 
 
 ### FreePeopleDirectory
-Search for your information at ]https://www.freepeopledirectory.com](https://www.freepeopledirectory.com). If you find it, you can opt out on Spokeo at [https://www.spokeo.com/privacy/control](https://www.spokeo.com/privacy/control). 
+Search for your information at [https://www.freepeopledirectory.com](https://www.freepeopledirectory.com). If you find it, you can opt out on Spokeo at [https://www.spokeo.com/privacy/control](https://www.spokeo.com/privacy/control). 
 
 ### Homemetry
 Look for your home address here: [https://homemetry.com/](https://homemetry.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
@@ -198,7 +198,7 @@ Go to [VoterRecords.com](https://voterrecords.com/), find your information, scro
 ### ☠ 📞 White Pages
 Find your information here: [https://www.whitepages.com/](https://www.whitepages.com/), and then opt out here: [https://www.whitepages.com/suppression_requests](https://www.whitepages.com/suppression_requests)
 
-You will need to provide a phone number and enter an opt-out code when you receive the phone call. Opt-out information is available here: [https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing)-. You can also send a request here [https://support.whitepages.com/hc/en-us/requests/new](https://support.whitepages.com/hc/en-us/requests/new). (Including multiple options because these sites have a tendency to disappear.) Sometimes, information is removed from White Pages but not White Pages Premium, so make sure to double-check for your listing. Also, White Pages also owns [411.com](https://www.411.com/), so check for your information there. The opt-out is the same.
+You will need to provide a phone number and enter an opt-out code when you receive the phone call. Opt-out information is available here: [https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing). You can also send a request here [https://support.whitepages.com/hc/en-us/requests/new](https://support.whitepages.com/hc/en-us/requests/new). (Including multiple options because these sites have a tendency to disappear.) Sometimes, information is removed from White Pages but not White Pages Premium, so make sure to double-check for your listing. Also, White Pages also owns [411.com](https://www.411.com/), so check for your information there. The opt-out is the same.
 
 ### Xlek
 (formerly Cubib?) Look up your information at [https://www.xlek.com/](https://www.xlek.com/). Opt out at [https://www.xlek.com/optout.php](https://www.xlek.com/optout.php). You’ll need to submit a separate opt-out request for each item you’d like removed
