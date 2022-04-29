@@ -11,15 +11,20 @@
 
 
 
-Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com). I will add opt-outs where users can verify that the data broker has their information before providing it, and that are not limited to GDPR/CCPA/etc.
+Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com). I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
 _Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, information is pulled from other sources and you’ll need to opt out multiple times for the same site. Data brokers come and go (and are bought out by others), and they also often change their opt-out pages. I try to update this ~every six months, but it’s not always current. Finally, even opting out of these sites doesn’t mean that your address is secure. In many states, real estate data and voter registration information is public (or easy to obtain). And, of course, location data can be found by physical means (e.g., following you home) and through other people who know it (i.e., social engineering). That said, removing your home address from data broker sites can significantly lower your attack surface and make it harder for people to find it. 💕_
 
 ## Search Engines
 If you've been doxed, you can remove your contact info from Google Search and Bing.
 
-[https://support.google.com/websearch/answer/9554939?hl=en](https://support.google.com/websearch/answer/9554939?hl=en)
+[https://support.google.com/websearch/answer/9554939?hl=en](https://support.google.com/websearch/answer/9554939)
+
 [https://www.microsoft.com/en-ca/concern/bing](https://www.microsoft.com/en-ca/concern/bing)
+
+Google further allows you to remove non-consensual or intimate personal images, involuntary fake pornography, irrelevant pornography from Google search results for your name, content about you on sites with exploitative removal practices, and several other categories of information.
+
+[https://support.google.com/websearch/troubleshooter/3111061](https://support.google.com/websearch/troubleshooter/3111061)
 
 ## People Search Sites
 
@@ -162,7 +167,7 @@ Find your information here: [https://www.smartbackgroundchecks.com/](https://www
 Find your information here: [https://socialcatfish.com/](https://socialcatfish.com). Record the URL of each page that has your information. Then, go to [https://socialcatfish.com/opt-out/](https://socialcatfish.com) and scroll down to the instructions for removing URLs, email, phone number, and address. (Make sure to only ask for information to be removed if you already see it on the site.) You’ll need to provide your email address and click on a confirmation link to complete the opt-out process.
 
 ### Spoke
-Find your information here:[http://www.spoke.com/](http://www.spoke.com/). Find the “people site map” on the bottom, and it’ll take you here (with a different initial at the end, depending on your last name): https://www.spoke.com/dir/people/name/a. Click the links to search for your last name. Then do the same for your first name. You will get to a results page. Click each name listing, and suppress it by clicking the "Request Removal" link at the bottom of the page, entering the URL in the contact form it takes you to, and providing your email address. You can also email your removal request to [feedback@readwritelabs.com](mailto:feedback@readwritelabs.com). Unfortunately, Spoke’s opt-out page is not be working—its link from the FAQ page is dead.
+Find your information here:[http://www.spoke.com/](http://www.spoke.com/). Find the “people site map” on the bottom, and it’ll take you here (with a different initial at the end, depending on your last name): https://www.spoke.com/dir/people/name/a. Click the links to search for your last name. Then do the same for your first name. You will get to a results page. Click each name listing, and suppress it by clicking the "Request Removal" link at the bottom of the page, entering the URL in the contact form it takes you to, and providing your email address. You can also email your removal request to [feedback@readwritelabs.com](mailto:feedback@readwritelabs.com). Unfortunately, Spoke’s opt-out page is working—its link from the FAQ page is dead.
 
 ### ☠ Spokeo
 Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout)
