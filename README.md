@@ -18,7 +18,7 @@ _Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, 
 ## Search Engines
 If you've been doxed, you can remove your contact info from Google Search and Bing.
 
-[https://support.google.com/websearch/answer/9554939?hl=en](https://support.google.com/websearch/answer/9554939)
+[https://support.google.com/websearch/answer/9554939](https://support.google.com/websearch/answer/9554939)
 
 [https://www.microsoft.com/en-ca/concern/bing](https://www.microsoft.com/en-ca/concern/bing)
 
