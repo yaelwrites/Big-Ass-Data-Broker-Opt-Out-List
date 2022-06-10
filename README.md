@@ -3,9 +3,7 @@
 | Symbols | Meanings                                             |
 | ------- | ---------------------------------------------------- |
 | ☠       | high priority                                        |
-| 🎫      | requires driver’s license (cross out your ID #!) |
-| 📞      | must pick up a (gasp!) phone                         |
-| 📠      | must go back in time and find a fax machine          |
+| 🎫      | requires driver’s license (cross out your ID #!)     |
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
@@ -67,11 +65,6 @@ Opt out of property search here:
 ### CheckPeople
 Look for your contact info here: [https://checkpeople.com/](https://checkpeople.com/). If it shows up, opt out here: [https://checkpeople.com/do-not-sell-info](https://checkpeople.com/do-not-sell-info). You will need to fill out a form and captcha, select the record for removal, fill out your name and email, and solve another captcha. You will receive an email which will require you to confirm your opt-out request. 
 
-### CheckThem.com
-Find your information and opt out here:
-
-[https://www.checkthem.com/optout/](https://www.checkthem.com/optout/). You will receive a link via email you’ll need to click on to complete the process.
-
 ### Classmates.com
 Cancel your free or paid membership following the instructions here: 
 
@@ -79,6 +72,9 @@ Cancel your free or paid membership following the instructions here:
 
 ### ClustrMaps
 Find your information here: [https://clustrmaps.com/] (https://clustrmaps.com). To remove it, go here: [https://clustrmaps.com/bl/opt-out](https://clustrmaps.com/bl/opt-out). It will ask you for a mailing address, but doesn’t seem to verify it. It will then ask you to check off anything associated with your account that you want removed.
+
+### CocoFinder
+Look for your information here: [https://cocofinder.com/search](https://cocofinder.com/search). Opt out here: [https://cocofinder.com/remove-my-info](https://cocofinder.com/remove-my-info). It will send you to this Google form: [https://docs.google.com/forms/d/e/1FAIpQLScEgLH9ro7oQR4c0V9E19ug1Gb7wVMrFFSj0Sgx4sjba_ET4Q/viewform](https://docs.google.com/forms/d/e/1FAIpQLScEgLH9ro7oQR4c0V9E19ug1Gb7wVMrFFSj0Sgx4sjba_ET4Q/viewform).
 
 ### CyberBackgroundChecks
 Find your information here: [https://www.cyberbackgroundchecks.com/](https://www.cyberbackgroundchecks.com/). If it’s listed, remove it here. [https://www.cyberbackgroundchecks.com/removal](https://www.cyberbackgroundchecks.com/removal). You will need to confirm by clicking a link sent via email. 
@@ -123,14 +119,17 @@ Find your information here: [https://nuwber.com/](https://nuwber.com/). Enter th
 ### ☠ PeekYou
 Find your information here: [https://www.peekyou.com/](https://www.peekyou.com/) , opt out here: [https://www.peekyou.com/about/contact/optout](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the &quot;unique ID&quot; field. Make sure to check &quot;remove my entire listing.&quot; You can also remove your information from the sites that it says it has aggregated information from.
 
-### 💰 PeopleByName
+### PeopleByName
 Look up your name here: [http://www.peoplebyname.com/people](http://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: http://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out for each record here: [http://www.peoplebyname.com/remove.php](http://www.peoplebyname.com/remove.php)
 
 ### ☠ PeopleFinders
 Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here:[https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes Advanced People Search and PublicRecordsNow)
 
 ### PeopleSearchNow
-Find your information and opt out here: [https://www.peoplesearchnow.com/opt-out](https://www.peoplesearchnow.com/opt-out)
+Find your information and opt out here: [https://www.peoplesearchnow.com/opt-out](https://www.peoplesearchnow.com/opt-out).
+
+### PeopleSearchSite
+PLook for your information here: [https://www.peoplesearchsite.com](https://www.peoplesearchsite.com). Opt out by clicking the link at the bottom of the profile you want to remove. You can also try emailing [info@peoplesearchsite.com](mailto:info@peoplesearchsite.com).
 
 ### Persopo
 Search for your information here: [https://persopo.com/search](https://persopo.com/search). Cut and paste the text of it (which is hard to do because of the 1990s site format, but is required by the site) and email it along with your opt-out request to[support@persopo.com](mailto:support@persopo.com). You can also mail your request to Persopo.com,
@@ -151,8 +150,11 @@ Find your information here: [https://www.publicrecordsnow.com/]. Click “opt ou
 ### ☠ Radaris
 Find your information here: [http://radaris.com](http://radaris.com/). Click on &quot;control information&quot; and &quot;remove information&quot; by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Details are here: [http://radaris.com/page/how-to-remove](http://radaris.com/page/how-to-remove)
 
+### Rehold
+Look up your home address here: [https://rehold.com/](https://rehold.com/). If there is a number or name next to it you’d like removed, click on  the red “remove” button next to it. You will need to enter your name and email address and solve a captcha.
+
 ### 💰 SearchBug
-Unfortunately, you have to sign up with a credit card to search for your information at [https://www.searchbug.com](https://www.searchbug.com/), but you can email [support@searchbug.zohodesk.com](mailto:support@searchbug.zohodesk.com) to ask them to block the display of your personal information from being listed. Additional contact info is listed here: https://www.searchbug.com/contact-us.aspx.
+Unfortunately, you have to sign up with a credit card to search for your information at [https://www.searchbug.com](https://www.searchbug.com/), though your first search is free. You can contact SearchBug using the contact form or chat link on this page [https://www.searchbug.com/contact-us.aspx](https://www.searchbug.com/contact-us.aspx) or via phone or text at (760) 652-4050 or via fax at (760) 454-7341 to to ask them to block the display of your personal information. 
 
 ### SearchPeopleFree
 FInd your information here: [https://www.searchpeoplefree.com/](https://www.searchpeoplefree.com/), making sure to search by name, phone number, address and email address: Opt out here: [https://www.searchpeoplefree.com/opt-out](https://www.searchpeoplefree.com/opt-out).
@@ -170,16 +172,24 @@ Find your information here: [https://socialcatfish.com/](https://socialcatfish.c
 Find your information here:[http://www.spoke.com/](http://www.spoke.com/). Find the “people site map” on the bottom, and it’ll take you here (with a different initial at the end, depending on your last name): https://www.spoke.com/dir/people/name/a. Click the links to search for your last name. Then do the same for your first name. You will get to a results page. Click each name listing, and suppress it by clicking the "Request Removal" link at the bottom of the page, entering the URL in the contact form it takes you to, and providing your email address. You can also email your removal request to [feedback@readwritelabs.com](mailto:feedback@readwritelabs.com). Unfortunately, Spoke’s opt-out page is working—its link from the FAQ page is dead.
 
 ### ☠ Spokeo
-Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout)
+Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout).
+
+### SpyFly
+Look for your data here: [https://www.spyfly.com](https://www.spyfly.com. Opt out here: [https://www.spyfly.com/help-center/remove-my-public-record](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing [support@spyfly.com](mailto:support@spyfly.com). You’ll need to provide your name, age, address, and email address. As always, we recommend not providing information any service with any information it does not already have.
 
 ### TruePeopleSearch
 Opt out here: [https://www.truepeoplesearch.com/removal](https://www.truepeoplesearch.com/removal).
 
 ### That’s Them
-Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if it shows up, try to opt out here: [https://thatsthem.com/optout](https://thatsthem.com/optout).
+Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if it shows up, try to opt out here: [https://thatsthem.com/optout](https://thatsthem.com/optout). Do not click on the Dataseal.io link, which is a paid product.
 
 ### ☠ TruthFinder
 Find and remove your information at [https://www.truthfinder.com/opt-out/v2/submit](https://www.truthfinder.com/opt-out/v2/submit). Search for your name, click &quot;remove this record,&quot; and fill out the information (your name and email address). You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). (More contact information here: [https://www.truthfinder.com/about/#contact](https://www.truthfinder.com/about/#contact).)
+
+### Unmask 
+Look for your data here: [https://unmask.com/](https://unmask.com/).
+Opt out here: [https://unmask.com/opt-out/](https://unmask.com/opt-out/).
+
 
 ### USA People Search
 Find and remove your information at [https://www.usa-people-search.com/manage](https://www.usa-people-search.com/manage). 
