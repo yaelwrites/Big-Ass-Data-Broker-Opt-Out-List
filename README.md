@@ -44,8 +44,8 @@ Search for your information here: [https://www.advancedbackgroundchecks.com/](ht
 ### Archives
 To find your information, you must sign up for a free trial here:
 
-[https://www.archives.com/search/ancestor/checkout](https://www.archives.com/search/ancestor/checkout)(and then cancel)
-
+[https://www.archives.com/search/ancestor/checkout](https://www.archives.com/search/ancestor/checkout)  
+Cancel here: [https://www.archives.com/account/cancel](https://www.archives.com/account/cancel)  
 Opt out here: [http://www.archives.com/Optout](http://www.archives.com/Optout)
 
 
