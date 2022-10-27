@@ -7,7 +7,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-
+This list was started as a Google Doc on September 29, 2017 and was most recently updated on October 26, 2022 to include a link with a link that has more comprehensive information on removing your information from Google.
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com). I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
@@ -16,7 +16,7 @@ _Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, 
 ## Search Engines
 If you've been doxed, you can remove your contact info from Google Search and Bing.
 
-[https://support.google.com/websearch/answer/9554939](https://support.google.com/websearch/answer/9554939)
+[https://support.google.com/websearch/troubleshooter/3111061](https://support.google.com/websearch/troubleshooter/3111061)
 
 [https://www.microsoft.com/en-ca/concern/bing](https://www.microsoft.com/en-ca/concern/bing)
 
