@@ -7,7 +7,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list was started as a Google Doc on September 29, 2017 and was most recently updated on October 26, 2022 to include a link with a link that has more comprehensive information on removing your information from Google.
+This list was started on September 29, 2017 and was most recently updated on February 4, 2023 to move Instant Checkmate information under Intelius, to add Locate People, and to remove a now-defunct paid option for opt-outs. We also added information on People Search Site, which charges money for removal (whaaaat?) and appears to have a non-functional email address.
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com). I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
