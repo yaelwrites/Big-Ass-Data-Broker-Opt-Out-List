@@ -77,7 +77,7 @@ Cancel your free or paid membership following the instructions here:
 [https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-).
 
 ### ClustrMaps
-Find your information here: [https://clustrmaps.com/] (https://clustrmaps.com). To remove it, go here: [https://clustrmaps.com/bl/opt-out](https://clustrmaps.com/bl/opt-out). It will ask you for a mailing address, but doesn’t seem to verify it. It will then ask you to check off anything associated with your account that you want removed.
+Find your information here: [https://clustrmaps.com/](https://clustrmaps.com). To remove it, go here: [https://clustrmaps.com/bl/opt-out](https://clustrmaps.com/bl/opt-out). It will ask you for a mailing address, but doesn’t seem to verify it. It will then ask you to check off anything associated with your account that you want removed.
 
 ### CocoFinder
 Look for your information here: [https://cocofinder.com/search](https://cocofinder.com/search). Opt out here: [https://cocofinder.com/remove-my-info](https://cocofinder.com/remove-my-info). It will send you to this Google form: [https://docs.google.com/forms/d/e/1FAIpQLScEgLH9ro7oQR4c0V9E19ug1Gb7wVMrFFSj0Sgx4sjba_ET4Q/viewform](https://docs.google.com/forms/d/e/1FAIpQLScEgLH9ro7oQR4c0V9E19ug1Gb7wVMrFFSj0Sgx4sjba_ET4Q/viewform).
