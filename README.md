@@ -214,7 +214,7 @@ Look for your number and opt out here:[https://www.usphonebook.com/opt-out/](htt
 ### Verecor
 Find your information at [https://verecor.com](https://verecor.com). To opt out, enter the profile URL (along with your name and email) at [https://verecor.com/ng/control/privacy](https://verecor.com/ng/control/privacy). You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email [assist@verecor.com](mailto:assist@verecor.com). 
 
-###Vericora
+### Vericora
 Find your information here: [https://vericora.com/profile/search](https://vericora.com/profile/search). Opt out here: [https://vericora.com/ng/control/privacy](https://vericora.com/ng/control/privacy).  
 
 ### VoterRecords
@@ -243,7 +243,7 @@ Look up your information here: [https://opennpi.com/provider/](https://opennpi.c
 ## Preventing Identity Theft & Opting Out of Marketing Sites
 
 ### 📞 Consider freezing your credit
-which prevents creditors from accessing your credit report. (It also prevents credit, loans, and services from being approved in your name, but you will receive a pin to unfreeze your credit, if needed.) You will need to provide personal information such as your name, address, date of birth, and social security number to freeze your credit. While you can sometimes initiate this online, it’s better to do it by phone. Fees for freezing your credit [vary by state](http://consumersunion.org/research/consumers-unions-guide-to-security-freeze-protection-2/). To freeze your credit, contact:
+which prevents creditors from accessing your credit report. (It also prevents credit, loans, and services from being approved in your name, but you will receive a pin to unfreeze your credit, if needed.) You will need to provide personal information such as your name, address, date of birth, and social security number to freeze your credit. While you can sometimes initiate this online, it’s better to do it by phone. Fees for freezing your credit [vary by state](https://advocacy.consumerreports.org/research/consumers-unions-guide-to-security-freeze-protection-2/). To freeze your credit, contact:
 
 - Equifax: 1 (800) 349-9960, [https://www.equifax.com/personal/credit-report-services/credit-freeze/](https://www.equifax.com/personal/credit-report-services/credit-freeze/)
 - Experian: 1 (888) 397‑3742, [https://www.experian.com/freeze/center.html](https://www.experian.com/freeze/center.html).
