@@ -7,7 +7,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list was started on September 29, 2017 and was most recently updated in February 2023 to move Instant Checkmate information under Intelius, to add Locate People, and to remove a now-defunct paid option for opt-outs. We also added information on People Search Site, which charges money for removal (whaaaat?) and appears to have a non-functional email address. We also added Vericora, fixed dead links, removed information on deprecated services, and made some other minor fixes.
+This list was started on September 29, 2017 and was most recently updated in February 2023 to move Instant Checkmate information under Intelius, to add Locate People, and to remove a now-defunct paid option for opt-outs. We also added information on People Search Site, which charges money for removal (whaaaat?) and appears to have a non-functional email address. We added Dataveria, Glad I Know, PublicDataUSA, and Vericora. We updated opt-out links for Acxiom, Intelius, and others. We also fixed dead links, removed information on deprecated services, and made some other minor fixes. 
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com). Screenshots in emails are incredibly helpful. I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
@@ -85,6 +85,9 @@ Look for your information here: [https://cocofinder.com/search](https://cocofind
 ### CyberBackgroundChecks
 Find your information here: [https://www.cyberbackgroundchecks.com/](https://www.cyberbackgroundchecks.com/). If it’s listed, remove it here. [https://www.cyberbackgroundchecks.com/removal](https://www.cyberbackgroundchecks.com/removal). You will need to confirm by clicking a link sent via email. 
 
+### Dataveria
+Find your information here: [https://dataveria.com/](https://dataveria.com/). Opt out by entering the specific profile URL you find here: [https://dataveria.com/ng/control/privacy](https://dataveria.com/ng/control/privacy). 
+
 ### ☠ FamilyTreeNow
 Search for yourself and remove your information here:
 
@@ -95,6 +98,9 @@ Look for and remove your information here: [https://www.fastpeoplesearch.com/rem
 
 ### FreePeopleDirectory
 Search for your information at [https://www.freepeopledirectory.com](https://www.freepeopledirectory.com). If you find it, you can opt out on Spokeo at [https://www.spokeo.com/privacy/control](https://www.spokeo.com/privacy/control). Make sure to scroll down to the grammatically incorrect “opt out your information” section.
+
+### Glad I Know
+Find your information here: [https://gladiknow.com/](https://gladiknow.com/). Follow these instructions to remove your data: [https://gladiknow.com/opt-out](https://gladiknow.com/opt-out). You can remove your information without downloading your free report, and email [support@gladiknow.com](mailto:support@gladiknow.com) for assistance.
 
 ### Homemetry
 Look for your home address here: [https://homemetry.com/](https://homemetry.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
@@ -108,7 +114,7 @@ Find your information here: [https://www.infotracer.com/](https://www.infotracer
 You can opt out by filling out this form: [https://www.infotracer.com/optout](https://www.infotracer.com/optout). You can also mail in this form: [https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946. 
 
 ### ☠ Intelius
-Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out here: [https://www.intelius.com/optout](https://www.intelius.com/optout). (Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Zabasearch, and possibly US Search.)
+Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out here: [https://www.intelius.com/suppression-center](https://www.intelius.com/suppression-center). You will need to enter your birthdate and any information you want suppressed, and you’ll also have to confirm your email address and enter a verification code emailed to you. (Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, US Search, and Zabasearch.)
 
 ### LocatePeople
 Find your information and Record ID here: [https://www.locatepeople.org/](https://www.locatepeople.org/). Opt out here with your Record ID: [https://www.locatepeople.org/optout/](https://www.locatepeople.org/optout/)
@@ -149,7 +155,10 @@ Go to [https://pipl.com](https://pipl.com/) to find your data. Opt out from Pipl
 Look for your info here: [https://www.privateeye.com/](https://www.privateeye.com/static/view/optout/) Opt out here: [https://www.privateeye.com/static/view/optout/](https://www.privateeye.com/static/view/optout/). You can also skip the first part and head to the second. This site will also take you to PeopleFinders, so you can opt out of that, too.
 
 ### PrivateRecords 
-Search for your name and state and opt out here:  [https://www.privaterecords.net/optOut/name/landing](https://www.privaterecords.net/optOut/name/landing).
+Search for your name and state and opt out here: [https://www.privaterecords.net/optOut/name/landing](https://www.privaterecords.net/optOut/name/landing).
+
+### PublicDataUSA
+Find your information here: [https://www.publicdatausa.com/optout.php](https://www.publicdatausa.com/optout.php). Then, select the items you’d like removed, and fill out the form at the bottom of the page.
 
 ### PublicRecordsNow
 Find your information here: [https://www.publicrecordsnow.com/]. Click on the orange “click here to opt out” button on  [https://www.publicrecordsnow.com/static/view/contact/](https://www.publicrecordsnow.com/static/view/contact/), fill out the form, complete the captcha and send it in.
@@ -192,7 +201,7 @@ Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if
 
 ### ☠ TruthFinder
 First, request your public data at [https://www.truthfinder.com/suppression-center](https://www.truthfinder.com/suppression-center). Then, fill out a suppression request form.
-Find and remove your information at [https://www.truthfinder.com/opt-out/v2/submit](https://www.truthfinder.com/opt-out/v2/submit). You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). You can also contact TruthFinder by filling out a web form at [https://www.truthfinder.com/contact/](https://www.truthfinder.com/contact/).
+Find and remove your information at [https://www.truthfinder.com/opt-out/v2/submit](https://www.truthfinder.com/opt-out/v2/submit). You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). You can also contact TruthFinder by filling out a web form at [https://www.truthfinder.com/contact/](https://www.truthfinder.com/contact/). If you are working through this list, you may have already removed this data at Intelius’ suppression center site.
 
 ### Unmask 
 Look for your data here: [https://unmask.com/](https://unmask.com/).
@@ -206,7 +215,7 @@ Search for your information here: [https://www.unitedstatesphonebook.com/search.
 If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site in this page [https://www.unitedstatesphonebook.com/contact.php](https://www.unitedstatesphonebook.com/contact.php).
 
 ### US Search 
-First, you must request your public data. Then you can apply to have the information removed. The form for both is here: [https://www.ussearch.com/suppression-center/](https://www.ussearch.com/suppression-center/).
+First, you must request your public data. Then you can apply to have the information removed. The form for both is here: [https://www.ussearch.com/suppression-center/](https://www.ussearch.com/suppression-center/). If you are working through this list, you may have already removed this data at Intelius’ suppression center site.
 
 ### ☠ USPhoneBook
 Look for your number and opt out here:[https://www.usphonebook.com/opt-out/](https://www.usphonebook.com/opt-out/).
