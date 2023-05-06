@@ -9,9 +9,11 @@
 
 This list was started on September 29, 2017 and was most recently updated in March 2023 to add some direct mail removal services, and in February 2023 to move Instant Checkmate information under Intelius, to add Locate People, and to remove a now-defunct paid option for opt-outs. We also added information on People Search Site, which charges money for removal (whaaaat?) and appears to have a non-functional email address. We added Dataveria, Glad I Know, PublicDataUSA, and Vericora. We updated opt-out links for Acxiom, Intelius, and others. We also fixed dead links, removed information on deprecated services, and made some other minor fixes. 
 
-Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com). Screenshots in emails are incredibly helpful. I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
+Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. Screenshots in emails are incredibly helpful. I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
 _Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, information is pulled from other sources and you’ll need to opt out multiple times for the same site. Data brokers come and go (and are bought out by others), and they also often change their opt-out pages. I try to update this ~every six months, but it’s not always current. Finally, even opting out of these sites doesn’t mean that your address is secure. In many states, real estate data and voter registration information is public (or easy to obtain). And, of course, location data can be found by physical means (e.g., following you home) and through other people who know it (i.e., social engineering). That said, removing your home address from data broker sites can significantly lower your attack surface and make it harder for people to find it. 💕_
+
+CC BY-NC-SA: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. 
 
 ## Search Engines
 If you've been doxed, you can remove your contact info from Google Search and Bing.
@@ -68,6 +70,8 @@ Find your information and opt out here:
 Opt out of property search here:
 
 [https://www.beenverified.com/app/optout/address-search](https://www.beenverified.com/app/optout/address-search)
+
+BeenVerified also owns PeopleLooker and PeopleSmart.
 
 ### CheckPeople
 Look for your contact info here: [https://checkpeople.com/](https://checkpeople.com/). If it shows up, opt out here: [https://checkpeople.com/do-not-sell-info](https://checkpeople.com/do-not-sell-info). You will need to fill out a form and captcha, select the record for removal, fill out your name and email, and solve another captcha. You will receive an email which will require you to confirm your opt-out request. 
@@ -130,7 +134,7 @@ Search for your name, address or phone number at [https://neighbor.report/](http
 Find your information here: [https://nuwber.com/](https://nuwber.com/). Enter the URL of the profile page you found and your email address here: [https://nuwber.com/removal/link](https://nuwber.com/removal/link).
 
 ### ☠ PeekYou
-Find your information here: [https://www.peekyou.com/](https://www.peekyou.com/) , opt out here: [https://www.peekyou.com/about/contact/optout](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the &quot;unique ID&quot; field. Make sure to check &quot;remove my entire listing.&quot; You can also remove your information from the sites that it says it has aggregated information from.
+Find your information here:[https://www.peekyou.com/](https://www.peekyou.com/), opt out here: [https://www.peekyou.com/about/contact/optout](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the &quot;unique ID&quot; field. Make sure to check &quot;remove my entire listing.&quot; You can also remove your information from the sites that it says it has aggregated information from.
 
 ### PeopleByName
 Look up your name here: [http://www.peoplebyname.com/people](http://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: http://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out for each record here: [http://www.peoplebyname.com/remove.php](http://www.peoplebyname.com/remove.php). This site, unfortunately, does not support HTTPS.
@@ -146,7 +150,7 @@ PLook for your information here: [https://www.peoplesearchsite.com](https://www.
 
 ### Persopo
 Search for your information here: [https://persopo.com/search](https://persopo.com/search). Cut and paste the text of it (which is hard to do because of the 1990s site format, but is required by the site) and email it along with your opt-out request to[support@persopo.com](mailto:support@persopo.com). You can also mail your request to Persopo.com,
-Attention: Opt Out Dept., 848 N. Rainbow Blvd., Suite 20, Las Vegas, NV 89107. (Opt-out instructions are posted here: [http://info.persopo.com/opt-out.html](http://info.persopo.com/opt-out.html)—this site unfortunately does not use HTTPS.
+Attention: Opt Out Dept., 848 N. Rainbow Blvd., Suite 20, Las Vegas, NV 89107. (Opt-out instructions are posted here: [http://info.persopo.com/opt-out.html](http://info.persopo.com/opt-out.html)—this site unfortunately does not use HTTPS).
 
 ### ☠ Pipl
 Go to [https://pipl.com](https://pipl.com/) to find your data. Opt out from Pipl at [https://pipl.com/personal-information-removal-request](https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at [support@pipl.com] (mailto:support@pipl.com).
@@ -173,7 +177,7 @@ Look up your home address here: [https://rehold.com/](https://rehold.com/). If t
 Unfortunately, you have to sign up with a credit card to search for your information at [https://www.searchbug.com](https://www.searchbug.com/), though your first search is free. You can contact SearchBug using the contact form or chat link on this page [https://www.searchbug.com/contact-us.aspx](https://www.searchbug.com/contact-us.aspx) or via phone or text at (760) 652-4050 or via fax at (760) 454-7341 to to ask them to block the display of your personal information. 
 
 ### SearchPeopleFree
-FInd your information here: [https://www.searchpeoplefree.com/](https://www.searchpeoplefree.com/), making sure to search by name, phone number, address and email address: Opt out here: [https://www.searchpeoplefree.com/opt-out](https://www.searchpeoplefree.com/opt-out).
+Find your information here: [https://www.searchpeoplefree.com/](https://www.searchpeoplefree.com/), making sure to search by name, phone number, address and email address: Opt out here: [https://www.searchpeoplefree.com/opt-out](https://www.searchpeoplefree.com/opt-out).
 
 ### SearchQuarry
 Find your information here: [https://www.searchquarry.com/](https://www.searchquarry.com/). If it’s listed, opt out here: [https://www.searchquarry.com/opt-out/](https://www.searchquarry.com/opt-out/) You will need to click the verification link in your inbox to finalize the opt out.
@@ -185,7 +189,7 @@ Find your information here: [https://www.smartbackgroundchecks.com/](https://www
 Find your information here: [https://socialcatfish.com/](https://socialcatfish.com). Record the URL of each page that has your information. Then, go to [https://socialcatfish.com/opt-out/](https://socialcatfish.com) and scroll down to the instructions for removing URLs, email, phone number, and address. (Make sure to only ask for information to be removed if you already see it on the site.) You’ll need to provide your email address and click on a confirmation link to complete the opt-out process.
 
 ### Spoke
-Find your information here:[http://www.spoke.com/](http://www.spoke.com/). Find the “people site map” on the bottom, and it’ll take you here (with a different initial at the end, depending on your last name): https://www.spoke.com/dir/people/name/a. Click the links to search for your last name. Then do the same for your first name. You will get to a results page. Click each name listing, and suppress it by clicking the "Request Removal" link at the bottom of the page, entering the URL in the contact form it takes you to, and providing your email address. You can also email your removal request to [feedback@readwritelabs.com](mailto:feedback@readwritelabs.com). Unfortunately, Spoke’s opt-out page is working—its link from the FAQ page is dead.
+Find your information here: [http://www.spoke.com/](http://www.spoke.com/). Find the “people site map” on the bottom, and it’ll take you here (with a different initial at the end, depending on your last name): https://www.spoke.com/dir/people/name/a. Click the links to search for your last name. Then do the same for your first name. You will get to a results page. Click each name listing, and suppress it by clicking the "Request Removal" link at the bottom of the page, entering the URL in the contact form it takes you to, and providing your email address. You can also email your removal request to [feedback@readwritelabs.com](mailto:feedback@readwritelabs.com). Unfortunately, Spoke’s opt-out page is working—its link from the FAQ page is dead.
 
 ### ☠ Spokeo
 Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section.
@@ -200,8 +204,11 @@ Opt out here: [https://www.truepeoplesearch.com/removal](https://www.truepeoples
 Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if it shows up, try to opt out here: [https://thatsthem.com/optout](https://thatsthem.com/optout). Do not click on the Spokeo identity theft protection link, as it is a paid product.
 
 ### ☠ TruthFinder
-First, request your public data at [https://www.truthfinder.com/suppression-center](https://www.truthfinder.com/suppression-center). Then, fill out a suppression request form.
-Find and remove your information at [https://www.truthfinder.com/opt-out/v2/submit](https://www.truthfinder.com/opt-out/v2/submit). You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). You can also contact TruthFinder by filling out a web form at [https://www.truthfinder.com/contact/](https://www.truthfinder.com/contact/). If you are working through this list, you may have already removed this data at Intelius’ suppression center site.
+First, request your public data at [https://www.truthfinder.com/suppression-center](https://www.truthfinder.com/suppression-center). Then, fill out a suppression request form. You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). You can also contact TruthFinder by filling out a web form at [https://www.truthfinder.com/contact/](https://www.truthfinder.com/contact/). If you are working through this list, you may have already removed this data at Intelius’ suppression center site.
+
+### United States Phone Book
+Search for your information here: [https://www.unitedstatesphonebook.com/search.php](https://www.unitedstatesphonebook.com/search.php).
+If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site in this page [https://www.unitedstatesphonebook.com/contact.php](https://www.unitedstatesphonebook.com/contact.php).
 
 ### Unmask 
 Look for your data here: [https://unmask.com/](https://unmask.com/).
@@ -209,10 +216,6 @@ Opt out here: [https://unmask.com/opt-out/](https://unmask.com/opt-out/).
 
 ### USA People Search
 Find and remove your information at [https://www.usa-people-search.com/manage](https://www.usa-people-search.com/manage). 
-
-### United States Phone Book
-Search for your information here: [https://www.unitedstatesphonebook.com/search.php](https://www.unitedstatesphonebook.com/search.php).
-If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site in this page [https://www.unitedstatesphonebook.com/contact.php](https://www.unitedstatesphonebook.com/contact.php).
 
 ### US Search 
 First, you must request your public data. Then you can apply to have the information removed. The form for both is here: [https://www.ussearch.com/suppression-center/](https://www.ussearch.com/suppression-center/). If you are working through this list, you may have already removed this data at Intelius’ suppression center site.
@@ -232,12 +235,12 @@ Go to [VoterRecords.com](https://voterrecords.com/), find your information, scro
 ### ☠ 📞 White Pages
 Find your information here: [https://www.whitepages.com/](https://www.whitepages.com/), and then opt out here: [https://www.whitepages.com/suppression_requests](https://www.whitepages.com/suppression_requests)
 
-You will need to provide a phone number and enter an opt-out code when you receive the phone call. Opt-out information is available here: [https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing). You can also send a request here [https://support.whitepages.com/hc/en-us/requests/new](https://support.whitepages.com/hc/en-us/requests/new). (Including multiple options because these sites have a tendency to disappear.) Sometimes, information is removed from White Pages but not White Pages Premium, so make sure to double-check for your listing. Also, White Pages also owns [411.com](https://www.411.com/), so check for your information there. The opt-out is the same.
+You will need to provide a phone number and enter an opt-out code when you receive the phone call. Opt-out information is available here: [https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing). You can also send a request here [https://support.whitepages.com/hc/en-us/requests/new](https://support.whitepages.com/hc/en-us/requests/new). (Including multiple options because these sites have a tendency to disappear.) Sometimes, information is removed from White Pages but not White Pages Premium, so make sure to double-check for your listing. White Pages also owns [411.com](https://www.411.com/), so check for your information there. The opt-out is the same.
 
 ### Xlek
-(formerly Cubib?) Look up your information at [https://www.xlek.com/](https://www.xlek.com/). Opt out at [https://www.xlek.com/optout.php](https://www.xlek.com/optout.php). You’ll need to submit a separate opt-out request for each item you’d like removed
+(formerly Cubib?) Look up your information at [https://www.xlek.com/](https://www.xlek.com/). Opt out at [https://www.xlek.com/optout.php](https://www.xlek.com/optout.php). You’ll need to submit a separate opt-out request for each item you’d like removed.
 
-### � ZoomInfo
+### ZoomInfo
 Check to see if your information is on ZoomInfo by filling out this form:[https://www.zoominfo.com/update/remove](https://www.zoominfo.com/update/remove). Opt out if it has an email on record—they will email you a code. ZoomInfo appears to have moved towards focusing primarily on business rather than individuals.
 
 ## Special Circumstances
@@ -251,19 +254,16 @@ Look up your information here: [https://opennpi.com/provider/](https://opennpi.c
 
 ## Preventing Identity Theft & Opting Out of Marketing Sites
 
-### 📞 Consider freezing your credit
-which prevents creditors from accessing your credit report. (It also prevents credit, loans, and services from being approved in your name, but you will receive a pin to unfreeze your credit, if needed.) You will need to provide personal information such as your name, address, date of birth, and social security number to freeze your credit. While you can sometimes initiate this online, it’s better to do it by phone. Fees for freezing your credit [vary by state](https://advocacy.consumerreports.org/research/consumers-unions-guide-to-security-freeze-protection-2/). To freeze your credit, contact:
+### 📞 Consider freezing your credit, which prevents creditors from accessing your credit report. (It also prevents credit, loans, and services from being approved in your name, but you will receive a pin to unfreeze your credit, if needed.) You will need to provide personal information such as your name, address, date of birth, and social security number to freeze your credit. While you can sometimes initiate this online, it’s better to do it by phone. Fees for freezing your credit [vary by state](https://advocacy.consumerreports.org/research/consumers-unions-guide-to-security-freeze-protection-2/). To freeze your credit, contact:
 
 - Equifax: 1 (800) 349-9960, [https://www.equifax.com/personal/credit-report-services/credit-freeze/](https://www.equifax.com/personal/credit-report-services/credit-freeze/)
 - Experian: 1 (888) 397‑3742, [https://www.experian.com/freeze/center.html](https://www.experian.com/freeze/center.html).
 - TransUnion: 1 (888) 909-8872, [https://www.transunion.com/credit-freeze/place-credit-freeze](https://www.transunion.com/credit-freeze/place-credit-freeze) or [https://service.transunion.com/dss/orderStep1_form.page](https://service.transunion.com/dss/orderStep1_form.page)
 - Innovis: 1 (800) 540-2505, [https://www.innovis.com/personal/securityFreeze](https://www.innovis.com/personal/securityFreeze) or [https://www.innovis.com/securityFreeze/index](https://www.innovis.com/securityFreeze/index)
 
-### Explore any privacy options
-offered by your state’s motor vehicle department.
+### Explore any privacy options offered by your state’s motor vehicle department.
 
-### Contact your home and mobile phone companies
-to see if they offer privacy options, such as not listing your number on caller ID or allowing you to opt out of sales of phone numbers.
+### Contact your home and mobile phone companies to see if they offer privacy options, such as not listing your number on caller ID or allowing you to opt out of sales of phone numbers.
 
 ### Consider opting out of direct marketing and telemarketing.
 This list, compiled by Griffin Boyce, has a lot of information on doing so: [https://github.com/glamrock/data-brokers/blob/master/data-brokers.md](https://github.com/glamrock/data-brokers/blob/master/data-brokers.md). It was last updated in 2019.
