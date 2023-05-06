@@ -7,7 +7,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list was started on September 29, 2017 and was most recently updated in March 2023 to add some direct mail removal services, and in February 2023 to move Instant Checkmate information under Intelius, to add Locate People, and to remove a now-defunct paid option for opt-outs. We also added information on People Search Site, which charges money for removal (whaaaat?) and appears to have a non-functional email address. We added Dataveria, Glad I Know, PublicDataUSA, and Vericora. We updated opt-out links for Acxiom, Intelius, and others. We also fixed dead links, removed information on deprecated services, and made some other minor fixes. 
+This list was started on September 29, 2017 and was most recently updated in May 2023 to add information on sites that require you to click links sent via email or to receive an automated call and enter a four-digit number on your phone in order to complete an opt-out request.
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. Screenshots in emails are incredibly helpful. I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
@@ -63,15 +63,7 @@ Opt out here: [http://www.archives.com/Optout](http://www.archives.com/Optout)
 Find your information and opt out here: [https://www.backgroundalert.com/optout/](https://www.backgroundalert.com/optout/).
 
 ### ☠ BeenVerified
-Find your information and opt out here:
-
-[https://www.beenverified.com/app/optout/search](https://www.beenverified.com/app/optout/search)
-
-Opt out of property search here:
-
-[https://www.beenverified.com/app/optout/address-search](https://www.beenverified.com/app/optout/address-search)
-
-BeenVerified also owns PeopleLooker and PeopleSmart.
+Find your information and opt out here: [https://www.beenverified.com/app/optout/search](https://www.beenverified.com/app/optout/search). Opt out of property search here: [https://www.beenverified.com/app/optout/address-search](https://www.beenverified.com/app/optout/address-search). BeenVerified also owns PeopleLooker and PeopleSmart. Be aware that BeenVerified only allows one opt-out per email address, so you may need to reach out via email for additional opt-outs. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### CheckPeople
 Look for your contact info here: [https://checkpeople.com/](https://checkpeople.com/). If it shows up, opt out here: [https://checkpeople.com/do-not-sell-info](https://checkpeople.com/do-not-sell-info). You will need to fill out a form and captcha, select the record for removal, fill out your name and email, and solve another captcha. You will receive an email which will require you to confirm your opt-out request. 
@@ -90,7 +82,7 @@ Look for your information here: [https://cocofinder.com/search](https://cocofind
 Find your information here: [https://www.cyberbackgroundchecks.com/](https://www.cyberbackgroundchecks.com/). If it’s listed, remove it here. [https://www.cyberbackgroundchecks.com/removal](https://www.cyberbackgroundchecks.com/removal). You will need to confirm by clicking a link sent via email. 
 
 ### Dataveria
-Find your information here: [https://dataveria.com/](https://dataveria.com/). Opt out by entering the specific profile URL you find here: [https://dataveria.com/ng/control/privacy](https://dataveria.com/ng/control/privacy). 
+Find your information here: [https://dataveria.com/](https://dataveria.com/). Opt out by entering the specific profile URL you find here: [https://dataveria.com/ng/control/privacy](https://dataveria.com/ng/control/privacy). You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### ☠ FamilyTreeNow
 Search for yourself and remove your information here:
@@ -113,12 +105,10 @@ Look for your home address here: [https://homemetry.com/](https://homemetry.com/
 Find your information and out here: [https://www.idtrue.com/optout/](https://www.idtrue.com/optout/)
 
 ### InfoTracer
-Find your information here: [https://www.infotracer.com/](https://www.infotracer.com/)
-
-You can opt out by filling out this form: [https://www.infotracer.com/optout](https://www.infotracer.com/optout). You can also mail in this form: [https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946. 
+Find your information here: [https://www.infotracer.com/](https://www.infotracer.com/). You can opt out by filling out this form: [https://www.infotracer.com/optout](https://www.infotracer.com/optout). You can also mail in this form: [https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946. 
 
 ### ☠ Intelius
-Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out here: [https://www.intelius.com/suppression-center](https://www.intelius.com/suppression-center). You will need to enter your birthdate and any information you want suppressed, and you’ll also have to confirm your email address and enter a verification code emailed to you. (Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, US Search, and Zabasearch.)
+Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out here: [https://www.intelius.com/suppression-center](https://www.intelius.com/suppression-center). You will need to enter your birthdate and any information you want suppressed, and you’ll also have to confirm your email address and enter a verification code emailed to you. (Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, US Search, and Zabasearch.) If you have trouble opting out on the website, email privacy@intelius.com. If the person you're emailing says they can't find your account, you may need to confirm your mailing address, phone number, old email addresses, or other information via email. (As always, make sure Intelius already has the information before providing it.
 
 ### LocatePeople
 Find your information and Record ID here: [https://www.locatepeople.org/](https://www.locatepeople.org/). Opt out here with your Record ID: [https://www.locatepeople.org/optout/](https://www.locatepeople.org/optout/)
@@ -131,7 +121,7 @@ Opt out using the following URL: [https://www.mylife.com/ccpa/index.pubview](htt
 Search for your name, address or phone number at [https://neighbor.report/](https://neighbor.report). To remove a report, go to [https://neighbor.report/remove](https://neighbor.report/remove). You will need to verify the opt-out request via email.
 
 ### Nuwber
-Find your information here: [https://nuwber.com/](https://nuwber.com/). Enter the URL of the profile page you found and your email address here: [https://nuwber.com/removal/link](https://nuwber.com/removal/link).
+Find your information here: [https://nuwber.com/](https://nuwber.com/). Enter the URL of the profile page you found and your email address here: [https://nuwber.com/removal/link](https://nuwber.com/removal/link). You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### ☠ PeekYou
 Find your information here:[https://www.peekyou.com/](https://www.peekyou.com/), opt out here: [https://www.peekyou.com/about/contact/optout](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the &quot;unique ID&quot; field. Make sure to check &quot;remove my entire listing.&quot; You can also remove your information from the sites that it says it has aggregated information from.
@@ -140,7 +130,7 @@ Find your information here:[https://www.peekyou.com/](https://www.peekyou.com/),
 Look up your name here: [http://www.peoplebyname.com/people](http://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: http://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out for each record here: [http://www.peoplebyname.com/remove.php](http://www.peoplebyname.com/remove.php). This site, unfortunately, does not support HTTPS.
 
 ### ☠ PeopleFinders
-Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here:[https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes Advanced People Search and PublicRecordsNow).
+Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here:[https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes Advanced People Search and PublicRecordsNow). You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### PeopleSearchNow
 Find your information and opt out here: [https://www.peoplesearchnow.com/opt-out](https://www.peoplesearchnow.com/opt-out).
@@ -156,7 +146,7 @@ Attention: Opt Out Dept., 848 N. Rainbow Blvd., Suite 20, Las Vegas, NV 89107. (
 Go to [https://pipl.com](https://pipl.com/) to find your data. Opt out from Pipl at [https://pipl.com/personal-information-removal-request](https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at [support@pipl.com] (mailto:support@pipl.com).
 
 ### Private Eye
-Look for your info here: [https://www.privateeye.com/](https://www.privateeye.com/static/view/optout/) Opt out here: [https://www.privateeye.com/static/view/optout/](https://www.privateeye.com/static/view/optout/). You can also skip the first part and head to the second. This site will also take you to PeopleFinders, so you can opt out of that, too.
+Look for your info here: [https://www.privateeye.com/](https://www.privateeye.com/static/view/optout/) Opt out here: [https://www.privateeye.com/static/view/optout/](https://www.privateeye.com/static/view/optout/). You can also skip the first part and head to the second. 
 
 ### PrivateRecords 
 Search for your name and state and opt out here: [https://www.privaterecords.net/optOut/name/landing](https://www.privaterecords.net/optOut/name/landing).
@@ -168,7 +158,7 @@ Find your information here: [https://www.publicdatausa.com/optout.php](https://w
 Find your information here: [https://www.publicrecordsnow.com/]. Click on the orange “click here to opt out” button on  [https://www.publicrecordsnow.com/static/view/contact/](https://www.publicrecordsnow.com/static/view/contact/), fill out the form, complete the captcha and send it in.
 
 ### ☠ Radaris
-Find your information here: [http://radaris.com](http://radaris.com/). Click on &quot;control information&quot; and &quot;remove information&quot; by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Details are here: [http://radaris.com/page/how-to-remove](http://radaris.com/page/how-to-remove)
+Find your information here: [http://radaris.com](http://radaris.com/). Click on &quot;control information&quot; and &quot;remove information&quot; by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Details are here: [http://radaris.com/page/how-to-remove](http://radaris.com/page/how-to-remove). You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### Rehold
 Look up your home address here: [https://rehold.com/](https://rehold.com/). If there is a number or name next to it you’d like removed, click on  the red “remove” button next to it. You will need to enter your name and email address and solve a captcha.
@@ -192,7 +182,7 @@ Find your information here: [https://socialcatfish.com/](https://socialcatfish.c
 Find your information here: [http://www.spoke.com/](http://www.spoke.com/). Find the “people site map” on the bottom, and it’ll take you here (with a different initial at the end, depending on your last name): https://www.spoke.com/dir/people/name/a. Click the links to search for your last name. Then do the same for your first name. You will get to a results page. Click each name listing, and suppress it by clicking the "Request Removal" link at the bottom of the page, entering the URL in the contact form it takes you to, and providing your email address. You can also email your removal request to [feedback@readwritelabs.com](mailto:feedback@readwritelabs.com). Unfortunately, Spoke’s opt-out page is working—its link from the FAQ page is dead.
 
 ### ☠ Spokeo
-Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section.
+Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### SpyFly
 Look for your data here: [https://www.spyfly.com](https://www.spyfly.com. Opt out here: [https://www.spyfly.com/help-center/remove-my-public-record](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing [support@spyfly.com](mailto:support@spyfly.com). You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
@@ -232,10 +222,8 @@ Find your information here: [https://vericora.com/profile/search](https://verico
 ### VoterRecords
 Go to [VoterRecords.com](https://voterrecords.com/), find your information, scroll to the bottom of the page and click on the &quot;record opt-out&quot; link. This will lead to an opt-out form, which you’ll need to submit. You may receive a verification link you’ll need to click on to verify your opt-out request.
 
-### ☠ 📞 White Pages
-Find your information here: [https://www.whitepages.com/](https://www.whitepages.com/), and then opt out here: [https://www.whitepages.com/suppression_requests](https://www.whitepages.com/suppression_requests)
-
-You will need to provide a phone number and enter an opt-out code when you receive the phone call. Opt-out information is available here: [https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing). You can also send a request here [https://support.whitepages.com/hc/en-us/requests/new](https://support.whitepages.com/hc/en-us/requests/new). (Including multiple options because these sites have a tendency to disappear.) Sometimes, information is removed from White Pages but not White Pages Premium, so make sure to double-check for your listing. White Pages also owns [411.com](https://www.411.com/), so check for your information there. The opt-out is the same.
+### ☠ 📞 💰 White Pages
+Find your information here: [https://www.whitepages.com/](https://www.whitepages.com/), and then opt out here: [https://www.whitepages.com/suppression_requests](https://www.whitepages.com/suppression_requests). You will need to provide a phone number and enter an opt-out code when you receive the phone call. Opt-out information is available here: [https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing). You can also send a request here [https://support.whitepages.com/hc/en-us/requests/new](https://support.whitepages.com/hc/en-us/requests/new). (Including multiple options because these sites have a tendency to disappear.) Sometimes, information is removed from White Pages but not White Pages Premium, so make sure to double-check for your listing. Unfortunately, it may not be possible to opt out of White Page Premium pages without an account. White Pages also owns [411.com](https://www.411.com/), so check for your information there. The opt-out is the same. You may need to verify your opt-out by receiving an automated voice call and entering a four-digit code into your phone.
 
 ### Xlek
 (formerly Cubib?) Look up your information at [https://www.xlek.com/](https://www.xlek.com/). Opt out at [https://www.xlek.com/optout.php](https://www.xlek.com/optout.php). You’ll need to submit a separate opt-out request for each item you’d like removed.
