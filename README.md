@@ -84,6 +84,18 @@ Find your information here: [https://www.cyberbackgroundchecks.com/](https://www
 ### Dataveria
 Find your information here: [https://dataveria.com/](https://dataveria.com/). Opt out by entering the specific profile URL you find here: [https://dataveria.com/ng/control/privacy](https://dataveria.com/ng/control/privacy). You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
+###  🎫 FaceCheck Search Engine
+
+Find your information here: [https://facecheck.id/](https://facecheck.id/) Opt out here: [DMCA Takedown Request](https://facecheck.id/Face-Search/RemoveMyPhotos)
+
+- Using your own photo, search and find your face in the search results.
+
+- Click on the [Remove My Photos] link in the top menu and select all your photos for deletion and de-indexing.
+
+- Scroll to the bottom of the page and upload an anonymized citizen card, driver's license, or a passport that shows your face but hides sensitive details such as name, address, and ID number. If you are unable to provide an ID document, instead you can upload a selfie clearly showing your face and two fingers touching your chin. Submit the form and you'll get a tracking link.
+
+- Your photos are IMMEDIATELY HIDDEN and won't show up in new searches. Within 1 to 5 business days, our admin will check if your uploaded document is legitimate and your face matches. Upon approval, your photos are permanently deleted and the request is completed. Your uploaded document is also deleted.
+
 ### ☠ FamilyTreeNow
 Search for yourself and remove your information here:
 
