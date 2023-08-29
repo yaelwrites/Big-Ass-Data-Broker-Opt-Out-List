@@ -170,7 +170,7 @@ Unfortunately, you have to sign up with a credit card to search for your informa
 Find your information here: [https://www.searchpeoplefree.com/](https://www.searchpeoplefree.com/), making sure to search by name, phone number, address and email address: Opt out here: [https://www.searchpeoplefree.com/opt-out](https://www.searchpeoplefree.com/opt-out).
 
 ### SearchQuarry
-Find your information here: [https://www.searchquarry.com/](https://www.searchquarry.com/). If it’s listed, opt out here: [[https://www.searchquarry.com/opt-out/]([https://members.searchquarry.com/removeMyData/](https://members.searchquarry.com/removeMyData/))](https://www.searchquarry.com/opt-out/) You will need to click the verification link in your inbox to finalize the opt out.
+Find your information here: [https://www.searchquarry.com/](https://www.searchquarry.com/). If it’s listed, opt out here: [https://members.searchquarry.com/removeMyData/](https://members.searchquarry.com/removeMyData/) You will need to click the verification link in your inbox to finalize the opt out.
 
 ### SmartBackground Checks
 Find your information here: [https://www.smartbackgroundchecks.com/](https://www.smartbackgroundchecks.com/). Opt out here: [https://www.smartbackgroundchecks.com/optout](https://www.smartbackgroundchecks.com/optout)
