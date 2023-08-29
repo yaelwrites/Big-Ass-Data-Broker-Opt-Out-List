@@ -242,7 +242,8 @@ Look up your information here: [https://opennpi.com/provider/](https://opennpi.c
 
 ## Preventing Identity Theft & Opting Out of Marketing Sites
 
-### 📞 Consider freezing your credit, which prevents creditors from accessing your credit report. (It also prevents credit, loans, and services from being approved in your name, but you will receive a pin to unfreeze your credit, if needed.) You will need to provide personal information such as your name, address, date of birth, and social security number to freeze your credit. While you can sometimes initiate this online, it’s better to do it by phone. Fees for freezing your credit [vary by state](https://advocacy.consumerreports.org/research/consumers-unions-guide-to-security-freeze-protection-2/). To freeze your credit, contact:
+### 📞 Consider freezing your credit, which prevents creditors from accessing your credit report. 
+(It also prevents credit, loans, and services from being approved in your name, but you will receive a pin to unfreeze your credit, if needed.) You will need to provide personal information such as your name, address, date of birth, and social security number to freeze your credit. While you can sometimes initiate this online, it’s better to do it by phone. Fees for freezing your credit [vary by state](https://advocacy.consumerreports.org/research/consumers-unions-guide-to-security-freeze-protection-2/). To freeze your credit, contact:
 
 - Equifax: 1 (800) 349-9960, [https://www.equifax.com/personal/credit-report-services/credit-freeze/](https://www.equifax.com/personal/credit-report-services/credit-freeze/)
 - Experian: 1 (888) 397‑3742, [https://www.experian.com/freeze/center.html](https://www.experian.com/freeze/center.html).
