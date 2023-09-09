@@ -93,7 +93,7 @@ Search for yourself and remove your information here:
 Look for and remove your information here: [https://www.fastpeoplesearch.com/removal](https://www.fastpeoplesearch.com/removal). You may need to solve a captcha. 
 
 ### FreePeopleDirectory
-Search for your information at [https://www.freepeopledirectory.com](https://www.freepeopledirectory.com). If you find it, you can opt out on Spokeo at [https://www.spokeo.com/privacy/control](https://www.spokeo.com/privacy/control). Make sure to scroll down to the grammatically incorrect “opt out your information” section.
+Search for your information at [https://www.freepeopledirectory.com](https://www.freepeopledirectory.com). If you find it, you can opt out on Spokeo at [https://www.spokeo.com/optout](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section.
 
 ### Glad I Know
 Find your information here: [https://gladiknow.com/](https://gladiknow.com/). Follow these instructions to remove your data: [https://gladiknow.com/opt-out](https://gladiknow.com/opt-out). You can remove your information without downloading your free report, and email [support@gladiknow.com](mailto:support@gladiknow.com) for assistance.
