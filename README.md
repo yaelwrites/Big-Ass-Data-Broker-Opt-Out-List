@@ -7,9 +7,9 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list was started on September 29, 2017 and was most recently updated in May 2023 to add information on sites that require you to click links sent via email or to receive an automated call and enter a four-digit number on your phone in order to complete an opt-out request.
+This list was started on September 29, 2017 and was most recently updated in September 2023 to update links for Spokeo and SearchQuarry, add Catalog Choice and the Deceased Do Not Contact list for those looking to reduce unwanted media mail, to  add ChexSystems for those already freezing their credit, Facecheck ID for people who want to delete data from the reverse image search facial recognition database, and to add info about the free Permission Slip app. 
 
-Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. Screenshots in emails are incredibly helpful. I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
+Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact). Screenshots in emails are incredibly helpful. I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
 _Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, information is pulled from other sources and you’ll need to opt out multiple times for the same site. Data brokers come and go (and are bought out by others), and they also often change their opt-out pages. I try to update this ~every six months, but it’s not always current. Finally, even opting out of these sites doesn’t mean that your address is secure. In many states, real estate data and voter registration information is public (or easy to obtain). And, of course, location data can be found by physical means (e.g., following you home) and through other people who know it (i.e., social engineering). That said, removing your home address from data broker sites can significantly lower your attack surface and make it harder for people to find it. 💕_
 
@@ -275,11 +275,13 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 ### Get on the Do Not Call Registry
 [https://www.donotcall.gov/register/reg.aspx](https://www.donotcall.gov/register/reg.aspx)
 
-## Paid options
+## Additional Options (Paid and Free)
 
 [Brand Yourself](https://brandyourself.com/), [DeleteMe](https://joindeleteme.com/), [EasyOptOuts](https://easyoptouts.com/), [IDX Privacy](https://www.idx.us/idx-privacy), [Kanary](https://www.thekanary.com/), [OneRep](https://onerep.com/), [Optery](https://www.optery.com), [Privacy Pros](https://privacypros.io/), [Reputation.com](Reputation.com), [Reputation Defender](https://www.reputationdefender.com/), and [Spartacus](https://spartacus.com) all offer different opt-out services. Of these options, I have personally paid for and had good experiences with DeleteMe and Kanary. In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it. 
 
 There are services for media mail as well. For a fee, [PaperKarma](https://www.paperkarma.com/product/paperkarma-subscription/) will remove your name from common direct mail vendors, including charity solicitations, direct mail and catalogs. You can also remove your name from [Valpak coupon packs](https://www.valpak.com/remove-address), for free. Sign up for a free account at [https://www.catalogchoice.org/](https://www.catalogchoice.org/) to cancel catalogs you no longer wish to receive. For a fee, [DMAChoice](https://dmachoice.org/static/consumer_choice_tools.php), will remove your name from prospective mailers, not including political mail or mail from companies you’ve done business with in the past two years. DMAChoice also maintains a Deceased Do Not Contact list to allow you to remove names of deceased individuals for marketing lists, which you can register for [here.](https://www.ims-dm.com/cgi/ddnc.php) (I am sorry for your loss!) 
+
+[Permission Slip](Permission Slip) by Consumer Reports is a free app that will file a data rights request on your behalf to tell companies to stop selling your personal information. It’s [available on iOS](https://apps.apple.com/us/app/permission-slip-by-cr/id1591285074),and is coming to Android soon. You can sign up for updates and launch announcements here: [https://permissionslipcr.com/](https://permissionslipcr.com/). 
 
 ## Further reading
 
