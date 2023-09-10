@@ -84,6 +84,9 @@ Find your information here: [https://www.cyberbackgroundchecks.com/](https://www
 ### Dataveria
 Find your information here: [https://dataveria.com/](https://dataveria.com/). Opt out by entering the specific profile URL you find here: [https://dataveria.com/ng/control/privacy](https://dataveria.com/ng/control/privacy). You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
+### Facecheck
+[Facecheck.id](Facecheck.id) is reverse image search software that uses an uploaded image to locate your face across in photos and videos on major social media platforms. If this type of search is something you are concerned about, you can [remove your face from its search](https://facecheck.id/Face-Search/RemoveMyPhotos) engine by searching for your image, uploading a driver’s license or ID card (you can hide your name, address and ID number) or a selfie with your face and two fingers touching your chin. Note that this will not remove your image from the various websites on which it was found, but simply will not allow people to search for it on the Facecheck site. Facecheck also states that it makes an exception for violent criminals. 
+
 ### ☠ FamilyTreeNow
 Search for yourself and remove your information here:
 
@@ -238,6 +241,7 @@ If you’re a victim of violent crime or identity theft, it’s often possible t
 If you are experiencing or have experienced domestic violence, sexual abuse, or stalking, you may be able to keep your address private through state programs that provide a substitute address and mail forwarding. To see if a program exists in your state, look up “address confidentiality program” along with the name of your state in a search engine.
 
 If you are a healthcare worker with a National Provider Index (NPI) number, your personal cell phone number or home address may be showing up on various online directories and websites because they were listed as primary contact information when you filled out your NPI profile (or when someone else filled it out on your behalf).
+
 Look up your information here: [https://opennpi.com/provider/](https://opennpi.com/provider/). You can update or remove information by filling out this form: [https://opennpi.com/contact](https://opennpi.com/contact). You’ll also need to reach out to any sites aggregating this data, like Doximity, where you may be able to [edit](https://support.doximity.com/hc/en-us/articles/9349631650323-How-to-Update-Edit-Your-Profile-on-the-Doximity-Website) or [delete](https://support.doximity.com/hc/en-us/articles/360039340393-How-to-Delete-Your-Doximity-Profile) your profile. 
 
 ## Preventing Identity Theft & Opting Out of Marketing Sites
