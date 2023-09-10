@@ -259,6 +259,9 @@ This list, compiled by Griffin Boyce, has a lot of information on doing so: [htt
 
 You can also opt out of targeted ads using cookies and similar technology at the browser level at https://optout.aboutads.info.
 
+### Cancel catalogs
+Sign up for a free account at [(https://www.catalogchoice.org/](https://www.catalogchoice.org/) to cancel catalogs you no longer wish to receive.
+
 ### Opt out of prescreened credit offers
 Follow the instructions at [https://www.optoutprescreen.com/](https://www.optoutprescreen.com/)
 
