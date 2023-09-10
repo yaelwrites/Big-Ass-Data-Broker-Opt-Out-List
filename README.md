@@ -259,9 +259,6 @@ This list, compiled by Griffin Boyce, has a lot of information on doing so: [htt
 
 You can also opt out of targeted ads using cookies and similar technology at the browser level at https://optout.aboutads.info.
 
-### Cancel catalogs
-Sign up for a free account at [(https://www.catalogchoice.org/](https://www.catalogchoice.org/) to cancel catalogs you no longer wish to receive.
-
 ### Opt out of prescreened credit offers
 Follow the instructions at [https://www.optoutprescreen.com/](https://www.optoutprescreen.com/)
 
@@ -272,7 +269,7 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 [Brand Yourself](https://brandyourself.com/), [DeleteMe](https://joindeleteme.com/), [EasyOptOuts](https://easyoptouts.com/), [IDX Privacy](https://www.idx.us/idx-privacy), [Kanary](https://www.thekanary.com/), [OneRep](https://onerep.com/), [Optery](https://www.optery.com), [Privacy Pros](https://privacypros.io/), [Reputation.com](Reputation.com), [Reputation Defender](https://www.reputationdefender.com/), and [Spartacus](https://spartacus.com) all offer different opt-out services. Of these options, I have personally paid for and had good experiences with DeleteMe and Kanary. In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it. 
 
-There are services for media mail as well. For a fee, [PaperKarma](https://www.paperkarma.com/product/paperkarma-subscription/) will remove your name from common direct mail vendors, including charity solicitations, direct mail and catalogs. Also for a fee, [DMAChoice](https://dmachoice.org/static/consumer_choice_tools.php), will remove your name from prospective mailers, not including political mail or mail from companies you’ve done business with in the past two years. You can also remove your name from [Valpak coupon packs](https://www.valpak.com/remove-address), for free.
+There are services for media mail as well. For a fee, [PaperKarma](https://www.paperkarma.com/product/paperkarma-subscription/) will remove your name from common direct mail vendors, including charity solicitations, direct mail and catalogs. You can also remove your name from [Valpak coupon packs](https://www.valpak.com/remove-address), for free. Sign up for a free account at [https://www.catalogchoice.org/](https://www.catalogchoice.org/) to cancel catalogs you no longer wish to receive. For a fee, [DMAChoice](https://dmachoice.org/static/consumer_choice_tools.php), will remove your name from prospective mailers, not including political mail or mail from companies you’ve done business with in the past two years. DMAChoice also maintains a Deceased Do Not Contact list to allow you to remove names of deceased individuals for marketing lists, which you can register for [here.](https://www.ims-dm.com/cgi/ddnc.php) (I am sorry for your loss!) 
 
 ## Further reading
 
