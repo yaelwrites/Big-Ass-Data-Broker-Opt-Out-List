@@ -188,7 +188,7 @@ Find your information here: [http://www.spoke.com/](http://www.spoke.com/). Find
 Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### SpyFly
-Look for your data here: [https://www.spyfly.com](https://www.spyfly.com. Opt out here: [https://www.spyfly.com/help-center/remove-my-public-record](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing [support@spyfly.com](mailto:support@spyfly.com). You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
+Look for your data here:[https://www.spyfly.com](https://www.spyfly.com). Opt out here: [https://www.spyfly.com/help-center/remove-my-public-record](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing [support@spyfly.com](mailto:support@spyfly.com). You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
 
 ### TruePeopleSearch
 Opt out here: [https://www.truepeoplesearch.com/removal](https://www.truepeoplesearch.com/removal).
