@@ -7,7 +7,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list was started on September 29, 2017 and was most recently updated in September 2023 to update links for Spokeo and SearchQuarry, add Catalog Choice and the Deceased Do Not Contact list for those looking to reduce unwanted media mail, to  add ChexSystems for those already freezing their credit, Facecheck ID for people who want to delete data from the reverse image search facial recognition database, and to add info about the free Permission Slip app. 
+This list was started on September 29, 2017 and was most recently updated in October 2023 to remove TruePeopleSearch and Cyber Background Checks, since those sites will automatically removed your data if you opt out on Intelius and BeenVerified. 
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact)). Screenshots in emails are incredibly helpful. I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
@@ -57,7 +57,6 @@ To find your information, you must sign up for a free trial here:
 
 Opt out here: [http://www.archives.com/Optout](http://www.archives.com/Optout)
 
-
 ### 🎫 BackgroundAlert
 
 Find your information and opt out here: [https://www.backgroundalert.com/optout/](https://www.backgroundalert.com/optout/).
@@ -77,9 +76,6 @@ Find your information here: [https://clustrmaps.com/](https://clustrmaps.com). T
 
 ### CocoFinder
 Look for your information here: [https://cocofinder.com/search](https://cocofinder.com/search). Opt out here: [https://cocofinder.com/remove-my-info](https://cocofinder.com/remove-my-info). It will send you to this Google form: [https://docs.google.com/forms/d/e/1FAIpQLScEgLH9ro7oQR4c0V9E19ug1Gb7wVMrFFSj0Sgx4sjba_ET4Q/viewform](https://docs.google.com/forms/d/e/1FAIpQLScEgLH9ro7oQR4c0V9E19ug1Gb7wVMrFFSj0Sgx4sjba_ET4Q/viewform).
-
-### CyberBackgroundChecks
-Find your information here: [https://www.cyberbackgroundchecks.com/](https://www.cyberbackgroundchecks.com/). If it’s listed, remove it here. [https://www.cyberbackgroundchecks.com/removal](https://www.cyberbackgroundchecks.com/removal). You will need to confirm by clicking a link sent via email. 
 
 ### Dataveria
 Find your information here: [https://dataveria.com/](https://dataveria.com/). Opt out by entering the specific profile URL you find here: [https://dataveria.com/ng/control/privacy](https://dataveria.com/ng/control/privacy). You will need to confirm your opt-out request by clicking on a link sent to you via email.
@@ -189,9 +185,6 @@ Find your information here [https://www.spokeo.com/search](https://www.spokeo.co
 
 ### SpyFly
 Look for your data here:[https://www.spyfly.com](https://www.spyfly.com). Opt out here: [https://www.spyfly.com/help-center/remove-my-public-record](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing [support@spyfly.com](mailto:support@spyfly.com). You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
-
-### TruePeopleSearch
-Opt out here: [https://www.truepeoplesearch.com/removal](https://www.truepeoplesearch.com/removal).
 
 ### That’s Them
 Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if it shows up, try to opt out here: [https://thatsthem.com/optout](https://thatsthem.com/optout). Do not click on the Spokeo identity theft protection link, as it is a paid product.
