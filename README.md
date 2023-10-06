@@ -7,7 +7,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list was started on September 29, 2017 and was most recently updated in October 2023 to remove TruePeopleSearch and Cyber Background Checks, since those sites will automatically removed your data if you opt out on Intelius and BeenVerified. 
+This list was started on September 29, 2017 and was most recently updated in October 2023 to add PimEyes and to remove TruePeopleSearch and Cyber Background Checks, since those sites will automatically remove your data if you opt out on Intelius and BeenVerified. 
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact)). Screenshots in emails are incredibly helpful. I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
@@ -140,6 +140,9 @@ PLook for your information here: [https://www.peoplesearchsite.com](https://www.
 ### Persopo
 Search for your information here: [https://persopo.com/search](https://persopo.com/search). Cut and paste the text of it (which is hard to do because of the 1990s site format, but is required by the site) and email it along with your opt-out request to[support@persopo.com](mailto:support@persopo.com). You can also mail your request to Persopo.com,
 Attention: Opt Out Dept., 848 N. Rainbow Blvd., Suite 20, Las Vegas, NV 89107. (Opt-out instructions are posted here: [http://info.persopo.com/opt-out.html](http://info.persopo.com/opt-out.html)—this site unfortunately does not use HTTPS).
+
+### 🎫 PimEyes
+PimEyes is an online face search engine that uses face recognition to perform a reverse image search, finding pictures of your face (or others like it) throughout the Internet. If you want to see if your photographs are in PimEyes’ database, consider uploading a photo to [https://pimeyes.com/](https://pimeyes.com/). (I used a very public photo that I know is already online, but you can also take a photo with your camera—which PimEyes claims it does not store.)  To opt out, you’ll need to upload an image of your face on [https://pimeyes.com/en/opt-out-request-form](https://pimeyes.com/en/opt-out-request-form), and also attach a photo ID with all sensitive data (other than your name and photograph) blurred. The easiest way to do this, in my opinion, is through Signal, the encrypted messaging app, which has a blur feature described [https://signal.org/blog/blur-tools/](in its blog). You can also use tools such as Photoshop or even make a copy of your ID and use a Sharpie. Finally, you’ll need to provide your email address. 
 
 ### ☠ Pipl
 Go to [https://pipl.com](https://pipl.com/) to find your data. Opt out from Pipl at [https://pipl.com/personal-information-removal-request](https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at [support@pipl.com] (mailto:support@pipl.com).
