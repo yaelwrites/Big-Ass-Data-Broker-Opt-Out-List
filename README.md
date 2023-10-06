@@ -7,7 +7,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in October 2023 to add PimEyes and to remove TruePeopleSearch and Cyber Background Checks, since those sites will automatically remove your data if you opt out on Intelius and BeenVerified. 
+This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in October 2023 to add PimEyes and to remove TruePeopleSearch and Cyber Background Checks, since those sites will automatically remove your data if you successfully opt out of Intelius and BeenVerified. 
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact)). Screenshots in emails are incredibly helpful. I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
