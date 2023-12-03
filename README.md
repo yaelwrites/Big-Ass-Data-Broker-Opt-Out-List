@@ -7,7 +7,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-*This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in December 2023 to update Acxiom’s international opt-out URLs and email addresses and to update instructions for Intelius. Also, Xlex is now USA-official-com, and to add TruePeopleSearch.
+**This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in December 2023 to update Acxiom’s international opt-out URLs and email addresses, to update instructions for Intelius, to add TruePeopleSearch.com, and to update Xlex, which is now USA-Official. 
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact)). Screenshots in emails are incredibly helpful. I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
