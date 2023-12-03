@@ -7,7 +7,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in October 2023 to add PimEyes and to remove TruePeopleSearch and Cyber Background Checks, since those sites will automatically remove your data if you successfully opt out of Intelius and BeenVerified. 
+*This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in December 2023 to update Acxiom’s international opt-out URLs and email addresses and to update instructions for Intelius. Also, Xlex is now USA-official-com, and to add TruePeopleSearch.
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact)). Screenshots in emails are incredibly helpful. I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
@@ -30,19 +30,19 @@ Google further allows you to remove non-consensual or intimate personal images, 
 
 It is hard to find your own info for free, but people in some countries can opt out using the following links:
 
-[https://gdpr-fr.eu.acxiom.com/](https://gdpr-fr.eu.acxiom.com/) (France)
+[https://gdpr-fr.eu.acxiom.com/]([https://www.acxiom.com/privacy/fr/)(France)
 
-[https://marketing.acxiom.com/AcxiomDE-Verbraucheranfragen.html](https://marketing.acxiom.com/AcxiomDE-Verbraucheranfragen.html) (Germany)
+[https://www.acxiom.com/privacy/datenschutz/](https://www.acxiom.com/privacy/datenschutz/) (Germany)
 
-[https://gdpr-it.eu.acxiom.com](https://gdpr-it.eu.acxiom.com) (Italy)
+[https://www.acxiom.com/privacy/it/](https://www.acxiom.com/privacy/it/) (Italy)
 
-[https://gdpr-es.eu.acxiom.com](https://gdpr-es.eu.acxiom.com)(Spain)
+[https://www.acxiom.com/privacy/es/](https://www.acxiom.com/privacy/es/) (Spain)
 
 [https://isapps.acxiom.com/optout/optout.aspx#section8](https://isapps.acxiom.com/optout/optout.aspx#section8) (U.S.)
 
-Users in Argentina, Australia, Canada and Mexico may email [Consumer.Privacy@acxiom.com](mailto:Consumer.Privacy@acxiom.com). 
-
 Users in Austria, India and Switzerland may email [Datenschutz@acxiom.com](mailto:Datenschutz@acxiom.com).
+
+Other international requests should click on [https://privacyportal.onetrust.com/webform/342ca6ac-4177-4827-b61e-19070296cbd3/6896cf25-6953-4500-9c69-5a8fb6f6f932](https://privacyportal.onetrust.com/webform/342ca6ac-4177-4827-b61e-19070296cbd3/6896cf25-6953-4500-9c69-5a8fb6f6f932) 
 
 If you don’t have an email address, call (877) 774-2094 and follow the prompts.
 
@@ -107,7 +107,7 @@ Find your information and out here: [https://www.idtrue.com/optout/](https://www
 Find your information here: [https://www.infotracer.com/](https://www.infotracer.com/). You can opt out by filling out this form: [https://www.infotracer.com/optout](https://www.infotracer.com/optout). You can also mail in this form: [https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946. 
 
 ### ☠ Intelius
-Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out here: [https://www.intelius.com/suppression-center](https://www.intelius.com/suppression-center). You will need to enter your birthdate and any information you want suppressed, and you’ll also have to confirm your email address and enter a verification code emailed to you. (Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, US Search, and Zabasearch.) If you have trouble opting out on the website, email privacy@intelius.com. If the person you're emailing says they can't find your account, you may need to confirm your mailing address, phone number, old email addresses, or other information via email. (As always, make sure Intelius already has the information before providing it.)
+Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out by emailing [support@mailer.intelius.com](mailto:support@mailer.intelius.com) or call 1-888-245-1655. Another option is a form on [https://suppression.peopleconnect.us/login](https://suppression.peopleconnect.us/login). If you’re told that Intelius can't find your account, you may need to confirm your mailing address, phone number, old email addresses, or other information via email. (As always, make sure Intelius already has the information before providing it.) Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, US Search, and Zabasearch.
 
 ### LocatePeople
 Find your information and Record ID here: [https://www.locatepeople.org/](https://www.locatepeople.org/). Opt out here with your Record ID: [https://www.locatepeople.org/optout/](https://www.locatepeople.org/optout/)
@@ -192,6 +192,9 @@ Look for your data here:[https://www.spyfly.com](https://www.spyfly.com). Opt ou
 ### That’s Them
 Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if it shows up, try to opt out here: [https://thatsthem.com/optout](https://thatsthem.com/optout). Do not click on the Spokeo identity theft protection link, as it is a paid product.
 
+### TruePeopleSearch
+Follow the removal instructions here: [https://www.truepeoplesearch.com/removal](https://www.truepeoplesearch.com/removal). You will need to enter your  name, city and state, and email address, and then you’ll need to solve several captchas to see if you are listed, after which you can remove your information.
+
 ### ☠ TruthFinder
 First, request your public data at [https://www.truthfinder.com/suppression-center](https://www.truthfinder.com/suppression-center). Then, fill out a suppression request form. You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). You can also contact TruthFinder by filling out a web form at [https://www.truthfinder.com/contact/](https://www.truthfinder.com/contact/). If you are working through this list, you may have already removed this data at Intelius’ suppression center site.
 
@@ -205,6 +208,9 @@ Opt out here: [https://unmask.com/opt-out/](https://unmask.com/opt-out/).
 
 ### USA People Search
 Find and remove your information at [https://www.usa-people-search.com/manage](https://www.usa-people-search.com/manage). 
+
+### USA-Official
+After finding your information, enter your name and URL at [https://usa-official.com/remove.php](https://usa-official.com/remove.ph).
 
 ### US Search 
 First, you must request your public data. Then you can apply to have the information removed. The form for both is here: [https://www.ussearch.com/suppression-center/](https://www.ussearch.com/suppression-center/). If you are working through this list, you may have already removed this data at Intelius’ suppression center site.
@@ -223,9 +229,6 @@ Go to [VoterRecords.com](https://voterrecords.com/), find your information, scro
 
 ### ☠ 📞 💰 White Pages
 Find your information here: [https://www.whitepages.com/](https://www.whitepages.com/), and then opt out here: [https://www.whitepages.com/suppression_requests](https://www.whitepages.com/suppression_requests). You will need to provide a phone number and enter an opt-out code when you receive the phone call. Opt-out information is available here: [https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing). You can also send a request here [https://support.whitepages.com/hc/en-us/requests/new](https://support.whitepages.com/hc/en-us/requests/new). (Including multiple options because these sites have a tendency to disappear.) Sometimes, information is removed from White Pages but not White Pages Premium, so make sure to double-check for your listing. Unfortunately, it may not be possible to opt out of White Page Premium pages without an account. White Pages also owns [411.com](https://www.411.com/), so check for your information there. The opt-out is the same. You may need to verify your opt-out by receiving an automated voice call and entering a four-digit code into your phone.
-
-### Xlek
-(formerly Cubib?) Look up your information at [https://www.xlek.com/](https://www.xlek.com/). Opt out at [https://www.xlek.com/optout.php](https://www.xlek.com/optout.php). You’ll need to submit a separate opt-out request for each item you’d like removed.
 
 ### ZoomInfo
 Check to see if your information is on ZoomInfo by filling out this form:[https://www.zoominfo.com/update/remove](https://www.zoominfo.com/update/remove). Opt out if it has an email on record—they will email you a code. ZoomInfo appears to have moved towards focusing primarily on business rather than individuals.
@@ -273,11 +276,11 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 ## Additional Options (Paid and Free)
 
-[Brand Yourself](https://brandyourself.com/), [DeleteMe](https://joindeleteme.com/), [EasyOptOuts](https://easyoptouts.com/), [IDX Privacy](https://www.idx.us/idx-privacy), [Kanary](https://www.thekanary.com/), [OneRep](https://onerep.com/), [Optery](https://www.optery.com), [Privacy Pros](https://privacypros.com/), [Reputation.com](Reputation.com), [Reputation Defender](https://www.reputationdefender.com/), and [Spartacus](https://spartacus.com) all offer different opt-out services. Of these options, I have personally paid for and had good experiences with DeleteMe and Kanary. In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it. 
+[Brand Yourself](https://brandyourself.com/), [DeleteMe](https://joindeleteme.com/), {DeleteMyInfo}(https://www.deletemyinfo.com/), [EasyOptOuts](https://easyoptouts.com/), [IDX Privacy](https://www.idx.us/idx-privacy), [Kanary](https://www.thekanary.com/), [OneRep](https://onerep.com/), [Optery](https://www.optery.com), [Privacy Pros](https://privacypros.com/), [Reputation.com](Reputation.com), [Reputation Defender](https://www.reputationdefender.com/), and [Spartacus](https://spartacus.com) all offer different opt-out services. Of these options, I have personally paid for and had good experiences with DeleteMe and Kanary. In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it. 
 
 There are services for media mail as well. For a fee, [PaperKarma](https://www.paperkarma.com/product/paperkarma-subscription/) will remove your name from common direct mail vendors, including charity solicitations, direct mail and catalogs. You can also remove your name from [Valpak coupon packs](https://www.valpak.com/remove-address), for free. Sign up for a free account at [https://www.catalogchoice.org/](https://www.catalogchoice.org/) to cancel catalogs you no longer wish to receive. For a fee, [DMAChoice](https://dmachoice.org/static/consumer_choice_tools.php), will remove your name from prospective mailers, not including political mail or mail from companies you’ve done business with in the past two years. DMAChoice also maintains a Deceased Do Not Contact list to allow you to remove names of deceased individuals for marketing lists, which you can register for [here.](https://www.ims-dm.com/cgi/ddnc.php) (I am sorry for your loss!) 
 
-[Permission Slip](https://permissionslipcr.com/) by Consumer Reports is a free app that will file a data rights request on your behalf to tell companies to stop selling your personal information. It’s [available on iOS](https://apps.apple.com/us/app/permission-slip-by-cr/id1591285074),and is coming to Android soon. You can sign up for updates and launch announcements here: [https://permissionslipcr.com/](https://permissionslipcr.com/). 
+[Permission Slip](https://permissionslipcr.com/) by Consumer Reports is a free app that will file a data rights request on your behalf to tell companies to stop selling your personal information.
 
 ## Further reading
 
