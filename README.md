@@ -154,7 +154,7 @@ Look for your info here: [https://www.privateeye.com/](https://www.privateeye.co
 Search for your name and state and opt out here: [https://www.privaterecords.net/optOut/name/landing](https://www.privaterecords.net/optOut/name/landing).
 
 ### PublicDataUSA
-Find your information here: [https://www.publicdatausa.com/optout.php](https://www.publicdatausa.com/optout.php). Then, select the items you’d like removed, and fill out the form at the bottom of the page.
+Find your information here: [https://www.publicdatausa.com/remove.php](https://www.publicdatausa.com/remove.php). Then, select the items you’d like removed, and fill out the form at the bottom of the page.
 
 ### PublicRecordsNow
 Find your information here: [https://www.publicrecordsnow.com/](https://www.publicrecordsnow.com/). Click on the orange “click here to opt out” button on  [https://www.publicrecordsnow.com/static/view/contact/](https://www.publicrecordsnow.com/static/view/contact/), fill out the form, complete the captcha and send it in.
