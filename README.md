@@ -207,7 +207,7 @@ Opt out here: [https://unmask.com/opt-out/](https://unmask.com/opt-out/).
 Find and remove your information at [https://www.usa-people-search.com/manage](https://www.usa-people-search.com/manage). 
 
 ### USA-Official
-After finding your information, enter your name and URL at [https://usa-official.com/remove.php](https://usa-official.com/remove.ph).
+After finding your information, enter your name and URL at [https://usa-official.com/remove.php](https://usa-official.com/remove.php).
 
 ### US Search 
 First, you must request your public data. Then you can apply to have the information removed. The form for both is here: [https://www.ussearch.com/suppression-center/](https://www.ussearch.com/suppression-center/). If you are working through this list, you may have already removed this data at Intelius’ suppression center site.
