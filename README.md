@@ -53,7 +53,7 @@ Search for your information here: [https://www.advancedbackgroundchecks.com/](ht
 ### Archives
 To find your information, you must sign up for a free trial here:
 
-[https://www.archives.com/search/ancestor/checkout](https://www.archives.com/search/ancestor/checkout)(and then cancel)
+[https://www.archives.com/search/ancestor/checkout](https://www.archives.com/search/ancestor/checkout) (and then cancel)
 
 Opt out here: [http://www.archives.com/Optout](http://www.archives.com/Optout)
 
@@ -81,7 +81,7 @@ Look for your information here: [https://cocofinder.com/search](https://cocofind
 Find your information here: [https://dataveria.com/](https://dataveria.com/). Opt out by entering the specific profile URL you find here: [https://dataveria.com/ng/control/privacy](https://dataveria.com/ng/control/privacy). You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### Facecheck
-[Facecheck.id](Facecheck.id) is reverse image search software that uses an uploaded image to locate your face across in photos and videos on major social media platforms. If this type of search is something you are concerned about, you can [remove your face from its search](https://facecheck.id/Face-Search/RemoveMyPhotos) engine by searching for your image, uploading a driver’s license or ID card (you can hide your name, address and ID number) or a selfie with your face and two fingers touching your chin. Note that this will not remove your image from the various websites on which it was found, but simply will not allow people to search for it on the Facecheck site. Facecheck also states that it makes an exception for violent criminals. 
+[Facecheck.id](https://Facecheck.id) is reverse image search software that uses an uploaded image to locate your face across in photos and videos on major social media platforms. If this type of search is something you are concerned about, you can [remove your face from its search](https://facecheck.id/Face-Search/RemoveMyPhotos) engine by searching for your image, uploading a driver’s license or ID card (you can hide your name, address and ID number) or a selfie with your face and two fingers touching your chin. Note that this will not remove your image from the various websites on which it was found, but simply will not allow people to search for it on the Facecheck site. Facecheck also states that it makes an exception for violent criminals. 
 
 ### ☠ FamilyTreeNow
 Search for yourself and remove your information here:
@@ -138,17 +138,17 @@ Find your information and opt out here: [https://www.peoplesearchnow.com/opt-out
 PLook for your information here: [https://www.peoplesearchsite.com](https://www.peoplesearchsite.com). Opt out by clicking the link at the bottom of the profile you want to remove. You can also try emailing [info@peoplesearchsite.com](mailto:info@peoplesearchsite.com).
 
 ### Persopo
-Search for your information here: [https://persopo.com/search](https://persopo.com/search). Cut and paste the text of it (which is hard to do because of the 1990s site format, but is required by the site) and email it along with your opt-out request to[support@persopo.com](mailto:support@persopo.com). You can also mail your request to Persopo.com,
-Attention: Opt Out Dept., 848 N. Rainbow Blvd., Suite 20, Las Vegas, NV 89107. (Opt-out instructions are posted here: [http://info.persopo.com/opt-out.html](http://info.persopo.com/opt-out.html)—this site unfortunately does not use HTTPS).
+Search for your information here: [https://persopo.com/search](https://persopo.com/search). Cut and paste the text of it (which is hard to do because of the 1990s site format, but is required by the site) and email it along with your opt-out request to [support@persopo.com](mailto:support@persopo.com). You can also mail your request to Persopo.com,
+Attention: Opt Out Dept., 848 N. Rainbow Blvd., Suite 20, Las Vegas, NV 89107. (Opt-out instructions are posted here: [http://info.persopo.com/opt-out.html](http://info.persopo.com/opt-out.html) — this site unfortunately does not use HTTPS).
 
 ### 🎫 PimEyes
 PimEyes is an online face search engine that uses face recognition to perform a reverse image search, finding pictures of your face (or others like it) throughout the Internet. If you want to see if your photographs are in PimEyes’ database, consider uploading a photo to [https://pimeyes.com/](https://pimeyes.com/). (I used a very public photo that I know is already online, but you can also take a photo with your camera—which PimEyes claims it does not store.)  To opt out, you’ll need to upload an image of your face on [https://pimeyes.com/en/opt-out-request-form](https://pimeyes.com/en/opt-out-request-form), and also attach a photo ID with all sensitive data (other than your name and photograph) blurred. The easiest way to do this, in my opinion, is through Signal, the encrypted messaging app, which has a blur feature described [in its blog](https://signal.org/blog/blur-tools/). You can also use tools such as Photoshop or even make a copy of your ID and use a Sharpie. Finally, you’ll need to provide your email address. 
 
 ### ☠ Pipl
-Go to [https://pipl.com](https://pipl.com/) to find your data. Opt out from Pipl at [https://pipl.com/personal-information-removal-request](https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at [support@pipl.com] (mailto:support@pipl.com).
+Go to [https://pipl.com](https://pipl.com/) to find your data. Opt out from Pipl at [https://pipl.com/personal-information-removal-request](https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at [support@pipl.com](mailto:support@pipl.com).
 
 ### Private Eye
-Look for your info here: [https://www.privateeye.com/](https://www.privateeye.com/static/view/optout/) Opt out here: [https://www.privateeye.com/static/view/optout/](https://www.privateeye.com/static/view/optout/). You can also skip the first part and head to the second. 
+Look for your info here: [https://www.privateeye.com/](https://www.privateeye.com) Opt out here: [https://www.privateeye.com/static/view/optout/](https://www.privateeye.com/static/view/optout/). You can also skip the first part and head to the second. 
 
 ### PrivateRecords 
 Search for your name and state and opt out here: [https://www.privaterecords.net/optOut/name/landing](https://www.privaterecords.net/optOut/name/landing).
@@ -157,7 +157,7 @@ Search for your name and state and opt out here: [https://www.privaterecords.net
 Find your information here: [https://www.publicdatausa.com/optout.php](https://www.publicdatausa.com/optout.php). Then, select the items you’d like removed, and fill out the form at the bottom of the page.
 
 ### PublicRecordsNow
-Find your information here: [https://www.publicrecordsnow.com/]. Click on the orange “click here to opt out” button on  [https://www.publicrecordsnow.com/static/view/contact/](https://www.publicrecordsnow.com/static/view/contact/), fill out the form, complete the captcha and send it in.
+Find your information here: [https://www.publicrecordsnow.com/](https://www.publicrecordsnow.com/). Click on the orange “click here to opt out” button on  [https://www.publicrecordsnow.com/static/view/contact/](https://www.publicrecordsnow.com/static/view/contact/), fill out the form, complete the captcha and send it in.
 
 ### ☠ Radaris
 Find your information here: [http://radaris.com](http://radaris.com/). Click on &quot;control information&quot; and &quot;remove information&quot; by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Details are here: [http://radaris.com/page/how-to-remove](http://radaris.com/page/how-to-remove). You will need to confirm your opt-out request by clicking on a link sent to you via email.
