@@ -65,7 +65,7 @@ Find your information and opt out here: [https://www.backgroundalert.com/optout/
 Find your information and opt out here: [https://www.beenverified.com/app/optout/search](https://www.beenverified.com/app/optout/search). Opt out of property search here: [https://www.beenverified.com/app/optout/address-search](https://www.beenverified.com/app/optout/address-search). BeenVerified also owns PeopleLooker and PeopleSmart. Be aware that BeenVerified only allows one opt-out per email address, so you may need to reach out via email for additional opt-outs. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### CheckPeople
-Look for your contact info here: [https://checkpeople.com/do-not-sell-info](https://checkpeople.com/do-not-sell-info). If it shows up, select "remove record". You will need to fill out a form and captcha, select the record for removal, fill out your name and email, and solve another captcha. You will receive an email which will require you to confirm your opt-out request. 
+Look for your contact info here: [https://checkpeople.com/do-not-sell-info](https://checkpeople.com/do-not-sell-info). If it shows up, select "remove record". You will need to fill out your name and email, and solve a captcha. You will receive an email which will require you to confirm your opt-out request. 
 
 ### Classmates.com
 Cancel your free or paid membership following the instructions here: 
