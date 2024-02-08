@@ -77,6 +77,9 @@ Find your information here: [https://clustrmaps.com/](https://clustrmaps.com). T
 ### CocoFinder
 Look for your information here: [https://cocofinder.com/search](https://cocofinder.com/search). Opt out here: [https://cocofinder.com/remove-my-info](https://cocofinder.com/remove-my-info). It will send you to this Google form: [https://docs.google.com/forms/d/e/1FAIpQLScEgLH9ro7oQR4c0V9E19ug1Gb7wVMrFFSj0Sgx4sjba_ET4Q/viewform](https://docs.google.com/forms/d/e/1FAIpQLScEgLH9ro7oQR4c0V9E19ug1Gb7wVMrFFSj0Sgx4sjba_ET4Q/viewform).
 
+### Cyber Background Checks
+Look for your information here: [https://www.cyberbackgroundchecks.com/](https://www.cyberbackgroundchecks.com/). Opt out here: [https://www.cyberbackgroundchecks.com/removal](https://www.cyberbackgroundchecks.com/removal).
+
 ### Dataveria
 Find your information here: [https://dataveria.com/](https://dataveria.com/). Opt out by entering the specific profile URL you find here: [https://dataveria.com/ng/control/privacy](https://dataveria.com/ng/control/privacy). You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
