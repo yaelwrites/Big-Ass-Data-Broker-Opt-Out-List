@@ -30,7 +30,7 @@ Google further allows you to remove non-consensual or intimate personal images, 
 
 It is hard to find your own info for free, but people in some countries can opt out using the following links:
 
-[https://gdpr-fr.eu.acxiom.com/]([https://www.acxiom.com/privacy/fr/](France)
+[https://gdpr-fr.eu.acxiom.com/](https://gdpr-fr.eu.acxiom.com/) [https://www.acxiom.com/privacy/fr/](https://www.acxiom.com/privacy/fr/) (France)
 
 [https://www.acxiom.com/privacy/datenschutz/](https://www.acxiom.com/privacy/datenschutz/) (Germany)
 
