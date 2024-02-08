@@ -287,7 +287,7 @@ There are several free services available as well. [Have I Been Pwned](https://h
 
 Online privacy and security work hand in hand. There are important steps to take to secure your personal data beyond finding and removing it from people search sites. For my day job, I manage Consumer Reports’ [Security Planner](https://securityplanner.consumerreports.org/), a free, easy-to-use guide to staying safer online. Check it out for personalized recommendations and expert advice on topics such as keeping social media accounts from being hacked, locking down smart speakers and home security cameras, and reducing intrusive tracking by websites. This tool builds upon the work of the Citizen Lab, which originally launched and managed the project.
 
-If you’d like to learn more about me and my other work, feel free to check out my website, [https://yaelwrites.com/](https://yaelwrites.com/). 
+If you’d like to learn more about me and my other work, feel free to check out my website, [Yael Writes](https://yaelwrites.com/). 
 
 
 ## Further reading
