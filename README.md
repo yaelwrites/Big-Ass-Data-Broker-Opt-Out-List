@@ -131,6 +131,9 @@ Find your information here:[https://www.peekyou.com/](https://www.peekyou.com/),
 ### PeopleByName
 Look up your name here: [http://www.peoplebyname.com/people](http://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: http://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out for each record here: [http://www.peoplebyname.com/remove.php](http://www.peoplebyname.com/remove.php). This site, unfortunately, does not support HTTPS.
 
+### PeopleDataLabs
+Their [privacy portal](https://privacy.peopledatalabs.com/policies?modal=take-control) allows for downloading your data as well as requesting the data be deleted, however downloading your data may not work very well if the email address you provided isn't already associated with your account, and you may be giving them more information about you by doing so. An alternate route could be to create a free account (they appear to not allow free email providers, though) and then using their query builder to search for yourself, and their API key and curl command to try to find yourself. This requires more technical knowledge, but may help to avoid giving them _more_ information than they already have about you.
+
 ### ☠ PeopleFinders
 Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here:[https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes Advanced People Search and PublicRecordsNow). The opt-out link also includes information on finding your profile, after you hit next. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
