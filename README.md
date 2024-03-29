@@ -7,7 +7,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-**This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in February 2024 to add Cyber Background Checks, update a link, and improve the listing for CheckPeople. We also added information on Mozilla Monitor and Mozilla Monitor Plus, and removed Spartacus. (And yes, some shameless self-promotion.)
+**This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in March 2024 to update PublicDataUSA, correct an Acxiom link, and add an article about OneRep. We are trying to sort through changes to TruthFinder opt-outs (which appear to be going through PeopleConnect) and White Pages Premium (which appear to be going through PeopleSearch) and will update again once we have clarity.
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact)). Screenshots in emails are incredibly helpful. I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
@@ -38,7 +38,7 @@ It is hard to find your own info for free, but people in some countries can opt 
 
 [https://www.acxiom.com/privacy/es/](https://www.acxiom.com/privacy/es/) (Spain)
 
-[https://isapps.acxiom.com/optout/optout.aspx#section8](https://isapps.acxiom.com/optout/optout.aspx#section8) (U.S.)
+[https://isapps.acxiom.com/optout/](https://isapps.acxiom.com/optout/) (U.S.)
 
 Users in Austria, India and Switzerland may email [Datenschutz@acxiom.com](mailto:Datenschutz@acxiom.com).
 
@@ -157,7 +157,7 @@ Look for your info here: [https://www.privateeye.com/](https://www.privateeye.co
 Search for your name and state and opt out here: [https://www.privaterecords.net/optOut/name/landing](https://www.privaterecords.net/optOut/name/landing).
 
 ### PublicDataUSA
-Find your information here: [https://www.publicdatausa.com/optout.php](https://www.publicdatausa.com/optout.php). Then, select the items you’d like removed, and fill out the form at the bottom of the page.
+Find your information here: [https://www.publicdatausa.com/](https://www.publicdatausa.com/).Copy the URL with your results and enter it along with your name and email address at [https://www.publicdatausa.com/remove.php](https://www.publicdatausa.com/remove.php).
 
 ### PublicRecordsNow
 Find your information here: [https://www.publicrecordsnow.com/](https://www.publicrecordsnow.com/). Click on the orange “click here to opt out” button on  [https://www.publicrecordsnow.com/static/view/contact/](https://www.publicrecordsnow.com/static/view/contact/), fill out the form, complete the captcha and send it in.
@@ -276,7 +276,7 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 ### Additional Options (Paid and Free)
 
-[Brand Yourself](https://brandyourself.com/), [DeleteMe](https://joindeleteme.com/), [DeleteMyInfo](https://www.deletemyinfo.com/), [EasyOptOuts](https://easyoptouts.com/), [IDX Privacy](https://www.idx.us/idx-privacy), [Kanary](https://www.thekanary.com/), [Mozilla Monitor Plus](https://monitor.mozilla.org/) (a white labeled version of OneRep), [OneRep](https://onerep.com/), [Optery](https://www.optery.com), [Privacy Pros](https://privacypros.com/), [Reputation.com](Reputation.com), and [Reputation Defender](https://www.reputationdefender.com/) all offer different opt-out services. In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it. 
+[Brand Yourself](https://brandyourself.com/), [DeleteMe](https://joindeleteme.com/), [DeleteMyInfo](https://www.deletemyinfo.com/), [EasyOptOuts](https://easyoptouts.com/), [IDX Privacy](https://www.idx.us/idx-privacy), [Kanary](https://www.thekanary.com/), [Mozilla Monitor Plus](https://monitor.mozilla.org/) (a white labeled version of OneRep, [at least for now](https://arstechnica.com/gadgets/2024/03/mozillas-privacy-service-drops-a-provider-with-ties-to-people-search-sites/]), [OneRep](https://onerep.com/), [Optery](https://www.optery.com), [Privacy Pros](https://privacypros.com/), [Reputation.com](Reputation.com), and [Reputation Defender](https://www.reputationdefender.com/) are some different options for opt-out services. In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it. 
 
 There are services for media mail as well. For a fee, [PaperKarma](https://www.paperkarma.com/product/paperkarma-subscription/) will remove your name from common direct mail vendors, including charity solicitations, direct mail and catalogs. You can also remove your name from [Valpak coupon packs](https://www.valpak.com/remove-address), for free. Sign up for a free account at [https://www.catalogchoice.org/](https://www.catalogchoice.org/) to cancel catalogs you no longer wish to receive. For a fee, [DMAChoice](https://dmachoice.org/static/consumer_choice_tools.php), will remove your name from prospective mailers, not including political mail or mail from companies you’ve done business with in the past two years. DMAChoice also maintains a Deceased Do Not Contact list to allow you to remove names of deceased individuals for marketing lists, which you can register for [here.](https://www.ims-dm.com/cgi/ddnc.php) (I am sorry for your loss!) 
 
