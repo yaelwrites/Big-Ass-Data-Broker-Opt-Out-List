@@ -115,6 +115,11 @@ Find your information here: [https://www.intelius.com](https://www.intelius.com/
 ### LocatePeople
 Find your information and Record ID here: [https://www.locatepeople.org/](https://www.locatepeople.org/). Opt out here with your Record ID: [https://www.locatepeople.org/optout/](https://www.locatepeople.org/optout/)
 
+### Melissa
+Opt out using their [request form](https://apps.melissa.com/user/consumerprivacy.aspx), by calling 1-800-800-6245 ext. 4, or emailing [ConsumerRequest@melissa.com](mailto:ConsumerRequest@melissa.com).
+You have to sign up for an account in order to search for your information. Unfortunately, the sign up process requires an email address and a phone number as it uses text message verification.
+Their data set includes names, phone numbers, email addresses, and physical addresses. If they have a profile on you, it will have a unique identifier which you can use when requesting deletion by phone or email (the request form does not have a space for it). You can search for your information from [here](https://lookups.melissa.com/home/).
+
 ### ☠ 📞 MyLife
 Find your information here: [https://www.mylife.com](https://www.mylife.com/). 
 Opt out using the following URL: [https://www.mylife.com/ccpa/index.pubview](https://www.mylife.com/ccpa/index.pubview). Although this is CCPA-focused, non-California folks have successfully removed their profiles. However, another option is to email your removal request to [privacy@mylife.com](mailto:privacy@mylife.com) with your name and a link to your profile. MyLife will try to get you to create an account with a copy of your driver’s license to submit a profile removal request, and we’ve received reports that emailing the [info@mylife.com](mailto:info@mylife.com) or [removalrequests@mylife.com](mailto:removalrequests@mylife.com) email addresses will require a phone call to (888) 704-1900. Previously, calling that number and pressing 2 allowed you to be removed from MyLife (and Wink.com) after providing your name, age, date of birth, email address, current mailing address, and a previous mailing address, but this no longer appears to be the case. (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
