@@ -129,7 +129,7 @@ Find your information here: [https://nuwber.com/](https://nuwber.com/). Enter th
 Find your information here: [https://www.peekyou.com/](https://www.peekyou.com/), opt out here: [https://www.peekyou.com/about/contact/optout](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the &quot;unique ID&quot; field. Make sure to check &quot;remove my entire listing.&quot; You can also remove your information from the sites that it says it has aggregated information from.
 
 ### PeopleByName
-Look up your name here: [httpss://www.peoplebyname.com/people/](https://www.peoplebyname.com/people/). Or, you can fill in your name in the URL like this: https://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out for each record here: [http://www.peoplebyname.com/remove.php](https://www.peoplebyname.com/remove.php).
+Look up your name here: [https://www.peoplebyname.com/people/](https://www.peoplebyname.com/people/). Or, you can fill in your name in the URL like this: https://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out for each record here: [http://www.peoplebyname.com/remove.php](https://www.peoplebyname.com/remove.php).
 
 ### ☠ PeopleFinders
 Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here: [https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes Advanced People Search and PublicRecordsNow). The opt-out link also includes information on finding your profile, after you hit next. You will need to confirm your opt-out request by clicking on a link sent to you via email.
