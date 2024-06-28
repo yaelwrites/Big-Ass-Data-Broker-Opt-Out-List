@@ -36,7 +36,7 @@ It is hard to find your own info for free, but people in some countries can opt 
 
 [https://www.acxiom.com/privacy/es/](https://www.acxiom.com/privacy/es/) (Spain)
 
-[https://isapps.acxiom.com/optout/](https://isapps.acxiom.com/optout/) (U.S.)
+[https://www.acxiom.com/optout/](https://www.acxiom.com/optout/) (U.S.)
 
 Users in Austria, India, Germany and Switzerland may email [datenschutz@acxiom.com](mailto:datenschutz@acxiom.com).
 
