@@ -46,7 +46,7 @@ If you don’t have an email address, call (877) 774-2094 and follow the prompts
 
 ### ☠ Advanced Background Checks
 
-Search for your information here: [https://www.advancedbackgroundchecks.com/](https://www.advancedbackgroundchecks.com/). (Remember that you can leave your city and state and your age blank.) If your information shows up, remove your data here: [https://www.advancedbackgroundchecks.com/removal](https://www.advancedbackgroundchecks.com/removal)
+Search for your information here: [https://www.advancedbackgroundchecks.com/](https://www.advancedbackgroundchecks.com/). (Remember that you can leave your city, state and age blank.) If your information shows up, remove your data here: [https://www.advancedbackgroundchecks.com/removal](https://www.advancedbackgroundchecks.com/removal)
 
 ### Archives
 To find your information, you must sign up for a free trial here:
@@ -82,7 +82,7 @@ Look for your information here: [https://www.cyberbackgroundchecks.com/](https:/
 Find your information here: [https://dataveria.com/](https://dataveria.com/). Opt out by entering the specific profile URL you find here: [https://dataveria.com/ng/control/privacy](https://dataveria.com/ng/control/privacy). You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### Facecheck
-[Facecheck.id](https://Facecheck.id) is reverse image search software that uses an uploaded image to locate your face across in photos and videos on major social media platforms. If this type of search is something you are concerned about, you can [remove your face from its search](https://facecheck.id/Face-Search/RemoveMyPhotos) engine by searching for your image, uploading a driver’s license or ID card (you can hide your name, address and ID number) or a selfie with your face and two fingers touching your chin. Note that this will not remove your image from the various websites on which it was found, but simply will not allow people to search for it on the Facecheck site. Facecheck also states that it makes an exception for violent criminals. 
+[Facecheck.id](https://Facecheck.id) is reverse image search software that uses an uploaded image to locate your face across in photos and videos on major social media platforms. If this type of search is something you are concerned about, you can [remove your face from its search engine](https://facecheck.id/Face-Search/RemoveMyPhotos) by searching for your image, uploading a driver’s license or ID card (you can hide your name, address and ID number) or a selfie with your face and two fingers touching your chin. Note that this will not remove your image from the various websites on which it was found, but simply will not allow people to search for it on the Facecheck site. Facecheck also states that it makes an exception for violent criminals. 
 
 ### ☠ FamilyTreeNow
 Search for yourself and remove your information here:
