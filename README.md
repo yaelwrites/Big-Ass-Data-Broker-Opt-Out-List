@@ -216,10 +216,11 @@ First, you must request your public data. Then you can apply to have the informa
 Look for your number and opt out here:[https://www.usphonebook.com/opt-out/](https://www.usphonebook.com/opt-out/).
 
 ### Verecor
-Find your information at [https://verecor.com](https://verecor.com). To opt out, enter the profile URL (along with your name and email) at [https://verecor.com/ng/control/privacy](https://verecor.com/ng/control/privacy). You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email [assist@verecor.com](mailto:assist@verecor.com). 
+Find your information at [https://verecor.com](https://verecor.com). To opt out, enter the profile URL (along with your name and email) at [https://verecor.com/ng/control/privacy](https://verecor.com/ng/control/privacy). You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email [assist@verecor.com](mailto:assist@verecor.com). (If you opt-out of Verecor and try to out-out of Vericora (or the reverse), you will get an error stating: "You have exceeded the maximum number of requests per person." It's not clear if either site respects an opt-out on the other, so use a separate browser session and email to opt-out of each.)
 
 ### Vericora
-Find your information here: [https://vericora.com/profile/search](https://vericora.com/profile/search). Opt out here: [https://vericora.com/ng/control/privacy](https://vericora.com/ng/control/privacy).  
+Find your information here: [https://vericora.com/profile/search](https://vericora.com/profile/search). Opt out here: [https://vericora.com/ng/control/privacy](https://vericora.com/ng/control/privacy). (If you opt-out of Verecor and try to out-out of Vericora (or the reverse), you will get an error stating: "You have exceeded the maximum number of requests per person." It's not clear if either site respects an opt-out on the other, so use a separate browser session and email to opt-out of each.)
+
 
 ### VoterRecords
 Go to [VoterRecords.com](https://voterrecords.com/), find your information, scroll to the bottom of the page and click on the &quot;record opt-out&quot; link. This will lead to an opt-out form, which you’ll need to submit. You may receive a verification link you’ll need to click on to verify your opt-out request.
