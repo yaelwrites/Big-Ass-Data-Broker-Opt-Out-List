@@ -7,7 +7,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in July 2024 to to replace HTTP links with now-available HTTPS links, and to remove defunct data broker sites. We also added information for healthcare workers with National Provider Index (NPI) numbers, who may now use a PO Box instead of a home address. We also added some contextual information about Verecor/Vericora.
+This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in July 2024 to to replace HTTP links with now-available HTTPS links, and to remove defunct data broker sites and ones that are owned by other sites and no longer have independent opt-out forms. We also added information for healthcare workers with National Provider Index (NPI) numbers, who may now use a PO Box instead of a home address. We also added some contextual information about Verecor/Vericora.
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact)). Screenshots in emails are incredibly helpful. I add opt-out info only if users can verify that the data broker has their information before sharing additional data, and where removal is not limited to local laws like GDPR, CCPA, etc. 
 
