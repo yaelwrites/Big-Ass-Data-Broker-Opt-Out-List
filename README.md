@@ -192,9 +192,6 @@ Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if
 ### TruePeopleSearch
 Follow the removal instructions here: [https://www.truepeoplesearch.com/removal](https://www.truepeoplesearch.com/removal). You will need to enter your  name, city and state, and email address, and then you’ll need to solve several captchas to see if you are listed, after which you can remove your information.
 
-### ☠ TruthFinder
-First, request your public data at [https://www.truthfinder.com/suppression-center](https://www.truthfinder.com/suppression-center). Then, fill out a suppression request form. You can also send your removal request in the mail to TruthFinder, attn: OptOut, 2534 State St., Suite 473, San Diego, CA 92101. If you find your information after you have opted out, contact Truthfinder at (800) 699-8081 or [help@truthfinder.com](mailto:help@truthfinder.com). You can also contact TruthFinder by filling out a web form at [https://www.truthfinder.com/contact/](https://www.truthfinder.com/contact/). If you are working through this list, you may have already removed this data at Intelius’ suppression center site.
-
 ### United States Phone Book
 Search for your information here: [https://www.unitedstatesphonebook.com/search.php](https://www.unitedstatesphonebook.com/search.php).
 If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site in this page [https://www.unitedstatesphonebook.com/contact.php](https://www.unitedstatesphonebook.com/contact.php).
