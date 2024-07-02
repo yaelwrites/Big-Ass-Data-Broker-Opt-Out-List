@@ -7,7 +7,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in July 2024 to to replace HTTP links with now-available HTTPS links, and to remove defunct data broker sites. 
+This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in July 2024 to to replace HTTP links with now-available HTTPS links, and to remove defunct data broker sites. We also added information for healthcare workers with National Provider Index (NPI) numbers, who may now use a PO Box instead of a home address. 
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact)). Screenshots in emails are incredibly helpful. I will add opt-outs where users can verify that the data broker has their information before providing it, and where removal is not limited to GDPR/CCPA/etc.
 
