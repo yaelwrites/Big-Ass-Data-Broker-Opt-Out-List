@@ -134,9 +134,6 @@ Find your information here: [https://www.peoplefinders.com/](https://www.peoplef
 ### PeopleSearchNow
 Find your information and opt out here: [https://www.peoplesearchnow.com/opt-out](https://www.peoplesearchnow.com/opt-out).
 
-### PeopleSearchSite
-PLook for your information here: [https://www.peoplesearchsite.com](https://www.peoplesearchsite.com). Opt out by clicking the link at the bottom of the profile you want to remove. You can also try emailing [info@peoplesearchsite.com](mailto:info@peoplesearchsite.com).
-
 ### Persopo
 Search for your information here: [https://persopo.com/search](https://persopo.com/search). Cut and paste the text of it (which is hard to do because of the 1990s site format, but is required by the site) and email it along with your opt-out request to [support@persopo.com](mailto:support@persopo.com). You can also mail your request to Persopo.com,
 Attention: Opt Out Dept., 848 N. Rainbow Blvd., Suite 20, Las Vegas, NV 89107. (Opt-out instructions are posted here: [https://info.persopo.com/opt-out.html](https://info.persopo.com/opt-out.html).
