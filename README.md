@@ -140,9 +140,6 @@ PimEyes is an online face search engine that uses face recognition to perform a 
 ### ☠ Pipl
 Go to [https://pipl.com](https://pipl.com/) to find your data. Opt out from Pipl at [https://pipl.com/personal-information-removal-request](https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at [support@pipl.com](mailto:support@pipl.com).
 
-### Private Eye
-Look for your info here: [https://www.privateeye.com/](https://www.privateeye.com) Opt out here: [https://www.privateeye.com/static/view/optout/](https://www.privateeye.com/static/view/optout/). You can also skip the first part and head to the second. 
-
 ### PrivateRecords 
 Search for your name and state and opt out here: [https://www.privaterecords.net/optOut/name/landing](https://www.privaterecords.net/optOut/name/landing).
 
