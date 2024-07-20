@@ -159,7 +159,7 @@ Find your information here: [https://radaris.com](https://radaris.com/). Click o
 Look up your home address here: [https://rehold.com/](https://rehold.com/). If there is a number or name next to it you’d like removed, click on  the red “remove” button next to it. You will need to enter your name and email address and solve a captcha.
 
 ### 💰 Searchbug
-Unfortunately, you have to sign up with a credit card to search for your information at [https://www.searchbug.com](https://www.searchbug.com/), though your first search is free. You can contact Searchbug using the contact form or chat link on this page [https://www.searchbug.com/contact-us.aspx](https://www.searchbug.com/contact-us.aspx) or via phone or text at (760) 652-4050 or via fax at (760) 454-7341 to to ask them to block the display of your personal information. 
+Unfortunately, you have to sign up with a credit card to search for your information at [https://www.searchbug.com](https://www.searchbug.com/), though your first search is free. You can contact Searchbug using the contact form or chat link on this page [https://www.searchbug.com/contact-us.aspx](https://www.searchbug.com/contact-us.aspx) or via phone or text at (760) 454-7301 or via fax at (760) 454-7341 to to ask them to block the display of your personal information. 
 
 ### SearchPeopleFree
 Find your information here: [https://www.searchpeoplefree.com/](https://www.searchpeoplefree.com/), making sure to search by name, phone number, address and email address: Opt out here: [https://www.searchpeoplefree.com/opt-out](https://www.searchpeoplefree.com/opt-out).
