@@ -184,10 +184,6 @@ Follow the removal instructions here: [https://www.truepeoplesearch.com/removal]
 Search for your information here: [https://www.unitedstatesphonebook.com/search.php](https://www.unitedstatesphonebook.com/search.php).
 If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site in this page [https://www.unitedstatesphonebook.com/contact.php](https://www.unitedstatesphonebook.com/contact.php).
 
-### Unmask 
-Look for your data here: [https://unmask.com/](https://unmask.com/).
-Opt out here: [https://unmask.com/opt-out/](https://unmask.com/opt-out/).
-
 ### USA People Search
 Find and remove your information at [https://www.usa-people-search.com/manage](https://www.usa-people-search.com/manage). 
 
