@@ -7,7 +7,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in July 2024 to to replace HTTP links with now-available HTTPS links, and to remove defunct data broker sites and ones that are owned by other sites and no longer have independent opt-out forms. We also added information for healthcare workers with National Provider Index (NPI) numbers, who may now use a PO Box instead of a home address. We also added some contextual information about Verecor/Vericora. Lastly, we fixed various typos and updated contact info for Searchbug and Acxiom.
+This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in July 2024 to to replace HTTP links with now-available HTTPS links, and to remove defunct data broker sites and ones that are owned by other sites and no longer have independent opt-out forms. We also added information for healthcare workers with National Provider Index (NPI) numbers, who may now use a PO Box instead of a home address. We also added some contextual information about Verecor/Vericora. We fixed various typos and updated contact info for Searchbug and Acxiom. Lastly, we updated our ☠high priority☠ list.  
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact)). Screenshots in emails are incredibly helpful. I add opt-out info only if users can verify that the data broker has their information before sharing additional data, and where removal is not limited to local laws like GDPR, CCPA, etc. 
 
@@ -62,14 +62,14 @@ Find your information and opt out here: [https://www.backgroundalert.com/optout/
 ### ☠ BeenVerified
 Find your information and opt out here: [https://www.beenverified.com/app/optout/search](https://www.beenverified.com/app/optout/search). Opt out of property search here: [https://www.beenverified.com/app/optout/address-search](https://www.beenverified.com/app/optout/address-search). BeenVerified also owns PeopleLooker and PeopleSmart. Be aware that BeenVerified only allows one opt-out per email address, so you may need to reach out via email for additional opt-outs. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
-### CheckPeople
+### ☠CheckPeople
 Look for your contact info here: [https://checkpeople.com/do-not-sell-info](https://checkpeople.com/do-not-sell-info). If it shows up, select "remove record". You will need to fill out your name and email, and solve a captcha. You will receive an email which will require you to confirm your opt-out request. 
 
 ### Classmates.com
 Cancel your free or paid membership following the instructions here: 
 [https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-).
 
-### ClustrMaps
+### ☠ClustrMaps
 Find your information here: [https://clustrmaps.com/](https://clustrmaps.com). To remove it, go here: [https://clustrmaps.com/bl/opt-out](https://clustrmaps.com/bl/opt-out). It will ask you for a mailing address, but doesn’t seem to verify it. It will then ask you to check off anything associated with your account that you want removed.
 
 ### CocoFinder
@@ -78,7 +78,7 @@ Look for your information here: [https://cocofinder.com/search](https://cocofind
 ### Cyber Background Checks
 Look for your information here: [https://www.cyberbackgroundchecks.com/](https://www.cyberbackgroundchecks.com/). Opt out here: [https://www.cyberbackgroundchecks.com/removal](https://www.cyberbackgroundchecks.com/removal).
 
-### Dataveria
+### ☠Dataveria
 Find your information here: [https://dataveria.com/](https://dataveria.com/). Opt out by entering the specific profile URL you find here: [https://dataveria.com/ng/control/privacy](https://dataveria.com/ng/control/privacy). You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### Facecheck
@@ -95,7 +95,7 @@ Look for and remove your information here: [https://www.fastpeoplesearch.com/rem
 ### FreePeopleDirectory
 Search for your information at [https://www.freepeopledirectory.com](https://www.freepeopledirectory.com). If you find it, you can opt out on Spokeo at [https://www.spokeo.com/optout](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section.
 
-### Glad I Know
+### ☠Glad I Know
 Find your information here: [https://gladiknow.com/](https://gladiknow.com/). Follow these instructions to remove your data: [https://gladiknow.com/opt-out](https://gladiknow.com/opt-out). You can remove your information without downloading your free report, and email [support@gladiknow.com](mailto:support@gladiknow.com) for assistance.
 
 ### Homemetry
@@ -117,7 +117,7 @@ Opt out using the following URL: [https://www.mylife.com/ccpa/index.pubview](htt
 ### NeighborReport
 Search for your name, address or phone number at [https://neighbor.report/](https://neighbor.report). To remove a report, go to [https://neighbor.report/remove](https://neighbor.report/remove). You will need to verify the opt-out request via email.
 
-### Nuwber
+### ☠Nuwber
 Find your information here: [https://nuwber.com/](https://nuwber.com/). Enter the URL of the profile page you found and your email address here: [https://nuwber.com/removal/link](https://nuwber.com/removal/link). You will need to confirm your opt-out request by clicking on a link sent to you via email. Your profile will look like this "https://nuwber.com/person/563a151aa219445d5225ff38." Be careful not to accidentally click on a Truthfinder link (conveniently up top). You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### ☠ PeekYou
@@ -141,7 +141,7 @@ Go to [https://pipl.com](https://pipl.com/) to find your data. Opt out from Pipl
 ### PrivateRecords 
 Search for your name and state and opt out here: [https://www.privaterecords.net/optOut/name/landing](https://www.privaterecords.net/optOut/name/landing).
 
-### PublicDataUSA
+### ☠PublicDataUSA
 Find your information here: [https://www.publicdatausa.com/](https://www.publicdatausa.com/). Copy the URL with your results and enter it along with your name and email address at [https://www.publicdatausa.com/remove.php](https://www.publicdatausa.com/remove.php).
 
 ### PublicRecordsNow
@@ -174,7 +174,7 @@ Find your information here [https://www.spokeo.com/search](https://www.spokeo.co
 ### SpyFly
 Look for your data here: [https://www.spyfly.com](https://www.spyfly.com). Opt out here: [https://www.spyfly.com/help-center/remove-my-public-record](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing [support@spyfly.com](mailto:support@spyfly.com). You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
 
-### That’s Them
+###  ☠That’s Them
 Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if it shows up, try to opt out here: [https://thatsthem.com/optout](https://thatsthem.com/optout). Do not click on the Spokeo identity theft protection link, as it is a paid product.
 
 ### TruePeopleSearch
