@@ -7,7 +7,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in August 2024 to update our information on paid people-search opt out services and link to an evaluation conducted in partnership with Tall Poppy.
+This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in August 2024 to update our information on paid people-search opt out services, to link to an evaluation conducted in partnership with Tall Poppy, and to add Veripages and information on Google’s Results About You tool.
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact)). Screenshots in emails are incredibly helpful. I add opt-out info only if users can verify that the data broker has their information before sharing additional data, and where removal is not limited to local laws like GDPR, CCPA, etc.
 
@@ -22,7 +22,9 @@ If you've been doxed, you can remove your contact info from Google Search and Bi
 
 [https://www.microsoft.com/en-ca/concern/bing](https://www.microsoft.com/en-ca/concern/bing)
 
-Google further allows you to remove non-consensual or intimate personal images, involuntary fake pornography, irrelevant pornography from Google search results for your name, content about you on sites with exploitative removal practices, and several other categories of information.
+Google allows you to remove non-consensual or intimate personal images, involuntary fake pornography, irrelevant pornography from Google search results for your name, content about you on sites with exploitative removal practices, and several other categories of information.
+
+Google has a free service called Results About You, that allows you to search for your data and ask for it to be deindexed. You can learn more on the following page: [https://support.google.com/websearch/answer/12719076](https://support.google.com/websearch/answer/12719076).
 
 ## People Search Sites
 
