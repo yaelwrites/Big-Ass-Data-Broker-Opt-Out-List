@@ -5,6 +5,7 @@
 | ☠       | high priority                                        |
 | 🎫      | requires driver’s license (cross out your ID #!)     |
 | 📫      | must use snail mail                                  |
+| 📞      | may require phone call                               |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
 This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in August 2024 to update our information on paid people-search opt out services, to link to an evaluation conducted in partnership with Tall Poppy, and to add Veripages and information on Google’s Results About You tool.
