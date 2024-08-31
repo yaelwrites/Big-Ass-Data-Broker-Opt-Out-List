@@ -4,6 +4,7 @@
 | ------- | ---------------------------------------------------- |
 | ☠       | high priority                                        |
 | 🎫      | requires driver’s license (cross out your ID #!)     |
+| 📞      | must pick up a (gasp!) phone                         |
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
