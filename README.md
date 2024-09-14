@@ -8,7 +8,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in August 2024 to update our information on paid people-search opt out services, to link to an evaluation conducted in partnership with Tall Poppy, and to add Veripages and information on Google’s Results About You tool.
+This list, also known as BADBOOL, was started on September 29, 2017 and was most recently updated in September 2024 to link to [this handy chart](https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/) for folks who want to fill in the gaps after signing up for a paid removal service.
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact)). Screenshots in emails are incredibly helpful. I add opt-out info only if users can verify that the data broker has their information before sharing additional data, and where removal is not limited to local laws like GDPR, CCPA, etc.
 
@@ -259,7 +259,7 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 While there are over a dozen different data broker opt-out services, I personally use and recommend [EasyOptOuts](https://easyoptouts.com/). For more information on people search site removal services, see [the evaluation I conducted at Consumer Reports in partnership with Tall Poppy](https://innovation.consumerreports.org/new-report-data-defense-evaluating-people-search-site-removal-services/).
 
-In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it.
+In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it. You can fill in the gaps using [this handy chart](https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/).
 
 There are services for media mail as well. For a fee, [PaperKarma](https://www.paperkarma.com/product/paperkarma-subscription/) will remove your name from common direct mail vendors, including charity solicitations, direct mail and catalogs. You can also remove your name from [Valpak coupon packs](https://www.valpak.com/remove-address), for free. Sign up for a free account at [https://www.catalogchoice.org/](https://www.catalogchoice.org/) to cancel catalogs you no longer wish to receive. For a fee, [DMAChoice](https://dmachoice.org/static/consumer_choice_tools.php), will remove your name from prospective mailers, not including political mail or mail from companies you’ve done business with in the past two years. DMAChoice also maintains a Deceased Do Not Contact list to allow you to remove names of deceased individuals for marketing lists, which you can register for [here](https://www.ims-dm.com/cgi/ddnc.php). (I am sorry for your loss!)
 
