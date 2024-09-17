@@ -11,7 +11,7 @@
 
 This list, also known as BADBOOL, was started in September 2017 and was most recently updated in September 2024 to link to [this handy chart](https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/) for folks who want to fill in the gaps after signing up for a paid removal service. We also added a 💐new icon💐 and information on how to use this page. Lastly, we updated Homemetry with its new name, removed US Search (which uses the same opt-out form as Intelius), removed PublicRecordsNow, and updated the opt-out process for Nuwber.
 
-How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 13, start with sites marked 💐. If you can do 21, go to sites marked ☠ . Once you’ve completed all of those, you can start to work your way through the rest of the list. 
+How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 14, start with sites marked 💐. If you can do 21, go to sites marked ☠ . Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact)). Screenshots in emails are incredibly helpful. I add opt-out info only if users can verify that the data broker has their information before sharing additional data, and where removal is not limited to local laws like GDPR, CCPA, etc.
 
