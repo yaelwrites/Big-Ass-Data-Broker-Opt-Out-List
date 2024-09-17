@@ -9,13 +9,13 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated in September 2024 to link to [this handy chart](https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/) for folks who want to fill in the gaps after signing up for a paid removal service. We also added a 💐new icon💐 and information on how to use this page.
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated in September 2024 to link to [this handy chart](https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/) for folks who want to fill in the gaps after signing up for a paid removal service. We also added a 💐new icon💐 and information on how to use this page. Lastly, we updated Homemetry with its new name, removed US Search (which uses the same opt-out form as Intelius), removed PublicRecordsNow, and updated the opt-out process for Nuwber.
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 13, start with sites marked 💐. If you can do 21, go to sites marked ☠ . Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
 Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact)). Screenshots in emails are incredibly helpful. I add opt-out info only if users can verify that the data broker has their information before sharing additional data, and where removal is not limited to local laws like GDPR, CCPA, etc.
 
-_Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, information is pulled from other sources and you’ll need to opt out multiple times for the same site. Data brokers come and go (and are bought out by others), and they also often change their opt-out pages. I try to update this ~every six months, but it’s not always current. Finally, even opting out of these sites doesn’t mean that your address is secure. In many states, real estate data and voter registration information is public (or easy to obtain). And, of course, location data can be found by physical means (e.g., following you home) and through other people who know it (i.e., social engineering). That said, removing your home address from data broker sites can significantly lower your attack surface and make it harder for people to find it. 💕_
+_Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, information is pulled from other sources and you’ll need to opt out multiple times for the same site. Data brokers come and go (and are bought out by others), and they also often change their opt-out pages. I update this regularly, but it’s not always current. Finally, even opting out of these sites doesn’t mean that your address is secure. In many states, real estate data and voter registration information is public (or easy to obtain). And, of course, location data can be found by physical means (e.g., following you home) and through other people who know it (i.e., social engineering). That said, removing your home address from data broker sites can significantly lower your attack surface and make it harder for people to find it. 💕_
 
 CC BY-NC-SA: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
 
@@ -46,7 +46,7 @@ It is hard to find your own info for free, but people in some countries can opt 
 
 Users in Austria, Germany, India and Switzerland may email [Datenschutz@acxiom.com](mailto:Datenschutz@acxiom.com).
 
-Other international requests should click on [https://privacyportal.onetrust.com/webform/342ca6ac-4177-4827-b61e-19070296cbd3/6896cf25-6953-4500-9c69-5a8fb6f6f932](https://privacyportal.onetrust.com/webform/342ca6ac-4177-4827-b61e-19070296cbd3/6896cf25-6953-4500-9c69-5a8fb6f6f932)
+Other international requests should go to [https://privacyportal.onetrust.com/webform/342ca6ac-4177-4827-b61e-19070296cbd3/6896cf25-6953-4500-9c69-5a8fb6f6f932](https://privacyportal.onetrust.com/webform/342ca6ac-4177-4827-b61e-19070296cbd3/6896cf25-6953-4500-9c69-5a8fb6f6f932)
 
 If you don’t have an email address, call (877) 774-2094 and follow the prompts.
 
@@ -95,7 +95,7 @@ Search for yourself and remove your information here:
 
 [https://www.familytreenow.com/optout](https://www.familytreenow.com/optout)
 
-### ☠ FastPeopleSearch
+### ☠ FastPeopleSearch.com
 Look for and remove your information here: [https://www.fastpeoplesearch.com/removal](https://www.fastpeoplesearch.com/removal). You may need to solve a captcha.
 
 ### FreePeopleDirectory
@@ -104,8 +104,8 @@ Search for your information at [https://www.freepeopledirectory.com](https://www
 ### ☠ 💐 Glad I Know
 Find your information here: [https://gladiknow.com/](https://gladiknow.com/). Follow these instructions to remove your data: [https://gladiknow.com/opt-out](https://gladiknow.com/opt-out). You can remove your information without downloading your free report, and email [support@gladiknow.com](mailto:support@gladiknow.com) for assistance.
 
-### Homemetry
-Look for your home address here: [https://homemetry.com/](https://homemetry.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
+### HudwayGlass
+Look for your home address here: [https://hudwayglass.com](https://hudwayglass.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
 
 ### IDTrue
 Find your information and out here: [https://www.idtrue.com/optout/](https://www.idtrue.com/optout/)
@@ -133,7 +133,7 @@ Find your information here: [https://www.peekyou.com/](https://www.peekyou.com/)
 Look up your name here: [https://www.peoplebyname.com/people](https://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: https://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out for each record here: [https://www.peoplebyname.com/remove.php](https://www.peoplebyname.com/remove.php).
 
 ### ☠ 💐 PeopleFinders
-Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here: [https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes Advanced People Search and PublicRecordsNow). The opt-out link also includes information on finding your profile, after you hit next. You will need to confirm your opt-out request by clicking on a link sent to you via email.
+Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here: [https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes Advanced People Search). The opt-out link also includes information on finding your profile, after you hit next. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### PeopleSearchNow
 Find your information and opt out here: [https://www.peoplesearchnow.com/opt-out](https://www.peoplesearchnow.com/opt-out).
@@ -149,9 +149,6 @@ Search for your name and state and opt out here: [https://www.privaterecords.net
 
 ### ☠ 💐 PublicDataUSA
 Find your information here: [https://www.publicdatausa.com/](https://www.publicdatausa.com/). Copy the URL with your results and enter it along with your name and email address at [https://www.publicdatausa.com/remove.php](https://www.publicdatausa.com/remove.php).
-
-### PublicRecordsNow
-Find your information here: [https://www.publicrecordsnow.com/](https://www.publicrecordsnow.com/). Click on the orange “click here to opt out” button on  [https://www.publicrecordsnow.com/static/view/contact/](https://www.publicrecordsnow.com/static/view/contact/), fill out the form, complete the captcha and send it in.
 
 ### ☠ 💐 Radaris
 Find your information here: [https://radaris.com](https://radaris.com/). Click on &quot;control information&quot; and &quot;remove information&quot; by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Details are here: [https://radaris.com/page/how-to-remove](https://radaris.com/page/how-to-remove). You will need to confirm your opt-out request by clicking on a link sent to you via email.
@@ -195,9 +192,6 @@ Find and remove your information at [https://www.usa-people-search.com/manage](h
 
 ### USA-Official
 After finding your information, enter your name and URL at [https://usa-official.com/remove.php](https://usa-official.com/remove.php).
-
-### US Search
-First, you must request your public data. Then you can apply to have the information removed. The form for both is here: [https://www.ussearch.com/suppression-center/](https://www.ussearch.com/suppression-center/). If you are working through this list, you may have already removed this data at Intelius’ suppression center site.
 
 ### ☠ USPhoneBook
 Look for your number and opt out here: [https://www.usphonebook.com/opt-out/](https://www.usphonebook.com/opt-out/).
