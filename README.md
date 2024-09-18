@@ -13,40 +13,32 @@ This list, also known as BADBOOL, was started in September 2017 and was most rec
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 14, start with sites marked 💐. If you can do 21, go to sites marked ☠ . Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
-Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com), or file a pull request. (You can find other ways to contact me [here](https://yaelwrites.com/contact)). Screenshots in emails are incredibly helpful. I add opt-out info only if users can verify that the data broker has their information before sharing additional data, and where removal is not limited to local laws like GDPR, CCPA, etc.
+Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com) using the subject line “BADBOOL,” or file a pull request. (You can find other ways to reach me [on the contact page on my website](https://yaelwrites.com/contact).) Screenshots in emails are incredibly helpful. I add opt-out info only if users can verify that the data broker has their information before sharing additional data, and where removal is not limited to local laws like GDPR, CCPA, etc.
 
 _Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, information is pulled from other sources and you’ll need to opt out multiple times for the same site. Data brokers come and go (and are bought out by others), and they also often change their opt-out pages. I update this regularly, but it’s not always current. Finally, even opting out of these sites doesn’t mean that your address is secure. In many states, real estate data and voter registration information is public (or easy to obtain). And, of course, location data can be found by physical means (e.g., following you home) and through other people who know it (i.e., social engineering). That said, removing your home address from data broker sites can significantly lower your attack surface and make it harder for people to find it. 💕_
 
 CC BY-NC-SA: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
 
 ## Search Engines
-If you've been doxed, you can remove your contact info from Google Search and Bing.
-
-[https://support.google.com/websearch/troubleshooter/3111061](https://support.google.com/websearch/troubleshooter/3111061)
-
-[https://www.microsoft.com/en-ca/concern/bing](https://www.microsoft.com/en-ca/concern/bing)
+If you've been doxed, you can remove your contact info [from Google Search](https://support.google.com/websearch/troubleshooter/3111061) and [from Bing](https://www.microsoft.com/en-ca/concern/bing).
 
 Google allows you to remove non-consensual or intimate personal images, involuntary fake pornography, irrelevant pornography from Google search results for your name, content about you on sites with exploitative removal practices, and several other categories of information.
 
-Google has a free service called Results About You, that allows you to search for your data and ask for it to be deindexed. You can learn more on the following page: [https://support.google.com/websearch/answer/12719076](https://support.google.com/websearch/answer/12719076).
+Google has a free service called [Results About You](https://support.google.com/websearch/answer/12719076), that allows you to search for your data and ask for it to be deindexed.
 
 ## People Search Sites
 
 ### ☠ Acxiom
 
 It is hard to find your own info for free, but people in some countries can opt out using the following links:
-
-[https://www.acxiom.com/privacy/fr/](https://www.acxiom.com/privacy/fr/) (France)
-
-[https://www.acxiom.com/privacy/it/](https://www.acxiom.com/privacy/it/) (Italy)
-
-[https://www.acxiom.com/privacy/es/](https://www.acxiom.com/privacy/es/) (Spain)
-
-[https://www.acxiom.com/optout/](https://www.acxiom.com/optout/) (U.S.)
+[Portail des droits des consommateurs | Acxiom](https://www.acxiom.com/privacy/fr/) (France)
+[Portale delle preferenze dei consumatori | Acxiom](https://www.acxiom.com/privacy/it/) (Italy)
+[Portal de preferencia del consumidor | Acxiom](https://www.acxiom.com/privacy/es/) (Spain)
+[US Consumer Opt Out | Acxiom](https://www.acxiom.com/optout/) (U.S.)
 
 Users in Austria, Germany, India and Switzerland may email [Datenschutz@acxiom.com](mailto:Datenschutz@acxiom.com).
 
-Other international requests should go to [https://privacyportal.onetrust.com/webform/342ca6ac-4177-4827-b61e-19070296cbd3/6896cf25-6953-4500-9c69-5a8fb6f6f932](https://privacyportal.onetrust.com/webform/342ca6ac-4177-4827-b61e-19070296cbd3/6896cf25-6953-4500-9c69-5a8fb6f6f932)
+Other international requests should go to the [Acxiom Consumer International Rights Portal](https://privacyportal.onetrust.com/webform/342ca6ac-4177-4827-b61e-19070296cbd3/6896cf25-6953-4500-9c69-5a8fb6f6f932).
 
 If you don’t have an email address, call (877) 774-2094 and follow the prompts.
 
