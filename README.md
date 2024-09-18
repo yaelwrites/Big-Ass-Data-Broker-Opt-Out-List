@@ -43,38 +43,31 @@ Other international requests should go to the [Acxiom Consumer International Rig
 If you don’t have an email address, call (877) 774-2094 and follow the prompts.
 
 ### ☠ Advanced Background Checks
-
-Search for your information here: [https://www.advancedbackgroundchecks.com/](https://www.advancedbackgroundchecks.com/). (Remember that you can leave your city, state and age blank.) If your information shows up, remove your data here: [https://www.advancedbackgroundchecks.com/removal](https://www.advancedbackgroundchecks.com/removal)
+First, [search for your information](https://www.advancedbackgroundchecks.com). Remember that you can leave your city, state, and age blank. If your information shows up, [remove your data](https://www.advancedbackgroundchecks.com/removal).
 
 ### Archives
-To find your information, you must sign up for a free trial here:
-
-[https://www.archives.com/search/ancestor/checkout](https://www.archives.com/search/ancestor/checkout) (and then cancel)
-
-Opt out here: [https://www.archives.com/Optout](https://www.archives.com/Optout)
+To find your information, you must [sign up for a free trial](https://www.archives.com/search/ancestor/checkout) (and then cancel). Then, [opt out](https://www.archives.com/Optout) if you found your data.
 
 ### 🎫 BackgroundAlert
-
-Find your information and opt out here: [https://www.backgroundalert.com/optout/](https://www.backgroundalert.com/optout/).
+[Find your information](https://www.backgroundalert.com/optout/) and opt out.
 
 ### ☠ 💐 BeenVerified
-Find your information and opt out here: [https://www.beenverified.com/app/optout/search](https://www.beenverified.com/app/optout/search). Opt out of property search here: [https://www.beenverified.com/app/optout/address-search](https://www.beenverified.com/app/optout/address-search). BeenVerified also owns PeopleLooker and PeopleSmart. Be aware that BeenVerified only allows one opt-out per email address, so you may need to reach out via email for additional opt-outs. You will need to confirm your opt-out request by clicking on a link sent to you via email.
+Find your information and opt out of [people search](https://www.beenverified.com/app/optout/search) and [property search](https://www.beenverified.com/app/optout/address-search). BeenVerified also owns PeopleLooker and PeopleSmart. Be aware that BeenVerified only allows one opt-out per email address, so you may need to reach out via email for additional opt-outs. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### ☠ 💐 CheckPeople
-Look for your contact info here: [https://checkpeople.com/do-not-sell-info](https://checkpeople.com/do-not-sell-info). If it shows up, select "remove record". You will need to fill out your name and email, and solve a captcha. You will receive an email which will require you to confirm your opt-out request.
+Look for [your contact info](https://checkpeople.com/do-not-sell-info). If it shows up, select “remove record.” You will need to fill out your name and email and solve a captcha.  You will receive an email which will require you to confirm your opt-out request.
 
 ### Classmates.com
-Cancel your free or paid membership following the instructions here:
-[https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-).
+Cancel your free or paid membership following [these instructions](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-.).
 
 ### ☠ 💐 ClustrMaps
-Find your information here: [https://clustrmaps.com/](https://clustrmaps.com). To remove it, go here: [https://clustrmaps.com/bl/opt-out](https://clustrmaps.com/bl/opt-out). It will ask you for a mailing address, but doesn’t seem to verify it. It will then ask you to check off anything associated with your account that you want removed.
+[Find your information](https://clustrmaps.com/), and then [remove it](https://clustrmaps.com/bl/opt-out). It will ask you for a mailing address, but doesn’t seem to verify it. It will then ask you to check off anything associated with your account that you want removed.
 
 ### CocoFinder
-Look for your information here: [https://cocofinder.com/search](https://cocofinder.com/search). Opt out here: [https://cocofinder.com/remove-my-info](https://cocofinder.com/remove-my-info). It will send you to this Google form: [https://docs.google.com/forms/d/e/1FAIpQLScEgLH9ro7oQR4c0V9E19ug1Gb7wVMrFFSj0Sgx4sjba_ET4Q/viewform](https://docs.google.com/forms/d/e/1FAIpQLScEgLH9ro7oQR4c0V9E19ug1Gb7wVMrFFSj0Sgx4sjba_ET4Q/viewform).
+[Look for your information](https://cocofinder.com/search) and then [opt out](https://cocofinder.com/remove-my-info). You will be sent to a [Google form](https://docs.google.com/forms/d/e/1FAIpQLScEgLH9ro7oQR4c0V9E19ug1Gb7wVMrFFSj0Sgx4sjba_ET4Q/viewform).
 
 ### Cyber Background Checks
-Look for your information here: [https://www.cyberbackgroundchecks.com/](https://www.cyberbackgroundchecks.com/). Opt out here: [https://www.cyberbackgroundchecks.com/removal](https://www.cyberbackgroundchecks.com/removal).
+Look for [your information](https://www.cyberbackgroundchecks.com/) and [opt out](https://www.cyberbackgroundchecks.com/removal). 
 
 ### ☠ Dataveria
 Find your information here: [https://dataveria.com/](https://dataveria.com/). Opt out by entering the specific profile URL you find here: [https://dataveria.com/ng/control/privacy](https://dataveria.com/ng/control/privacy). You will need to confirm your opt-out request by clicking on a link sent to you via email.
