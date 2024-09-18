@@ -31,18 +31,14 @@ Google has a free service called [Results About You](https://support.google.com/
 ### ☠ Acxiom
 
 It is hard to find your own info for free, but people in some countries can opt out using the following links:
-
-[https://www.acxiom.com/privacy/fr/](https://www.acxiom.com/privacy/fr/) (France)
-
-[https://www.acxiom.com/privacy/it/](https://www.acxiom.com/privacy/it/) (Italy)
-
-[https://www.acxiom.com/privacy/es/](https://www.acxiom.com/privacy/es/) (Spain)
-
-[https://www.acxiom.com/optout/](https://www.acxiom.com/optout/) (U.S.)
+[Portail des droits des consommateurs | Acxiom](https://www.acxiom.com/privacy/fr/) (France)
+[Portale delle preferenze dei consumatori | Acxiom](https://www.acxiom.com/privacy/it/) (Italy)
+[Portal de preferencia del consumidor | Acxiom](https://www.acxiom.com/privacy/es/) (Spain)
+[US Consumer Opt Out | Acxiom](https://www.acxiom.com/optout/) (U.S.)
 
 Users in Austria, Germany, India and Switzerland may email [Datenschutz@acxiom.com](mailto:Datenschutz@acxiom.com).
 
-Other international requests should go to [https://privacyportal.onetrust.com/webform/342ca6ac-4177-4827-b61e-19070296cbd3/6896cf25-6953-4500-9c69-5a8fb6f6f932](https://privacyportal.onetrust.com/webform/342ca6ac-4177-4827-b61e-19070296cbd3/6896cf25-6953-4500-9c69-5a8fb6f6f932)
+Other international requests should go to the [Acxiom Consumer International Rights Portal](https://privacyportal.onetrust.com/webform/342ca6ac-4177-4827-b61e-19070296cbd3/6896cf25-6953-4500-9c69-5a8fb6f6f932).
 
 If you don’t have an email address, call (877) 774-2094 and follow the prompts.
 
