@@ -20,15 +20,11 @@ _Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, 
 CC BY-NC-SA: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
 
 ## Search Engines
-If you've been doxed, you can remove your contact info from Google Search and Bing.
-
-[https://support.google.com/websearch/troubleshooter/3111061](https://support.google.com/websearch/troubleshooter/3111061)
-
-[https://www.microsoft.com/en-ca/concern/bing](https://www.microsoft.com/en-ca/concern/bing)
+If you've been doxed, you can remove your contact info [from Google Search](https://support.google.com/websearch/troubleshooter/3111061) and [from Bing](https://www.microsoft.com/en-ca/concern/bing).
 
 Google allows you to remove non-consensual or intimate personal images, involuntary fake pornography, irrelevant pornography from Google search results for your name, content about you on sites with exploitative removal practices, and several other categories of information.
 
-Google has a free service called Results About You, that allows you to search for your data and ask for it to be deindexed. You can learn more on the following page: [https://support.google.com/websearch/answer/12719076](https://support.google.com/websearch/answer/12719076).
+Google has a free service called [Results About You](https://support.google.com/websearch/answer/12719076), that allows you to search for your data and ask for it to be deindexed.
 
 ## People Search Sites
 
