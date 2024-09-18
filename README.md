@@ -70,36 +70,34 @@ Cancel your free or paid membership following [these instructions](https://help.
 Look for [your information](https://www.cyberbackgroundchecks.com/) and [opt out](https://www.cyberbackgroundchecks.com/removal). 
 
 ### ☠ Dataveria
-Find your information here: [https://dataveria.com/](https://dataveria.com/). Opt out by entering the specific profile URL you find here: [https://dataveria.com/ng/control/privacy](https://dataveria.com/ng/control/privacy). You will need to confirm your opt-out request by clicking on a link sent to you via email.
+[Find your information](https://dataveria.com/). Opt out by entering the specific profile URL you find into the [opt-out form](https://dataveria.com/ng/control/privacy). You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### Facecheck
 [Facecheck.id](https://Facecheck.id) is reverse image search software that uses an uploaded image to locate your face across in photos and videos on major social media platforms. If this type of search is something you are concerned about, you can [remove your face from its search engine](https://facecheck.id/Face-Search/RemoveMyPhotos) by searching for your image, uploading a driver’s license or ID card (you can hide your name, address and ID number) or a selfie with your face and two fingers touching your chin. Note that this will not remove your image from the various websites on which it was found, but simply will not allow people to search for it on the Facecheck site. Facecheck also states that it makes an exception for violent criminals.
 
 ### ☠ FamilyTreeNow
-Search for yourself and remove your information here:
-
-[https://www.familytreenow.com/optout](https://www.familytreenow.com/optout)
+Search for yourself and [remove your information](https://www.familytreenow.com/optout).
 
 ### ☠ FastPeopleSearch.com
-Look for and remove your information here: [https://www.fastpeoplesearch.com/removal](https://www.fastpeoplesearch.com/removal). You may need to solve a captcha.
+Look for and [remove your information](https://www.fastpeoplesearch.com/removal). You may need to solve a captcha.
 
 ### FreePeopleDirectory
-Search for your information at [https://www.freepeopledirectory.com](https://www.freepeopledirectory.com). If you find it, you can opt out on Spokeo at [https://www.spokeo.com/optout](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section.
+[Search for your information](https://www.freepeopledirectory.com). If you find it, you can opt out on [Spokeo’s opt-out page](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section.
 
 ### ☠ 💐 Glad I Know
-Find your information here: [https://gladiknow.com/](https://gladiknow.com/). Follow these instructions to remove your data: [https://gladiknow.com/opt-out](https://gladiknow.com/opt-out). You can remove your information without downloading your free report, and email [support@gladiknow.com](mailto:support@gladiknow.com) for assistance.
+[Find your information](https://gladiknow.com/) and then follow [the instructions](https://gladiknow.com/opt-out) to remove your data. You can remove your information without downloading your free report, and email [support@gladiknow.com](support@gladiknow.com) for assistance.
 
 ### HudwayGlass
-Look for your home address here: [https://hudwayglass.com](https://hudwayglass.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
+[Look for your home address](https://hudwayglass.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
 
 ### IDTrue
-Find your information and out here: [https://www.idtrue.com/optout/](https://www.idtrue.com/optout/)
+Find your information and [opt out](https://www.idtrue.com/optout/).
 
 ### InfoTracer
-Find your information here: [https://www.infotracer.com/](https://www.infotracer.com/). You can opt out by filling out this form: [https://www.infotracer.com/optout](https://www.infotracer.com/optout). You can also mail in this form: [https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946.
+[Find your information](https://www.infotracer.com) and opt out by [filling out the form](https://infotracer.com/optout/). You can also mail in [a different form](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946.
 
 ### ☠ 💐 Intelius
-Find your information here: [https://www.intelius.com](https://www.intelius.com/). Opt out by emailing [support@mailer.intelius.com](mailto:support@mailer.intelius.com) or call 1-888-245-1655. Another option is a form on [https://suppression.peopleconnect.us/login](https://suppression.peopleconnect.us/login). If you’re told that Intelius can't find your account, you may need to confirm your mailing address, phone number, old email addresses, or other information via email. (As always, make sure Intelius already has the information before providing it.) Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, US Search, and Zabasearch.
+[Find your information](https://www.intelius.com/). Opt out by emailing [support@mailer.intelius.com](support@mailer.intelius.com), calling 1-888-245-1655, or [filling out a form](https://suppression.peopleconnect.us/login).  If you’re told that Intelius can't find your account, you may need to confirm your mailing address, phone number, old email addresses, or other information via email. (As always, make sure Intelius already has the information before providing it.) Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Truthfinder, US Search, and Zabasearch.
 
 ### ☠ 💐 📞 MyLife
 Find your information here: [https://www.mylife.com](https://www.mylife.com/).
