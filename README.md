@@ -51,6 +51,9 @@ To find your information, you must [sign up for a free trial](https://www.archiv
 ### 🎫 BackgroundAlert
 [Find your information](https://www.backgroundalert.com/optout/) and opt out.
 
+### ☠ BackgroundCheckers
+[Find your information](https://www.backgroundcheckers.net/optOut/name/landing) and opt out. Also opts you out of [CheckSecrets](https://checksecrets.com), [Mugshotlook](https://www.mugshotlook.com), [PeopleSearch123](https://www.peoplesearch123.com), [PeopleSearcher](https://www.peoplesearcher.com), [PeopleSearchUSA](https://www.peoplesearchusa.org), [PersonSearchers](https://www.personsearchers.com), [PrivateRecords](https://www.privaterecords.net), [PrivateReports](https://www.privatereports.com), [PublicSearcher](https://www.publicsearcher.com), [SealedRecords](https://www.sealedrecords.net), [SecretInfo](https://www.secretinfo.org), [TruthRecord](https://www.truthrecord.org), and [WeInform](https://www.weinform.org).
+
 ### ☠ 💐 BeenVerified
 Find your information and opt out of [people search](https://www.beenverified.com/app/optout/search) and [property search](https://www.beenverified.com/app/optout/address-search). BeenVerified also owns PeopleLooker and PeopleSmart. Be aware that BeenVerified only allows one opt-out per email address, so you may need to reach out via email for additional opt-outs. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
