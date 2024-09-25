@@ -141,6 +141,10 @@ Find your information here: [https://radaris.com](https://radaris.com/). Click o
 ### Rehold
 Look up your home address here: [https://rehold.com/](https://rehold.com/). If there is a number or name next to it you’d like removed, click on  the red “remove” button next to it. You will need to enter your name and email address and solve a captcha.
 
+### ShadowInc
+Enter your name here: [https://shadowinc.io/](https://shadowinc.io/). Click on "Free Details" next to your name. Enter your profile's URL in https://shadowinc.io/control/privacy with your name and email.
+
+
 ### 💰 Searchbug
 Unfortunately, you have to sign up with a credit card to search for your information at [https://www.searchbug.com](https://www.searchbug.com/), though your first search is free. You can contact Searchbug using the contact form or chat link on this page [https://www.searchbug.com/contact-us.aspx](https://www.searchbug.com/contact-us.aspx) or via phone or text at (760) 454-7301 or via fax at (760) 454-7341 to ask them to block the display of your personal information.
 
