@@ -46,7 +46,7 @@ If you don’t have an email address, call (877) 774-2094 and follow the prompts
 First, [search for your information](https://www.advancedbackgroundchecks.com). Remember that you can leave your city, state, and age blank. If your information shows up, [remove your data](https://www.advancedbackgroundchecks.com/removal).
 
 ### ☠ Ancestry.com
-Ancestry.com: While you can’t see all of your data without a paid account, Ancestry will delete information if you email links that would redirect you to the proper site if you had an account. [Sign up for a free account](https://www.ancestry.com/account/) (not a free trial!), and then search for your information on the sidebar. Click on everything that includes a state you have ever lived at, even if it’s not your current state. Cut and paste the URLs, even if they all direct to a sales page, and email them to [privacy@ancestry.com](mailto:privacy@ancestry.com).
+While you can’t see all of your data without a paid account, Ancestry will delete information if you email links that would redirect you to the proper site if you had an account. [Sign up for a free account](https://www.ancestry.com/account/) (not a free trial!), and then search for your information on the sidebar. Click on everything that includes a state you have ever lived at, even if it’s not your current state. Cut and paste the URLs, even if they all direct to a sales page, and email them to [privacy@ancestry.com](mailto:privacy@ancestry.com).
 
 ### Archives
 To find your information, you must [sign up for a free trial](https://www.archives.com/search/ancestor/checkout) (and then cancel). Then, [opt out](https://www.archives.com/Optout) if you found your data.
