@@ -115,92 +115,92 @@ Find your information and [opt out](https://www.idtrue.com/optout/).
 [Find your information](https://nuwber.com/). Then, take a screenshot of your results and send them to <support@nuwber.com>, asking them to opt you out.
 
 ### ☠ PeekYou
-Find your information here: [https://www.peekyou.com/](https://www.peekyou.com/), opt out here: [https://www.peekyou.com/about/contact/optout](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the &quot;unique ID&quot; field. Make sure to check &quot;remove my entire listing.&quot; You can also remove your information from the sites that it says it has aggregated information from.
+[Find your information here](https://www.peekyou.com/), and then [opt out](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the &quot;unique ID&quot; field. Make sure to check "remove my entire listing." You can also remove your information from the sites that it says it has aggregated information from.
 
 ### PeopleByName
-Look up your name here: [https://www.peoplebyname.com/people](https://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: https://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out for each record here: [https://www.peoplebyname.com/remove.php](https://www.peoplebyname.com/remove.php).
+[Look up your name]((https://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: https://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out [for each record] (https://www.peoplebyname.com/remove.php).
 
 ### ☠ 💐 PeopleFinders
-Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here: [https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes Advanced People Search). The opt-out link also includes information on finding your profile, after you hit next. You will need to confirm your opt-out request by clicking on a link sent to you via email.
+[Find your information](https://www.peoplefinders.com/) and [opt out](https://www.peoplefinders.com/opt-out). This includes Advanced People Search. The opt-out link also includes information on finding your profile, after you hit next. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### PeopleSearchNow
-Find your information and opt out here: <https://www.peoplesearchnow.com/opt-out>.
+Find your information and [opt out](https://www.peoplesearchnow.com/opt-out).
 
 ### 🎫 PimEyes
-PimEyes is an online face search engine that uses face recognition to perform a reverse image search, finding pictures of your face (or others like it) throughout the Internet. If you want to see if your photographs are in PimEyes’ database, consider uploading a photo to [https://pimeyes.com/](https://pimeyes.com/). (I used a very public photo that I know is already online, but you can also take a photo with your camera—which PimEyes claims it does not store.)  To opt out, you’ll need to upload an image of your face on [https://pimeyes.com/en/opt-out-request-form](https://pimeyes.com/en/opt-out-request-form), and also attach a photo ID with all sensitive data (other than your name and photograph) blurred. The easiest way to do this, in my opinion, is through Signal, the encrypted messaging app, which has a blur feature described [in its blog](https://signal.org/blog/blur-tools/). You can also use tools such as Photoshop or even make a copy of your ID and use a Sharpie. Finally, you’ll need to provide your email address.
+PimEyes is an online face search engine that uses face recognition to perform a reverse image search, finding pictures of your face (or others like it) throughout the Internet. If you want to see if your photographs are in PimEyes’ database, consider [uploading a photo]((https://pimeyes.com/). (I used a very public photo that I know is already online, but you can also take a photo with your camera—which PimEyes claims it does not store.)  To opt out, you’ll need to [upload an image of your face](https://pimeyes.com/en/opt-out-request-form), and also attach a photo ID with all sensitive data (other than your name and photograph) blurred. The easiest way to do this, in my opinion, is through Signal, the encrypted messaging app, which has a blur feature described [in its blog](https://signal.org/blog/blur-tools/). You can also use tools such as Photoshop or even make a copy of your ID and use a Sharpie. Finally, you’ll need to provide your email address.
 
 ### ☠ Pipl
-Go to [https://pipl.com](https://pipl.com/) to find your data. Opt out from Pipl at [https://pipl.com/personal-information-removal-request](https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at <support@pipl.com>.
+Go to [Pipl](https://pipl.com/) to find your data. [Opt out from Pipl] (https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at <support@pipl.com>.
 
 ### PrivateRecords
-Search for your name and state and opt out here: [https://www.privaterecords.net/optOut/name/landing](https://www.privaterecords.net/optOut/name/landing).
+Search for your name and state and [opt out](https://www.privaterecords.net/optOut/name/landing).
 
 ### ☠ 💐 PublicDataUSA
-Find your information here: [https://www.publicdatausa.com/](https://www.publicdatausa.com/). Copy the URL with your results and enter it along with your name and email address at [https://www.publicdatausa.com/remove.php](https://www.publicdatausa.com/remove.php).
+Find [your information](https://www.publicdatausa.com/). Copy the URL with your results and enter it along with your name and email address on the [remove page](https://www.publicdatausa.com/remove.php).
 
 ### PropertyRecs
 Search for your name and state in the [opt-out page](https://dashboard.propertyrecs.com/opt-out), then opt out if needed.
 
 ### ☠ 💐 Radaris
-Find your information here: [https://radaris.com](https://radaris.com/). Click on &quot;control information&quot; and &quot;remove information&quot; by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Details are here: [https://radaris.com/page/how-to-remove](https://radaris.com/page/how-to-remove). You will need to confirm your opt-out request by clicking on a link sent to you via email.
+Find [your information](https://radaris.com/). Click on "control information" and "remove information" by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Check out [the details](https://radaris.com/page/how-to-remove). You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### Rehold
 Look up your home address here: [https://rehold.com/](https://rehold.com/). If there is a number or name next to it you’d like removed, click on  the red “remove” button next to it. You will need to enter your name and email address and solve a captcha.
 
 ### 💰 Searchbug
-Unfortunately, you have to sign up with a credit card to search for your information at [https://www.searchbug.com](https://www.searchbug.com/), though your first search is free. You can contact Searchbug using the contact form or chat link on this page [https://www.searchbug.com/contact-us.aspx](https://www.searchbug.com/contact-us.aspx) or via phone or text at (760) 454-7301 or via fax at (760) 454-7341 to ask them to block the display of your personal information.
+Unfortunately, you have to sign up with a credit card to search for [your information](https://www.searchbug.com/), though your first search is free. You can contact Searchbug using the [contact form or chat link](https://www.searchbug.com/contact-us.aspx) or via phone or text at (760) 454-7301 or via fax at (760) 454-7341 to ask them to block the display of your personal information.
 
 ### SearchPeopleFree
-Find your information here: [https://www.searchpeoplefree.com/](https://www.searchpeoplefree.com/), making sure to search by name, phone number, address and email address: Opt out here: [https://www.searchpeoplefree.com/opt-out](https://www.searchpeoplefree.com/opt-out).
+Find [your information](https://www.searchpeoplefree.com/), making sure to search by name, phone number, address and email address: [Opt out](https://www.searchpeoplefree.com/opt-out).
 
 ### SearchQuarry
-Find your information here: [https://www.searchquarry.com/](https://www.searchquarry.com/). If it’s listed, opt out here: [https://members.searchquarry.com/removeMyData/](https://members.searchquarry.com/removeMyData/) You will need to click the verification link in your inbox to finalize the opt out.
+Find [your information](https://www.searchquarry.com/). If it’s listed, [opt out](https://members.searchquarry.com/removeMyData/) You will need to click the verification link in your inbox to finalize the opt out.
 
 ### SmartBackground Checks
-Find your information here: [https://www.smartbackgroundchecks.com/](https://www.smartbackgroundchecks.com/). Opt out here: [https://www.smartbackgroundchecks.com/optout](https://www.smartbackgroundchecks.com/optout)
+Find [your information](https://www.smartbackgroundchecks.com/). Then, [opt out](https://www.smartbackgroundchecks.com/optout).
 
 ### Social Catfish
-Find your information here: [https://socialcatfish.com/](https://socialcatfish.com). Record the URL of each page that has your information. Then, go to [https://socialcatfish.com/opt-out/](https://socialcatfish.com/opt-out/) and scroll down to the instructions for removing URLs, email, phone number, and address. (Make sure to only ask for information to be removed if you already see it on the site.) You’ll need to provide your email address and click on a confirmation link to complete the opt-out process.
+Find [your information](https://socialcatfish.com). Record the URL of each page that has your information. Then, go to the [opt-out page](https://socialcatfish.com/opt-out/) and scroll down to the instructions for removing URLs, email, phone number, and address. (Make sure to only ask for information to be removed if you already see it on the site.) You’ll need to provide your email address and click on a confirmation link to complete the opt-out process.
 
 ### ☠ 💐 Spokeo
-Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section. You will need to confirm your opt-out request by clicking on a link sent to you via email.
+Find [your information](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address on the [opt-out page](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### SpyFly
-Look for your data here: [https://www.spyfly.com](https://www.spyfly.com). Opt out here: [https://www.spyfly.com/help-center/remove-my-public-record](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing <support@spyfly.com>. You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
+Look for [your data](https://www.spyfly.com). Then, [opt out](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing <support@spyfly.com>. You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
 
 ### ☠ 💐 That’s Them
-Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if it shows up, try to opt out here: [https://thatsthem.com/optout](https://thatsthem.com/optout). Do not click on the Spokeo identity theft protection link, as it is a paid product.
+Find [your information her](https://thatsthem.com/). If it shows up, try to [opt out] (https://thatsthem.com/optout). Do not click on the Spokeo identity theft protection link, as it is a paid product.
 
 ### TruePeopleSearch
-Follow the removal instructions here: [https://www.truepeoplesearch.com/removal](https://www.truepeoplesearch.com/removal). You will need to enter your  name, city and state, and email address, and then you’ll need to solve several captchas to see if you are listed, after which you can remove your information.
+Follow the [removal instructions](https://www.truepeoplesearch.com/removal). You will need to enter your  name, city and state, and email address, and then you’ll need to solve several captchas to see if you are listed, after which you can remove your information.
 
 ### United States Phone Book
-Search for your information here: [https://www.unitedstatesphonebook.com/search.php](https://www.unitedstatesphonebook.com/search.php).
-If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site in this page [https://www.unitedstatesphonebook.com/contact.php](https://www.unitedstatesphonebook.com/contact.php).
+Search for [your information](https://www.unitedstatesphonebook.com/search.php).
+If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site [in this page](https://www.unitedstatesphonebook.com/contact.php).
 
 ### USA People Search
-Find and remove your information at [https://www.usa-people-search.com/manage](https://www.usa-people-search.com/manage).
+Find and [remove your information](https://www.usa-people-search.com/manage).
 
 ### USA-Official
-After finding your information, enter your name and URL at [https://usa-official.com/remove.php](https://usa-official.com/remove.php).
+After finding your information, [enter your name and URL]((https://usa-official.com/remove.php).
 
 ### ☠ USPhoneBook
-Look for your number and opt out here: [https://www.usphonebook.com/opt-out/](https://www.usphonebook.com/opt-out/).
+Look for your number and [opt out](https://www.usphonebook.com/opt-out/).
 
 ### Verecor
-Find your information at [https://verecor.com](https://verecor.com). To opt out, enter the profile URL (along with your name and email) at [https://verecor.com/ng/control/privacy](https://verecor.com/ng/control/privacy). You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email <assist@verecor.com>. (If you opt-out of Verecor and try to out-out of Vericora (or the reverse), you will get an error stating: "You have exceeded the maximum number of requests per person." It's not clear if either site respects an opt-out on the other, so use a separate browser session and email to opt-out of each.)
+Find [your information](https://verecor.com). To opt out, [enter the profile URL](https://verecor.com/ng/control/privacy), along with your name and email. You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email <assist@verecor.com>. (If you opt-out of Verecor and try to out-out of Vericora (or the reverse), you will get an error stating: "You have exceeded the maximum number of requests per person." It's not clear if either site respects an opt-out on the other, so use a separate browser session and email to opt-out of each.)
 
 ### Vericora
-Find your information here: [https://vericora.com/profile/search](https://vericora.com/profile/search). Opt out here: [https://vericora.com/ng/control/privacy](https://vericora.com/ng/control/privacy). (If you opt-out of Verecor and try to out-out of Vericora (or the reverse), you will get an error stating: "You have exceeded the maximum number of requests per person." It's not clear if either site respects an opt-out on the other, so use a separate browser session and email to opt-out of each.)
+Find [your information]((https://vericora.com/profile/search) and [opt out](https://vericora.com/ng/control/privacy). (If you opt-out of Verecor and try to out-out of Vericora (or the reverse), you will get an error stating: "You have exceeded the maximum number of requests per person." It's not clear if either site respects an opt-out on the other, so use a separate browser session and email to opt-out of each.)
 
 ### VoterRecords
-Go to [VoterRecords.com](https://voterrecords.com/), find your information, scroll to the bottom of the page and click on the &quot;record opt-out&quot; link. This will lead to an opt-out form, which you’ll need to submit. You may receive a verification link you’ll need to click on to verify your opt-out request.
+Go to [VoterRecords.com](https://voterrecords.com/), find your information, scroll to the bottom of the page and click on the"record opt-out" link. This will lead to an opt-out form, which you’ll need to submit. You may receive a verification link you’ll need to click on to verify your opt-out request.
 
 ### ☠ 💐 📞 💰 White Pages
-Find your information here: [https://www.whitepages.com/](https://www.whitepages.com/), and then opt out here: [https://www.whitepages.com/suppression_requests](https://www.whitepages.com/suppression_requests). You will need to provide a phone number and enter an opt-out code when you receive the phone call. Opt-out information is available here: [https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing). You can also send a request here [https://support.whitepages.com/hc/en-us/requests/new](https://support.whitepages.com/hc/en-us/requests/new). (Including multiple options because these sites have a tendency to disappear.) Sometimes, information is removed from White Pages but not White Pages Premium, so make sure to double-check for your listing. Unfortunately, it may not be possible to opt out of White Pages Premium pages without an account. White Pages also owns [411.com](https://www.411.com/), so check for your information there. The opt-out is the same. You may need to verify your opt-out by receiving an automated voice call and entering a four-digit code into your phone.
+Find [your information](https://www.whitepages.com/), and then [opt out](https://www.whitepages.com/suppression_requests). You will need to provide a phone number and enter an opt-out code when you receive the phone call. Opt-out information [is available](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing). You can also [send a request form](https://support.whitepages.com/hc/en-us/requests/new). (I am ncluding multiple options because these sites have a tendency to disappear.) Sometimes, information is removed from White Pages but not White Pages Premium, so make sure to double-check for your listing. Unfortunately, it may not be possible to opt out of White Pages Premium pages without an account. White Pages also owns [411.com](https://www.411.com/), so check for your information there. The opt-out is the same. You may need to verify your opt-out by receiving an automated voice call and entering a four-digit code into your phone.
 
 ### ZoomInfo
-Check to see if your information is on ZoomInfo by filling out this form: [https://privacyrequest.zoominfo.com/remove/verify](https://privacyrequest.zoominfo.com/remove/verify). Opt out if it has an email on record—they will email you a code. ZoomInfo appears to have moved towards focusing primarily on business rather than individuals.
+Check to see if your information is on ZoomInfo by [filling out this form](https://privacyrequest.zoominfo.com/remove/verify). Opt out if it has an email on record—they will email you a code. ZoomInfo appears to have moved towards focusing primarily on business rather than individuals.
 
 ## Special Circumstances
 
