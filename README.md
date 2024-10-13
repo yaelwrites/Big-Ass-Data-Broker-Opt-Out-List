@@ -9,7 +9,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated in September 2024 to link to [this handy chart](https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/) for folks who want to fill in the gaps after signing up for a paid removal service. We also added a 💐new icon💐 and information on how to use this page. Lastly, we updated Homemetry with its new name, removed US Search (which uses the same opt-out form as Intelius), removed PublicRecordsNow, and updated the opt-out process for Nuwber.
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on October 12, 2024 to update Clustrmaps since it no longer requires a physical address, added a form for Ancestry.com, and to add the genealogy site FamilySearch. We also clarified the options for opting out of Nuwber. 
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 14, start with sites marked 💐. If you can do 22, go to sites marked ☠. Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
@@ -251,14 +251,13 @@ In general, note that removal services are not comprehensive, as some data broke
 
 There are services for media mail as well. For a fee, [PaperKarma](https://www.paperkarma.com/product/paperkarma-subscription/) will remove your name from common direct mail vendors, including charity solicitations, direct mail and catalogs. You can also remove your name from [Valpak coupon packs](https://www.valpak.com/remove-address), for free. Sign up for a free account at [https://www.catalogchoice.org/](https://www.catalogchoice.org/) to cancel catalogs you no longer wish to receive. For a fee, [DMAChoice](https://dmachoice.org/static/consumer_choice_tools.php), will remove your name from prospective mailers, not including political mail or mail from companies you’ve done business with in the past two years. DMAChoice also maintains a Deceased Do Not Contact list to allow you to remove names of deceased individuals for marketing lists, which you can register for [here](https://www.ims-dm.com/cgi/ddnc.php). (I am sorry for your loss!)
 
-There are several free services available as well. [Have I Been Pwned](https://haveibeenpwned.com/) allows you to check to see if your email address has been involved in a data breach. The free tier of [Mozilla Monitor](https://monitor.mozilla.org/) allows you to search up to five email addresses to see if your information is exposed in data breaches or found on data broker sites, and gives step-by-step instructions on removal. [Permission Slip](https://permissionslipcr.com/) by Consumer Reports (disclosure: I work there) is a free app that will file a data rights request on your behalf to tell companies to stop selling your personal information, or to delete your account.
+There are several free services available as well. [Have I Been Pwned](https://haveibeenpwned.com/) allows you to check to see if your email address has been involved in a data breach. The free tier of [Mozilla Monitor](https://monitor.mozilla.org/) allows you to search up to five email addresses to see if your information is exposed in data breaches or found on data broker sites, and gives step-by-step instructions on removal. 
 
 ### Shameless Self-Promotion
 
 Online privacy and security work hand in hand. There are important steps to take to secure your personal data beyond finding and removing it from people search sites. For my day job, I manage Consumer Reports’ [Security Planner](https://securityplanner.consumerreports.org/), a free, easy-to-use guide to staying safer online. Check it out for personalized recommendations and expert advice on topics such as keeping social media accounts from being hacked, locking down smart speakers and home security cameras, and reducing intrusive tracking by websites. This tool builds upon the work of the Citizen Lab, which originally launched and managed the project.
 
 If you’d like to learn more about me and my other work, feel free to check out my website, [Yael Writes](https://yaelwrites.com/).
-
 
 ## Further reading
 
