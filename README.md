@@ -112,7 +112,7 @@ Find your information and [opt out](https://www.idtrue.com/optout/).
 [Search for your name, address or phone number](https://neighbor.report/), and then [remove the report](https://neighbor.report/remove). You will need to verify the opt-out request via email.
 
 ### ☠ 💐 Nuwber
-[Find your information](https://nuwber.com/). Then, take a screenshot of your results and send them to <support@nuwber.com>, asking them to opt you out.
+[Find your information](https://nuwber.com/). Try to opt out on the [removal form](https://nuwber.com/removal/link). If the URL you generate doesn't work in the form or you run across other problems, take a screenshot of your results and send them to <support@nuwber.com>, asking them to opt you out.
 
 ### ☠ PeekYou
 [Find your information here](https://www.peekyou.com/), and then [opt out](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the &quot;unique ID&quot; field. Make sure to check "remove my entire listing." You can also remove your information from the sites that it says it has aggregated information from.
