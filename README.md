@@ -13,7 +13,7 @@ This list, also known as BADBOOL, was started in September 2017 and was most rec
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 14, start with sites marked 💐. If you can do 22, go to sites marked ☠. Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
-Please send corrections or updates to [yael@yaelwrites.com](mailto:yael@yaelwrites.com) using the subject line “BADBOOL,” or file a pull request. (You can find other ways to reach me [on the contact page on my website](https://yaelwrites.com/contact).) Screenshots in emails are incredibly helpful. I add opt-out info only if users can verify that the data broker has their information before sharing additional data, and where removal is not limited to local laws like GDPR, CCPA, etc.
+Please send corrections or updates to <yael@yaelwrites.com> using the subject line “BADBOOL,” or file a pull request. (You can find other ways to reach me [on the contact page on my website](https://yaelwrites.com/contact).) Screenshots in emails are incredibly helpful. I add opt-out info only if users can verify that the data broker has their information before sharing additional data, and where removal is not limited to local laws like GDPR, CCPA, etc.
 
 _Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, information is pulled from other sources and you’ll need to opt out multiple times for the same site. Data brokers come and go (and are bought out by others), and they also often change their opt-out pages. I update this regularly, but it’s not always current. There are sites I either don’t know about or do not include because there is no free way to see if they have data before requesting removal, or to provide the specific URLs needed for removal. Finally, even opting out of these sites doesn’t mean that your address is secure. In many states, real estate data and voter registration information is public (or easy to obtain). And, of course, location data can be found by physical means (e.g., following you home) and through other people who know it (i.e., social engineering). That said, removing your home address from data broker sites can significantly lower your attack surface and make it harder for people to find it. 💕_
 
@@ -36,7 +36,7 @@ It is hard to find your own info for free, but people in some countries can opt 
 [Portal de preferencia del consumidor | Acxiom](https://www.acxiom.com/privacy/es/) (Spain)
 [US Consumer Opt Out | Acxiom](https://www.acxiom.com/optout/) (U.S.)
 
-Users in Austria, Germany, India and Switzerland may email [Datenschutz@acxiom.com](mailto:Datenschutz@acxiom.com).
+Users in Austria, Germany, India and Switzerland may email <Datenschutz@acxiom.com>.
 
 Other international requests should go to the [Acxiom Consumer International Rights Portal](https://privacyportal.onetrust.com/webform/342ca6ac-4177-4827-b61e-19070296cbd3/6896cf25-6953-4500-9c69-5a8fb6f6f932).
 
@@ -64,7 +64,7 @@ Look for [your contact info](https://checkpeople.com/do-not-sell-info). If it sh
 Cancel your free or paid membership following [these instructions](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-.).
 
 ### ☠ 💐 ClustrMaps
-[Find your information](https://clustrmaps.com/), and then [remove it](https://clustrmaps.com/bl/opt-out). It will ask you for a mailing address, but doesn’t seem to verify it. It will then ask you to check off anything associated with your account that you want removed.
+[Find your information](https://clustrmaps.com/), and then [remove it](https://clustrmaps.com/bl/opt-out). It will ask you to check off anything associated with your account that you want removed.
 
 ### CocoFinder
 [Look for your information](https://cocofinder.com/search) and then [opt out](https://cocofinder.com/remove-my-info). You will be sent to a [Google form](https://docs.google.com/forms/d/e/1FAIpQLScEgLH9ro7oQR4c0V9E19ug1Gb7wVMrFFSj0Sgx4sjba_ET4Q/viewform).
@@ -91,7 +91,7 @@ Look for and [remove your information](https://www.fastpeoplesearch.com/removal)
 [Search for your information](https://www.freepeopledirectory.com). If you find it, you can opt out on [Spokeo’s opt-out page](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section.
 
 ### ☠ 💐 Glad I Know
-[Find your information](https://gladiknow.com/) and then follow [the instructions](https://gladiknow.com/opt-out) to remove your data. You can remove your information without downloading your free report, and email [support@gladiknow.com](support@gladiknow.com) for assistance.
+[Find your information](https://gladiknow.com/) and then follow [the instructions](https://gladiknow.com/opt-out) to remove your data. You can remove your information without downloading your free report, and email <support@gladiknow.com> for assistance.
 
 ### HudwayGlass
 [Look for your home address](https://hudwayglass.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
@@ -103,16 +103,16 @@ Find your information and [opt out](https://www.idtrue.com/optout/).
 [Find your information](https://www.infotracer.com) and opt out by [filling out the form](https://infotracer.com/optout/). You can also mail in [a different form](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946.
 
 ### ☠ 💐 Intelius
-[Find your information](https://www.intelius.com/). Opt out by emailing [support@mailer.intelius.com](support@mailer.intelius.com), calling 1-888-245-1655, or [filling out a form](https://suppression.peopleconnect.us/login).  If you’re told that Intelius can't find your account, you may need to confirm your mailing address, phone number, old email addresses, or other information via email. (As always, make sure Intelius already has the information before providing it.) Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Truthfinder, US Search, and Zabasearch.
+[Find your information](https://www.intelius.com/). Opt out by emailing <support@mailer.intelius.com>, calling 1-888-245-1655, or [filling out a form](https://suppression.peopleconnect.us/login).  If you’re told that Intelius can't find your account, you may need to confirm your mailing address, phone number, old email addresses, or other information via email. (As always, make sure Intelius already has the information before providing it.) Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Truthfinder, US Search, and Zabasearch.
 
 ### ☠ 💐 📞 MyLife
-[Find your information](https://www.mylife.com), and then [opt out](https://www.mylife.com/ccpa/index.pubview). Although this is CCPA-focused, non-California folks have successfully removed their profiles. However, another option is to email your removal request to [privacy@mylife.com](privacy@mylife.com) with your name and a link to your profile. MyLife will try to get you to create an account with a copy of your driver’s license to submit a profile removal request, and we’ve received reports that emailing the [info@mylife.com](info@mylife.com) or [removalrequests@mylife.com](removalrequests@mylife.com) email addresses will require a phone call to (888) 704-1900. Previously, calling that number and pressing 2 allowed you to be removed from MyLife (and Wink.com) after providing your name, age, date of birth, email address, current mailing address, and a previous mailing address, but this no longer appears to be the case. (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
+[Find your information](https://www.mylife.com), and then [opt out](https://www.mylife.com/ccpa/index.pubview). Although this is CCPA-focused, non-California folks have successfully removed their profiles. However, another option is to email your removal request to <privacy@mylife.com> with your name and a link to your profile. MyLife will try to get you to create an account with a copy of your driver’s license to submit a profile removal request, and we’ve received reports that emailing the <info@mylife.com> or <removalrequests@mylife.com> email addresses will require a phone call to (888) 704-1900. Previously, calling that number and pressing 2 allowed you to be removed from MyLife (and Wink.com) after providing your name, age, date of birth, email address, current mailing address, and a previous mailing address, but this no longer appears to be the case. (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
 
 ### NeighborReport
 [Search for your name, address or phone number](https://neighbor.report/), and then [remove the report](https://neighbor.report/remove). You will need to verify the opt-out request via email.
 
 ### ☠ 💐 Nuwber
-[Find your information](https://nuwber.com/). Then, take a screenshot of your results and send them to [support@nuwber.com](support@nuwber.com), asking them to opt you out.
+[Find your information](https://nuwber.com/). Then, take a screenshot of your results and send them to <support@nuwber.com>, asking them to opt you out.
 
 ### ☠ PeekYou
 Find your information here: [https://www.peekyou.com/](https://www.peekyou.com/), opt out here: [https://www.peekyou.com/about/contact/optout](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the &quot;unique ID&quot; field. Make sure to check &quot;remove my entire listing.&quot; You can also remove your information from the sites that it says it has aggregated information from.
@@ -124,13 +124,13 @@ Look up your name here: [https://www.peoplebyname.com/people](https://www.people
 Find your information here: [https://www.peoplefinders.com/](https://www.peoplefinders.com/) and opt out here: [https://www.peoplefinders.com/opt-out](https://www.peoplefinders.com/opt-out) (includes Advanced People Search). The opt-out link also includes information on finding your profile, after you hit next. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### PeopleSearchNow
-Find your information and opt out here: [https://www.peoplesearchnow.com/opt-out](https://www.peoplesearchnow.com/opt-out).
+Find your information and opt out here: <https://www.peoplesearchnow.com/opt-out>.
 
 ### 🎫 PimEyes
 PimEyes is an online face search engine that uses face recognition to perform a reverse image search, finding pictures of your face (or others like it) throughout the Internet. If you want to see if your photographs are in PimEyes’ database, consider uploading a photo to [https://pimeyes.com/](https://pimeyes.com/). (I used a very public photo that I know is already online, but you can also take a photo with your camera—which PimEyes claims it does not store.)  To opt out, you’ll need to upload an image of your face on [https://pimeyes.com/en/opt-out-request-form](https://pimeyes.com/en/opt-out-request-form), and also attach a photo ID with all sensitive data (other than your name and photograph) blurred. The easiest way to do this, in my opinion, is through Signal, the encrypted messaging app, which has a blur feature described [in its blog](https://signal.org/blog/blur-tools/). You can also use tools such as Photoshop or even make a copy of your ID and use a Sharpie. Finally, you’ll need to provide your email address.
 
 ### ☠ Pipl
-Go to [https://pipl.com](https://pipl.com/) to find your data. Opt out from Pipl at [https://pipl.com/personal-information-removal-request](https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at [support@pipl.com](mailto:support@pipl.com).
+Go to [https://pipl.com](https://pipl.com/) to find your data. Opt out from Pipl at [https://pipl.com/personal-information-removal-request](https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at <support@pipl.com>.
 
 ### PrivateRecords
 Search for your name and state and opt out here: [https://www.privaterecords.net/optOut/name/landing](https://www.privaterecords.net/optOut/name/landing).
@@ -166,7 +166,7 @@ Find your information here: [https://socialcatfish.com/](https://socialcatfish.c
 Find your information here [https://www.spokeo.com/search](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address here: [https://www.spokeo.com/optout](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### SpyFly
-Look for your data here: [https://www.spyfly.com](https://www.spyfly.com). Opt out here: [https://www.spyfly.com/help-center/remove-my-public-record](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing [support@spyfly.com](mailto:support@spyfly.com). You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
+Look for your data here: [https://www.spyfly.com](https://www.spyfly.com). Opt out here: [https://www.spyfly.com/help-center/remove-my-public-record](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing <support@spyfly.com>. You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
 
 ### ☠ 💐 That’s Them
 Find your information here: [https://thatsthem.com/](https://thatsthem.com/), if it shows up, try to opt out here: [https://thatsthem.com/optout](https://thatsthem.com/optout). Do not click on the Spokeo identity theft protection link, as it is a paid product.
@@ -188,7 +188,7 @@ After finding your information, enter your name and URL at [https://usa-official
 Look for your number and opt out here: [https://www.usphonebook.com/opt-out/](https://www.usphonebook.com/opt-out/).
 
 ### Verecor
-Find your information at [https://verecor.com](https://verecor.com). To opt out, enter the profile URL (along with your name and email) at [https://verecor.com/ng/control/privacy](https://verecor.com/ng/control/privacy). You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email [assist@verecor.com](mailto:assist@verecor.com). (If you opt-out of Verecor and try to out-out of Vericora (or the reverse), you will get an error stating: "You have exceeded the maximum number of requests per person." It's not clear if either site respects an opt-out on the other, so use a separate browser session and email to opt-out of each.)
+Find your information at [https://verecor.com](https://verecor.com). To opt out, enter the profile URL (along with your name and email) at [https://verecor.com/ng/control/privacy](https://verecor.com/ng/control/privacy). You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email <assist@verecor.com>. (If you opt-out of Verecor and try to out-out of Vericora (or the reverse), you will get an error stating: "You have exceeded the maximum number of requests per person." It's not clear if either site respects an opt-out on the other, so use a separate browser session and email to opt-out of each.)
 
 ### Vericora
 Find your information here: [https://vericora.com/profile/search](https://vericora.com/profile/search). Opt out here: [https://vericora.com/ng/control/privacy](https://vericora.com/ng/control/privacy). (If you opt-out of Verecor and try to out-out of Vericora (or the reverse), you will get an error stating: "You have exceeded the maximum number of requests per person." It's not clear if either site respects an opt-out on the other, so use a separate browser session and email to opt-out of each.)
@@ -222,11 +222,11 @@ To freeze your credit, you will need to provide personal information such as you
 
 To freeze your credit, contact:
 
-- Equifax: 1 (800) 349-9960, [https://www.equifax.com/personal/credit-report-services/credit-freeze/](https://www.equifax.com/personal/credit-report-services/credit-freeze/)
-- Experian: 1 (888) 397‑3742, [https://www.experian.com/freeze/center.html](https://www.experian.com/freeze/center.html).
-- TransUnion: 1 (888) 909-8872, [https://www.transunion.com/credit-freeze/place-credit-freeze](https://www.transunion.com/credit-freeze/place-credit-freeze) or [https://service.transunion.com/dss/orderStep1_form.page](https://service.transunion.com/dss/orderStep1_form.page)
-- Innovis: 1 (800) 540-2505, [https://www.innovis.com/personal/securityFreeze](https://www.innovis.com/personal/securityFreeze) or [https://www.innovis.com/securityFreeze/index](https://www.innovis.com/securityFreeze/index)
-- ChexSystems: 1 (800) 428-9623, [https://www.chexsystems.com/security-freeze/place-freeze](https://www.chexsystems.com/security-freeze/place-freeze). This will prevent approval of accounts, loans, and services being approved in your name without your consent.
+- Equifax: 1 (800) 349-9960, <https://www.equifax.com/personal/credit-report-services/credit-freeze/>
+- Experian: 1 (888) 397‑3742, <https://www.experian.com/freeze/center.html>.
+- TransUnion: 1 (888) 909-8872, <https://www.transunion.com/credit-freeze/place-credit-freeze> or <https://service.transunion.com/dss/orderStep1_form.page>
+- Innovis: 1 (800) 540-2505, <https://www.innovis.com/personal/securityFreeze> or <https://www.innovis.com/securityFreeze/index>
+- ChexSystems: 1 (800) 428-9623, <https://www.chexsystems.com/security-freeze/place-freeze>. This will prevent approval of accounts, loans, and services being approved in your name without your consent.
 
 ### Explore any privacy options offered by your state’s motor vehicle department.
 
