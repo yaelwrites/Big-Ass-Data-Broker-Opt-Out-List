@@ -79,7 +79,7 @@ Look for [your information](https://www.cyberbackgroundchecks.com/) and [opt out
 [Facecheck.id](https://Facecheck.id) is reverse image search software that uses an uploaded image to locate your face across in photos and videos on major social media platforms. If this type of search is something you are concerned about, you can [remove your face from its search engine](https://facecheck.id/Face-Search/RemoveMyPhotos) by searching for your image, uploading a driver’s license or ID card (you can hide your name, address and ID number) or a selfie with your face and two fingers touching your chin. Note that this will not remove your image from the various websites on which it was found, but simply will not allow people to search for it on the Facecheck site. Facecheck also states that it makes an exception for violent criminals.
 
 ### FamilySearch
-[Sign up for a free account](https://www.familysearch.org/) and [search historical records](https://www.familysearch.org/search/). Copy the URLs for the records with your information, and [submit this opt-out form](https://submit-irm.trustarc.com/services/validation/b8d6e704-e5b1-42a0-9f86-bbdec35939a1).
+[Sign up for a free account](https://www.familysearch.org/) and [search historical records](https://www.familysearch.org/search/). Copy the URLs for the records with your information, and [submit this opt-out form](https://submit-irm.trustarc.com/services/validation/b8d6e704-e5b1-42a0-9f86-bbdec35939a1). You will need to verify your email address. 
 
 ### ☠ FamilyTreeNow
 Search for yourself and [remove your information](https://www.familytreenow.com/optout).
