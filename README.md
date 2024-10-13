@@ -46,7 +46,7 @@ If you don’t have an email address, call (877) 774-2094 and follow the prompts
 First, [search for your information](https://www.advancedbackgroundchecks.com). Remember that you can leave your city, state, and age blank. If your information shows up, [remove your data](https://www.advancedbackgroundchecks.com/removal).
 
 ### ☠ Ancestry.com
-While you can’t see all of your data without a paid account, Ancestry will delete information if you email links that would redirect you to the proper site if you had an account. [Sign up for a free account](https://www.ancestry.com/account/) (not a free trial!), and then search for your information on the sidebar. Click on everything that includes a state you have ever lived at, even if it’s not your current state. Cut and paste the URLs, even if they all direct to a sales page, and email them to <privacy@ancestry.com>.
+While you can’t see all of your data without a paid account, Ancestry will delete information if you email links that would redirect you to the proper site if you had an account. [Sign up for a free account](https://www.ancestry.com/account/) (not a free trial!), and then search for your information on the sidebar. Click on everything that includes a state you have ever lived at, even if it’s not your current state. Cut and paste the URLs, even if they all direct to a sales page, and email them to [privacy@ancestry.com](mailto:privacy@ancestry.com). Alternatively, you can submit individual URLs via [this content removal form](https://support.ancestry.com/s/reportissue?language=en_US).
 
 ### Archives
 To find your information, you must [sign up for a free trial](https://www.archives.com/search/ancestor/checkout) (and then cancel). Then, [opt out](https://www.archives.com/Optout) if you found your data.
@@ -77,6 +77,9 @@ Look for [your information](https://www.cyberbackgroundchecks.com/) and [opt out
 
 ### Facecheck
 [Facecheck.id](https://Facecheck.id) is reverse image search software that uses an uploaded image to locate your face across in photos and videos on major social media platforms. If this type of search is something you are concerned about, you can [remove your face from its search engine](https://facecheck.id/Face-Search/RemoveMyPhotos) by searching for your image, uploading a driver’s license or ID card (you can hide your name, address and ID number) or a selfie with your face and two fingers touching your chin. Note that this will not remove your image from the various websites on which it was found, but simply will not allow people to search for it on the Facecheck site. Facecheck also states that it makes an exception for violent criminals.
+
+### FamilySearch
+[Sign up for a free account](https://www.familysearch.org/) and [search historical records](https://www.familysearch.org/search/). Copy the URLs for the records with your information, and [submit this opt-out form](https://submit-irm.trustarc.com/services/validation/b8d6e704-e5b1-42a0-9f86-bbdec35939a1).
 
 ### ☠ FamilyTreeNow
 Search for yourself and [remove your information](https://www.familytreenow.com/optout).
