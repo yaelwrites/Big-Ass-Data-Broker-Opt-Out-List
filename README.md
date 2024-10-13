@@ -118,7 +118,7 @@ Find your information and [opt out](https://www.idtrue.com/optout/).
 [Find your information here](https://www.peekyou.com/), and then [opt out](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the &quot;unique ID&quot; field. Make sure to check "remove my entire listing." You can also remove your information from the sites that it says it has aggregated information from.
 
 ### PeopleByName
-[Look up your name]((https://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: https://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out [for each record] (https://www.peoplebyname.com/remove.php).
+[Look up your name](https://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: https://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out [for each record](https://www.peoplebyname.com/remove.php).
 
 ### ☠ 💐 PeopleFinders
 [Find your information](https://www.peoplefinders.com/) and [opt out](https://www.peoplefinders.com/opt-out). This includes Advanced People Search. The opt-out link also includes information on finding your profile, after you hit next. You will need to confirm your opt-out request by clicking on a link sent to you via email.
@@ -127,10 +127,10 @@ Find your information and [opt out](https://www.idtrue.com/optout/).
 Find your information and [opt out](https://www.peoplesearchnow.com/opt-out).
 
 ### 🎫 PimEyes
-PimEyes is an online face search engine that uses face recognition to perform a reverse image search, finding pictures of your face (or others like it) throughout the Internet. If you want to see if your photographs are in PimEyes’ database, consider [uploading a photo]((https://pimeyes.com/). (I used a very public photo that I know is already online, but you can also take a photo with your camera—which PimEyes claims it does not store.)  To opt out, you’ll need to [upload an image of your face](https://pimeyes.com/en/opt-out-request-form), and also attach a photo ID with all sensitive data (other than your name and photograph) blurred. The easiest way to do this, in my opinion, is through Signal, the encrypted messaging app, which has a blur feature described [in its blog](https://signal.org/blog/blur-tools/). You can also use tools such as Photoshop or even make a copy of your ID and use a Sharpie. Finally, you’ll need to provide your email address.
+PimEyes is an online face search engine that uses face recognition to perform a reverse image search, finding pictures of your face (or others like it) throughout the Internet. If you want to see if your photographs are in PimEyes’ database, consider [uploading a photo](https://pimeyes.com/). (I used a very public photo that I know is already online, but you can also take a photo with your camera—which PimEyes claims it does not store.)  To opt out, you’ll need to [upload an image of your face](https://pimeyes.com/en/opt-out-request-form), and also attach a photo ID with all sensitive data (other than your name and photograph) blurred. The easiest way to do this, in my opinion, is through Signal, the encrypted messaging app, which has a blur feature described [in its blog](https://signal.org/blog/blur-tools/). You can also use tools such as Photoshop or even make a copy of your ID and use a Sharpie. Finally, you’ll need to provide your email address.
 
 ### ☠ Pipl
-Go to [Pipl](https://pipl.com/) to find your data. [Opt out from Pipl] (https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at <support@pipl.com>.
+Go to [Pipl](https://pipl.com/) to find your data. [Opt out from Pipl](https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at <support@pipl.com>.
 
 ### PrivateRecords
 Search for your name and state and [opt out](https://www.privaterecords.net/optOut/name/landing).
@@ -169,7 +169,7 @@ Find [your information](https://www.spokeo.com/search) and remove your informati
 Look for [your data](https://www.spyfly.com). Then, [opt out](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing <support@spyfly.com>. You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
 
 ### ☠ 💐 That’s Them
-Find [your information her](https://thatsthem.com/). If it shows up, try to [opt out] (https://thatsthem.com/optout). Do not click on the Spokeo identity theft protection link, as it is a paid product.
+Find [your information](https://thatsthem.com/). If it shows up, try to [opt out](https://thatsthem.com/optout). Do not click on the Spokeo identity theft protection link, as it is a paid product.
 
 ### TruePeopleSearch
 Follow the [removal instructions](https://www.truepeoplesearch.com/removal). You will need to enter your  name, city and state, and email address, and then you’ll need to solve several captchas to see if you are listed, after which you can remove your information.
@@ -182,7 +182,7 @@ If your address is listed and you want it removed, enter the telephone number an
 Find and [remove your information](https://www.usa-people-search.com/manage).
 
 ### USA-Official
-After finding your information, [enter your name and URL]((https://usa-official.com/remove.php).
+After finding your information, [enter your name and URL](https://usa-official.com/remove.php).
 
 ### ☠ USPhoneBook
 Look for your number and [opt out](https://www.usphonebook.com/opt-out/).
