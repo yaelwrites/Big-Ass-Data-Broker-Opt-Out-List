@@ -193,6 +193,10 @@ Find [your information](https://verecor.com). To opt out, [enter the profile URL
 ### Vericora
 Find [your information](https://vericora.com/profile/search) and [opt out](https://vericora.com/ng/control/privacy). (If you opt-out of Verecor and try to out-out of Vericora (or the reverse), you will get an error stating: "You have exceeded the maximum number of requests per person." It's not clear if either site respects an opt-out on the other, so use a separate browser session and email to opt-out of each.)
 
+### Veripages
+Find [your information](https://veripages.com/). To opt out, [enter the profile URL](https://veripages.com/inner/control/privacy), along with your name and email. You will need to fill out a captcha, and confirm the email link to finalize your request.
+
+
 ### VoterRecords
 Go to [VoterRecords.com](https://voterrecords.com/), find your information, scroll to the bottom of the page and click on the"record opt-out" link. This will lead to an opt-out form, which you’ll need to submit. You may receive a verification link you’ll need to click on to verify your opt-out request.
 
