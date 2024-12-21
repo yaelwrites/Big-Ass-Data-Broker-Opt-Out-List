@@ -91,7 +91,7 @@ Look for and [remove your information](https://www.fastpeoplesearch.com/removal)
 [Search for your information](https://www.freepeopledirectory.com). If you find it, you can opt out on [Spokeo’s opt-out page](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section.
 
 ### ☠ 💐 Glad I Know
-[Find your information](https://gladiknow.com/) and then follow [the instructions](https://gladiknow.com/opt-out) to remove your data. You can remove your information without downloading your free report, and email <support@gladiknow.com> for assistance.
+[Find your information](https://gladiknow.com/) and then follow [the instructions](https://gladiknow.com/opt-out) to remove your data. If you receive a search limit, clear your browser cookies. You can remove your information without downloading your free report, and email <support@gladiknow.com> for assistance.
 
 ### HudwayGlass
 [Look for your home address](https://hudwayglass.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
@@ -142,7 +142,7 @@ Find [your information](https://www.publicdatausa.com/). Copy the URL with your 
 Search for your name and state in the [opt-out page](https://dashboard.propertyrecs.com/opt-out), then opt out if needed.
 
 ### ☠ 💐 Radaris
-Find [your information](https://radaris.com/). Click on "control information" and "remove information" by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Check out [the details](https://radaris.com/page/how-to-remove). You will need to confirm your opt-out request by clicking on a link sent to you via email.
+Find [your information](https://radaris.com/). Fill out [a series of forms](https://radaris.com/control/my-info). Or, try selecting "control information" and "remove information" by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Check out [the details](https://radaris.com/page/how-to-remove). You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### Rehold
 Look up your home address here: [https://rehold.com/](https://rehold.com/). If there is a number or name next to it you’d like removed, click on  the red “remove” button next to it. You will need to enter your name and email address and solve a captcha.
