@@ -9,7 +9,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on October 12, 2024 to update Clustrmaps since it no longer requires a physical address, added a form for Ancestry.com, and to add the genealogy site FamilySearch. We also clarified the options for opting out of Nuwber. 
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on December 21, 2024 with new information on Dataveria, since the opt-out options are not working well. We also added a new link for Radaris and hope to crowdsource data comparing the two methods. And we added the suggestion todeleting browser cookies for Glad I Know if you encounter a search limit. We will update again in the new year when we have more information. Thanks, as always, for the emails and pull requests. 
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 14, start with sites marked 💐. If you can do 22, go to sites marked ☠. Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
