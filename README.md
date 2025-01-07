@@ -9,7 +9,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on December 21, 2024 with new information on Dataveria, since the opt-out options are not working well. We also added a new link for Radaris and hope to crowdsource data comparing the two methods. And we added the suggestion todeleting browser cookies for Glad I Know if you encounter a search limit. We will update again in the new year when we have more information. Thanks, as always, for the emails and pull requests. 
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on January 6th, 2025 to remove Glad I Know and on December 21, 2024 with new information on Dataveria, since the opt-out options were not working properly. We also added a new link for Radaris and hope to crowdsource data comparing the two methods. 
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 14, start with sites marked 💐. If you can do 22, go to sites marked ☠. Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
@@ -89,9 +89,6 @@ Look for and [remove your information](https://www.fastpeoplesearch.com/removal)
 
 ### FreePeopleDirectory
 [Search for your information](https://www.freepeopledirectory.com). If you find it, you can opt out on [Spokeo’s opt-out page](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section.
-
-### ☠ 💐 Glad I Know
-[Find your information](https://gladiknow.com/) and then follow [the instructions](https://gladiknow.com/opt-out) to remove your data. If you receive a search limit, clear your browser cookies. You can remove your information without downloading your free report, and email <support@gladiknow.com> for assistance.
 
 ### HudwayGlass
 [Look for your home address](https://hudwayglass.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
