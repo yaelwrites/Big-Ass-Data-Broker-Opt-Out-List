@@ -51,6 +51,10 @@ While you can’t see all of your data without a paid account, Ancestry will del
 ### Archives
 To find your information, you must [sign up for a free trial](https://www.archives.com/search/ancestor/checkout) (and then cancel). Then, [opt out](https://www.archives.com/Optout) if you found your data.
 
+### ☠ 💐 AtData (formerly TowerData)
+AtData is a significant player in the data brokerage industry, primarily known for its extensive consumer data solutions. \
+Fill out this web forum to [opt out](https://instantdata.atdata.com/optout)
+
 ### 🎫 BackgroundAlert
 [Find your information](https://www.backgroundalert.com/optout/) and opt out.
 
