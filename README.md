@@ -9,7 +9,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on January 6th, 2025 to remove Glad I Know and on December 21, 2024 with new information on Dataveria, since the opt-out options were not working properly. We also added a new link for Radaris and hope to crowdsource data comparing the two methods. 
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on February 28, 2025 with updated instructions for Nuwber and Radaris. We also removed Pipl due to reports that there no longer appears to be a free way to search for data, and that hitting send on the opt-out form doesn’t work.
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 14, start with sites marked 💐. If you can do 22, go to sites marked ☠. Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
@@ -109,10 +109,10 @@ Find your information and [opt out](https://www.idtrue.com/optout/).
 [Search for your name, address or phone number](https://neighbor.report/), and then [remove the report](https://neighbor.report/remove). You will need to verify the opt-out request via email.
 
 ### ☠ 💐 Nuwber
-[Find your information](https://nuwber.com/). Try to opt out on the [removal form](https://nuwber.com/removal/link). If the URL you generate doesn't work in the form or you run across other problems, take a screenshot of your results and send them to <support@nuwber.com>, asking them to opt you out.
+[Find your information](https://nuwber.com/). Try to opt out on the [removal form](https://nuwber.com/removal/link). Try "filter by state" to isolate the "person" URL you need. Don’t bother trying to get a full report; it’ll just waste your time with multiple steps and deceptive design trying to get you to pay for a subscription. If the URL you generate doesn't work in the form or you run across other problems, take a screenshot of your results and send them to <support@nuwber.com>, asking them to opt you out. 
 
 ### ☠ PeekYou
-[Find your information here](https://www.peekyou.com/), and then [opt out](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the &quot;unique ID&quot; field. Make sure to check "remove my entire listing." You can also remove your information from the sites that it says it has aggregated information from.
+Look for [your information](https://www.peekyou.com) and [opt out](https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the "unique ID" field. Make sure to check "remove my entire listing." If you cannot find a unique ID, it’s possible PeekYou doesn’t have a separate profile for you. You can remove your information from the people search sites that it says it has aggregated information from by finding the instructions under the name of each site in this list.
 
 ### PeopleByName
 [Look up your name](https://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: https://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out [for each record](https://www.peoplebyname.com/remove.php).
@@ -126,9 +126,6 @@ Find your information and [opt out](https://www.peoplesearchnow.com/opt-out).
 ### 🎫 PimEyes
 PimEyes is an online face search engine that uses face recognition to perform a reverse image search, finding pictures of your face (or others like it) throughout the Internet. If you want to see if your photographs are in PimEyes’ database, consider [uploading a photo](https://pimeyes.com/). (I used a very public photo that I know is already online, but you can also take a photo with your camera—which PimEyes claims it does not store.)  To opt out, you’ll need to [upload an image of your face](https://pimeyes.com/en/opt-out-request-form), and also attach a photo ID with all sensitive data (other than your name and photograph) blurred. The easiest way to do this, in my opinion, is through Signal, the encrypted messaging app, which has a blur feature described [in its blog](https://signal.org/blog/blur-tools/). You can also use tools such as Photoshop or even make a copy of your ID and use a Sharpie. Finally, you’ll need to provide your email address.
 
-### ☠ Pipl
-Go to [Pipl](https://pipl.com/) to find your data. [Opt out from Pipl](https://pipl.com/personal-information-removal-request). Then, remove your information from any sites it’s aggregated from. You can also email support at <support@pipl.com>.
-
 ### PrivateRecords
 Search for your name and state and [opt out](https://www.privaterecords.net/optOut/name/landing).
 
@@ -139,7 +136,7 @@ Find [your information](https://www.publicdatausa.com/). Copy the URL with your 
 Search for your name and state in the [opt-out page](https://dashboard.propertyrecs.com/opt-out), then opt out if needed.
 
 ### ☠ 💐 Radaris
-Find [your information](https://radaris.com/). Fill out [a series of forms](https://radaris.com/control/my-info). Or, try selecting "control information" and "remove information" by clicking on the X next to it or by removing specific listings. You can also privatize your account. You unfortunately need to register to remove information, and are limited to removing six items at a time. (I recommend removing items even if you privatize your account because these settings don’t always stick.) Check out [the details](https://radaris.com/page/how-to-remove). You will need to confirm your opt-out request by clicking on a link sent to you via email.
+Find [your information](https://radaris.com/). Make sure the site you are clicking on is a Radaris link, rather than OneRep or Nuwber. (It is possible you do not have a Radaris listing.) Once you find your information, copy the URL as you’ll need it when you fill out [a series of forms](https://radaris.com/control/privacy), hitting “next” and waiting for new pages to load. 
 
 ### Rehold
 Look up your home address here: [https://rehold.com/](https://rehold.com/). If there is a number or name next to it you’d like removed, click on  the red “remove” button next to it. You will need to enter your name and email address and solve a captcha.
