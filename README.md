@@ -9,7 +9,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on February 28, 2025 with updated instructions for Nuwber and Radaris. We also removed Pipl due to reports that there no longer appears to be a free way to search for data, and that hitting send on the opt-out form doesn’t work.
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on March 23, 2025 to remove the California-based data broker BackgroundAlert, which [shut down its operations](https://cppa.ca.gov/announcements/2025/20250227.html) in response to a settlement with the Enforcement Division of the California Privacy Protection Agency (CPPA) for failing to register and pay an annual fee, as required by the Delete Act.
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 14, start with sites marked 💐. If you can do 22, go to sites marked ☠. Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
@@ -50,9 +50,6 @@ While you can’t see all of your data without a paid account, Ancestry will del
 
 ### Archives
 To find your information, you must [sign up for a free trial](https://www.archives.com/search/ancestor/checkout) (and then cancel). Then, [opt out](https://www.archives.com/Optout) if you found your data.
-
-### 🎫 BackgroundAlert
-[Find your information](https://www.backgroundalert.com/optout/) and opt out.
 
 ### ☠ 💐 BeenVerified
 Find your information and opt out of [people search](https://www.beenverified.com/app/optout/search) and [property search](https://www.beenverified.com/app/optout/address-search). BeenVerified also owns PeopleLooker and PeopleSmart. Be aware that BeenVerified only allows one opt-out per email address, so you may need to reach out via email for additional opt-outs. You will need to confirm your opt-out request by clicking on a link sent to you via email.
