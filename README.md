@@ -51,6 +51,9 @@ While you can’t see all of your data without a paid account, Ancestry will del
 ### Archives
 To find your information, you must [sign up for a free trial](https://www.archives.com/search/ancestor/checkout) (and then cancel). Then, [opt out](https://www.archives.com/Optout) if you found your data.
 
+### Best of History Websites
+[Find your information](https://besthistorysites.net/), and then paste the URL into the [opt-out form](https://besthistorysites.net/opt-out). Then, type in your email address on the following page and click on the "remove" link. You'll need to click on the opt-out link sent to you via email.
+
 ### ☠ 💐 BeenVerified
 Find your information and opt out of [people search](https://www.beenverified.com/app/optout/search) and [property search](https://www.beenverified.com/app/optout/address-search). BeenVerified also owns PeopleLooker and PeopleSmart. Be aware that BeenVerified only allows one opt-out per email address, so you may need to reach out via email for additional opt-outs. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
