@@ -9,7 +9,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on March 23, 2025 to remove the California-based data broker BackgroundAlert, which [shut down its operations](https://cppa.ca.gov/announcements/2025/20250227.html) in response to a settlement with the Enforcement Division of the California Privacy Protection Agency (CPPA) for failing to register and pay an annual fee, as required by the Delete Act.
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on April 11, 2025 to add Best History Websites, and on March 23, 2025 to remove the California-based data broker BackgroundAlert, which [shut down its operations](https://cppa.ca.gov/announcements/2025/20250227.html) in response to a settlement with the Enforcement Division of the California Privacy Protection Agency (CPPA) for failing to register and pay an annual fee, as required by the Delete Act.
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 14, start with sites marked 💐. If you can do 22, go to sites marked ☠. Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
