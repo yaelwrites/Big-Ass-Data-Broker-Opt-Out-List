@@ -9,7 +9,7 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on April 11, 2025 to add Best History Websites, and on March 23, 2025 to remove the California-based data broker BackgroundAlert, which [shut down its operations](https://cppa.ca.gov/announcements/2025/20250227.html) in response to a settlement with the Enforcement Division of the California Privacy Protection Agency (CPPA) for failing to register and pay an annual fee, as required by the Delete Act.
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on May 25, 2025 to add a 💰 to PeopleFinders, since it charges money for access, and to update the opt-out link for Radaris.
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 14, start with sites marked 💐. If you can do 22, go to sites marked ☠. Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
@@ -117,7 +117,7 @@ Look for [your information](https://www.peekyou.com) and [opt out](https://www.p
 ### PeopleByName
 [Look up your name](https://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: https://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out [for each record](https://www.peoplebyname.com/remove.php).
 
-### ☠ 💐 PeopleFinders
+### ☠ 💐 💰 PeopleFinders
 [Find your information](https://www.peoplefinders.com/) and [opt out](https://www.peoplefinders.com/opt-out). This includes Advanced People Search. The opt-out link also includes information on finding your profile, after you hit next. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### PeopleSearchNow
@@ -136,7 +136,7 @@ Find [your information](https://www.publicdatausa.com/). Copy the URL with your 
 Search for your name and state in the [opt-out page](https://dashboard.propertyrecs.com/opt-out), then opt out if needed.
 
 ### ☠ 💐 Radaris
-Find [your information](https://radaris.com/). Make sure the site you are clicking on is a Radaris link, rather than OneRep or Nuwber. (It is possible you do not have a Radaris listing.) Once you find your information, copy the URL as you’ll need it when you fill out [a series of forms](https://radaris.com/control/privacy), hitting “next” and waiting for new pages to load. 
+Find [your information](https://radaris.com/). Make sure the site you are clicking on is a Radaris link, rather than OneRep or Nuwber. (It is possible you do not have a Radaris listing.) Once you find your information, copy the URL as you’ll need it when you fill out [a series of forms](https://radaris.com/control-privacy), hitting “next” and waiting for new pages to load. 
 
 ### Rehold
 Look up your home address here: [https://rehold.com/](https://rehold.com/). If there is a number or name next to it you’d like removed, click on  the red “remove” button next to it. You will need to enter your name and email address and solve a captcha.
