@@ -172,6 +172,9 @@ Follow the [removal instructions](https://www.truepeoplesearch.com/removal). You
 Search for [your information](https://www.unitedstatesphonebook.com/search.php).
 If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site [in this page](https://www.unitedstatesphonebook.com/contact.php).
 
+### UnMask
+Search for [your information](https://unmask.com/). Once you find your entry, go to the [opt out form](https://unmask.com/opt-out/) where you'll enter your name, city, and state. They'll send a confirmation email with a link to finish the removal process. You'll need to solve a couple captchas along the way.
+
 ### USA People Search
 Find and [remove your information](https://www.usa-people-search.com/manage).
 
