@@ -212,6 +212,8 @@ Look up your information here: [https://opennpi.com/provider/](https://opennpi.c
 
 ## Preventing Identity Theft & Opting Out of Marketing Sites
 
+*this section is being updated*
+
 ### 📞 Consider freezing your credit, which prevents creditors from accessing your credit report.
 
 (It also prevents credit, loans, and services from being approved in your name. You can receive a pin to unfreeze your credit, if needed. Note that you will need to do so in order to conduct business with entities requiring access to this information.)  
