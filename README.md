@@ -112,7 +112,7 @@ Find your information and [opt out](https://www.idtrue.com/optout/).
 [Find your information](https://nuwber.com/). Try to opt out on the [removal form](https://nuwber.com/removal/link). Try "filter by state" to isolate the "person" URL you need. Don’t bother trying to get a full report; it’ll just waste your time with multiple steps and deceptive design trying to get you to pay for a subscription. If the URL you generate doesn't work in the form or you run across other problems, take a screenshot of your results and send them to <support@nuwber.com>, asking them to opt you out. 
 
 ### ☠ PeekYou
-Look for [your information](https://www.peekyou.com) and [opt out]([https://www.peekyou.com/about/contact/optout). You will need the letters at the end of your profile’s URL in the "unique ID" field. Make sure to check "remove my entire listing." If you cannot find a unique ID, it’s possible PeekYou doesn’t have a separate profile for you. You can remove your information from the people search sites that it says it has aggregated information from by finding the instructions under the name of each site in this list.
+Look for [your information](https://www.peekyou.com) and [opt out](https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/). You will need the letters at the end of your profile’s URL in the "unique ID" field. Make sure to check "remove my entire listing." If you cannot find a unique ID, it’s possible PeekYou doesn’t have a separate profile for you. You can remove your information from the people search sites that it says it has aggregated information from by finding the instructions under the name of each site in this list.
 
 ### PeopleByName
 [Look up your name](https://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: https://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out [for each record](https://www.peoplebyname.com/remove.php).
@@ -188,8 +188,7 @@ Find [your information](https://verecor.com). To opt out, [enter the profile URL
 Find [your information](https://vericora.com/profile/search) and [opt out](https://vericora.com/ng/control/privacy). (If you opt-out of Verecor and try to out-out of Vericora (or the reverse), you will get an error stating: "You have exceeded the maximum number of requests per person." It's not clear if either site respects an opt-out on the other, so use a separate browser session and email to opt-out of each.)
 
 ### Veripages
-Find [your information](https://veripages.com/). To opt out, [enter the profile URL](https://veripages.com/inner/control/privacy), along with your name and email. You will need to fill out a captcha, and confirm the email link to finalize your request.
-
+Find [your information](https://veripages.com/). To opt out, [enter the profile URL](https://veripages.com/inner/control-privacy), along with your name and email. You will need to fill out a captcha, and confirm the email link to finalize your request.
 
 ### VoterRecords
 Go to [VoterRecords.com](https://voterrecords.com/), find your information, scroll to the bottom of the page and click on the"record opt-out" link. This will lead to an opt-out form, which you’ll need to submit. You may receive a verification link you’ll need to click on to verify your opt-out request.
