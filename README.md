@@ -9,7 +9,9 @@
 | 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on May 25, 2025 to add a 💰 to PeopleFinders, since it charges money for access, and to update the opt-out link for Radaris.
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on June 22, 2025 to update the PeekYou and Veripages opt-out URLs, update information on credit freezes, to add information on Spokeo, to add Ofsearch, Private Eye, and Unmask to the list, and to remove Peoplefinders since opting out of SmartBackgroundChecks seems to lead to removal from that broker and is free. We also changed ☠ 💐icons to just 💐. 
+
+_NOTE: THIS LIST WILL BE REORDERED BY PRIORITY IN THE NEXT UPDATE, SO PLEASE MAKE A COPY NOW IF THIS WILL MESS UP YOUR PROCESS._
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 14, start with sites marked 💐. If you can do 22, go to sites marked ☠. Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
