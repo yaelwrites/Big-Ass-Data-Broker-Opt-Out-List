@@ -111,6 +111,9 @@ Find your information and [opt out](https://www.idtrue.com/optout/).
 ### ☠ 💐 Nuwber
 [Find your information](https://nuwber.com/). Try to opt out on the [removal form](https://nuwber.com/removal/link). Try "filter by state" to isolate the "person" URL you need. Don’t bother trying to get a full report; it’ll just waste your time with multiple steps and deceptive design trying to get you to pay for a subscription. If the URL you generate doesn't work in the form or you run across other problems, take a screenshot of your results and send them to <support@nuwber.com>, asking them to opt you out. 
 
+### Ofsearch
+Go to [Ofsearch’s information control page](https://ofsearch.org/control/privacy) and check for your information in the top bar. If available, copy and paste it in the form on the page, or email it to <contactus@ofsearch.org>. If there are multiple URLs, you will need to fill out a separate form for each URL, or include all of them via email.
+
 ### ☠ PeekYou
 Look for [your information](https://www.peekyou.com) and [opt out](https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/). You will need the letters at the end of your profile’s URL in the "unique ID" field. Make sure to check "remove my entire listing." If you cannot find a unique ID, it’s possible PeekYou doesn’t have a separate profile for you. You can remove your information from the people search sites that it says it has aggregated information from by finding the instructions under the name of each site in this list.
 
