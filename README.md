@@ -151,7 +151,7 @@ Find [your information](https://www.searchpeoplefree.com/), making sure to searc
 Find [your information](https://www.searchquarry.com/). If it’s listed, [opt out](https://members.searchquarry.com/removeMyData/) You will need to click the verification link in your inbox to finalize the opt out.
 
 ### ☠ 💐 SmartBackgroundChecks
-Find [your information](https://www.smartbackgroundchecks.com/). Then, [opt out](https://www.smartbackgroundchecks.com/optout).
+Find [your information](https://www.smartbackgroundchecks.com/). Then, [opt out](https://www.smartbackgroundchecks.com/optout). This will likely also remove your information from PeopleFinders. 
 
 ### Social Catfish
 Find [your information](https://socialcatfish.com). Record the URL of each page that has your information. Then, go to the [opt-out page](https://socialcatfish.com/opt-out/) and scroll down to the instructions for removing URLs, email, phone number, and address. (Make sure to only ask for information to be removed if you already see it on the site.) You’ll need to provide your email address and click on a confirmation link to complete the opt-out process.
