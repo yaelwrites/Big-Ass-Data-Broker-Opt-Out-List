@@ -120,9 +120,6 @@ Look for [your information](https://www.peekyou.com) and [opt out](https://www.p
 ### PeopleByName
 [Look up your name](https://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: https://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out [for each record](https://www.peoplebyname.com/remove.php).
 
-### ☠ 💐 💰 PeopleFinders
-[Find your information](https://www.peoplefinders.com/) and [opt out](https://www.peoplefinders.com/opt-out). This includes Advanced People Search. The opt-out link also includes information on finding your profile, after you hit next. You will need to confirm your opt-out request by clicking on a link sent to you via email.
-
 ### PeopleSearchNow
 Find your information and [opt out](https://www.peoplesearchnow.com/opt-out).
 
@@ -153,7 +150,7 @@ Find [your information](https://www.searchpeoplefree.com/), making sure to searc
 ### SearchQuarry
 Find [your information](https://www.searchquarry.com/). If it’s listed, [opt out](https://members.searchquarry.com/removeMyData/) You will need to click the verification link in your inbox to finalize the opt out.
 
-### SmartBackground Checks
+### ☠ 💐 SmartBackgroundChecks
 Find [your information](https://www.smartbackgroundchecks.com/). Then, [opt out](https://www.smartbackgroundchecks.com/optout).
 
 ### Social Catfish
