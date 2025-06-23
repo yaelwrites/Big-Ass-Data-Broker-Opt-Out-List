@@ -213,19 +213,17 @@ Look up your information here: [https://opennpi.com/provider/](https://opennpi.c
 
 *this section is being updated*
 
-### 📞 Consider freezing your credit, which prevents creditors from accessing your credit report.
+### 📞 Consider freezing your credit, which prevents scammers from opening credit accounts in your name where credit reports are a necessary prerequisite to extending credit. 
 
-(It also prevents credit, loans, and services from being approved in your name. You can receive a pin to unfreeze your credit, if needed. Note that you will need to do so in order to conduct business with entities requiring access to this information.)  
-
-To freeze your credit, you will need to provide personal information such as your name, address, date of birth, and social security number. While you can sometimes initiate this online, it’s better to do it by phone. Fees for freezing your credit [vary by state](https://advocacy.consumerreports.org/research/consumers-unions-guide-to-security-freeze-protection-2/).
-
-To freeze your credit, contact:
+To freeze your credit, you will need to provide personal information such as your name, address, date of birth, and social security number. Contact:
 
 - Equifax: 1 (800) 349-9960, <https://www.equifax.com/personal/credit-report-services/credit-freeze/>
 - Experian: 1 (888) 397‑3742, <https://www.experian.com/freeze/center.html>.
 - TransUnion: 1 (888) 909-8872, <https://www.transunion.com/credit-freeze/place-credit-freeze> or <https://service.transunion.com/dss/orderStep1_form.page>
 - Innovis: 1 (800) 540-2505, <https://www.innovis.com/personal/securityFreeze> or <https://www.innovis.com/securityFreeze/index>
 - ChexSystems: 1 (800) 428-9623, <https://www.chexsystems.com/security-freeze/place-freeze>. This will prevent approval of accounts, loans, and services being approved in your name without your consent.
+
+For more information on freezing your credit, see the [Consumer Financial Protection Bureau’s 2025 Consumer Reporting Company List](https://files.consumerfinance.gov/f/documents/cfpb_consumer-reporting-companies_list_2025.pdf).
 
 ### Explore any privacy options offered by your state’s motor vehicle department.
 
