@@ -219,8 +219,6 @@ Look up your information here: [https://opennpi.com/provider/](https://opennpi.c
 
 ## Preventing Identity Theft & Opting Out of Marketing Sites
 
-*this section is being updated*
-
 ### 📞 Consider freezing your credit, which prevents scammers from opening credit accounts in your name where credit reports are a necessary prerequisite to extending credit. 
 
 To freeze your credit, you will need to provide personal information such as your name, address, date of birth, and social security number. Contact:
