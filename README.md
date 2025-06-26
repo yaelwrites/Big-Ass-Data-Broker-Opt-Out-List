@@ -60,7 +60,7 @@ To find your information, you must [sign up for a free trial](https://www.archiv
 Find your information and opt out of [people search](https://www.beenverified.com/app/optout/search) and [property search](https://www.beenverified.com/app/optout/address-search). BeenVerified also owns PeopleLooker and PeopleSmart. Be aware that BeenVerified only allows one opt-out per email address, so you may need to reach out via email for additional opt-outs. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### ☠ 💐 CheckPeople
-Look for [your contact info](https://checkpeople.com/do-not-sell-info). If it shows up, select “remove record.” You will need to fill out your name and email and solve a captcha.  You will receive an email which will require you to confirm your opt-out request.
+Look for [your contact info](https://checkpeople.com/do-not-sell-info). If it shows up, select your record for removal. You will need to fill out your name and email and solve a captcha.  You will receive an email which will require you to confirm your opt-out request.
 
 ### Classmates.com
 Cancel your free or paid membership following [these instructions](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-).
@@ -92,11 +92,17 @@ Look for and [remove your information](https://www.fastpeoplesearch.com/removal)
 ### FreePeopleDirectory
 [Search for your information](https://www.freepeopledirectory.com). If you find it, you can opt out on [Spokeo’s opt-out page](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section.
 
+### ☠ 💐 FreePeopleSearch
+Look for [your contact info](https://freepeoplesearch.com/remove-info/). If it shows up, select your record for removal. You will need to fill out your name and email and solve a captcha.  You will receive an email which will require you to confirm your opt-out request.
+
 ### HudwayGlass
 [Look for your home address](https://hudwayglass.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
 
 ### IDTrue
 Find your information and [opt out](https://www.idtrue.com/optout/).
+
+### ☠ 💐 Information.com
+Look for [your contact info](https://information.com/remove-my-info/). If it shows up, select your record for removal. You will need to fill out your name and email and solve a captcha.  You will receive an email which will require you to confirm your opt-out request.
 
 ### InfoTracer
 [Find your information](https://www.infotracer.com) and opt out by [filling out the form](https://infotracer.com/optout/). You can also mail in [a different form](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946.
@@ -136,6 +142,9 @@ Search for your name and state and [opt out](https://www.privaterecords.net/optO
 
 ### ☠ 💐 PublicDataUSA
 Find [your information](https://www.publicdatausa.com/). Copy the URL with your results and enter it along with your name and email address on the [remove page](https://www.publicdatausa.com/remove.php).
+
+### ☠ 💐 PublicRecord
+Look for [your contact info](https://publicrecord.com/opt-me-out/). If it shows up, select your record for removal. You will need to fill out your name and email and solve a captcha.  You will receive an email which will require you to confirm your opt-out request.
 
 ### PropertyRecs
 Search for your name and state in the [opt-out page](https://dashboard.propertyrecs.com/opt-out), then opt out if needed.
@@ -177,8 +186,8 @@ Follow the [removal instructions](https://www.truepeoplesearch.com/removal). You
 Search for [your information](https://www.unitedstatesphonebook.com/search.php).
 If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site [in this page](https://www.unitedstatesphonebook.com/contact.php).
 
-### UnMask
-Search for [your information](https://unmask.com/). Once you find your entry, go to the [opt out form](https://unmask.com/opt-out/) where you'll enter your name, city, and state. They'll send a confirmation email with a link to finish the removal process. You'll need to solve a couple captchas along the way.
+### ☠ 💐 UnMask
+Look for [your contact info](https://unmask.com/opt-out/). If it shows up, select your record for removal. You will need to fill out your name and email and solve a captcha.  You will receive an email which will require you to confirm your opt-out request.
 
 ### USA People Search
 Find and [remove your information](https://www.usa-people-search.com/manage).
