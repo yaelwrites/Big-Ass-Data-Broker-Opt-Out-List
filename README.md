@@ -141,7 +141,9 @@ Find [your information](https://www.publicdatausa.com/). Copy the URL with your 
 Search for your name and state in the [opt-out page](https://dashboard.propertyrecs.com/opt-out), then opt out if needed.
 
 ### 💐 Radaris
-Find [your information](https://radaris.com/). Make sure the site you are clicking on is a Radaris link, rather than OneRep or Nuwber. (It is possible you do not have a Radaris listing.) Once you find your information, copy the URL as you’ll need it when you fill out [a series of forms](https://radaris.com/control-privacy), hitting “next” and waiting for new pages to load. 
+Find [your information](https://radaris.com/). You can ignore sponsored links that take you to other sites. It is possible you do not have a Radaris listing even if you find sponsored links. Once you find your information you can remove it in one of two ways.
+  - If your information has a "View Profile" button, copy the URL. Use the URL to complete [a series of forms](https://radaris.com/control-privacy), hitting “next” and waiting for new pages to load.
+  - If your information does not have a "View Profile" button, copy the text of your information or take a screenshot of it. Write an email to [customer-service@radaris.com](mailto:customer-service@radaris.com). Include your information and ask them to take it down. They will send you an automatic reply telling you to use the online form. Respond to their automatic reply to tell them the form does not accept your information. You may need to reply to them several times before they confirm removal.
 
 ### Rehold
 Look up your home address here: [https://rehold.com/](https://rehold.com/). If there is a number or name next to it you’d like removed, click on  the red “remove” button next to it. You will need to enter your name and email address and solve a captcha.
