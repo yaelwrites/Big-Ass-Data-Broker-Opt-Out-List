@@ -157,7 +157,7 @@ Find [your information](https://socialcatfish.com). Record the URL of each page 
 ### 💐 💰 Spokeo
 Find [your information](https://www.spokeo.com/search) and remove your information by entering the URL of the profile you want removed and your email address on the [opt-out page](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section. You will need to confirm your opt-out request by clicking on a link sent to you via email. Unfortunately, we’ve received reports that Spokeo retains removed information for paid accounts, even if it doesn’t show up in free searches. It may be worth paying for a $1 trial to see if the data is still showing up even after you have opted out.
 
-### SpyFly
+### 💰 SpyFly
 Look for [your data](https://www.spyfly.com). Then, [opt out](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing <support@spyfly.com>. You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
 
 ### 💐 That’s Them
