@@ -6,7 +6,6 @@
 | ☠       | high priority                                        |
 | 🎫      | requires driver’s license (cross out your ID #!)     |
 | 📞      | must pick up a (gasp!) phone                         |
-| 📫      | must use snail mail                                  |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
 This list, also known as BADBOOL, was started in September 2017 and was most recently updated on June 22, 2025 to update the PeekYou and Veripages opt-out URLs, update information on credit freezes, to add information on Spokeo, to add Ofsearch, Private Eye, and Unmask to the list, and to remove Peoplefinders since opting out of SmartBackgroundChecks seems to lead to removal from that broker and is free. We also changed ☠ 💐icons to just 💐. 
@@ -60,7 +59,7 @@ To find your information, you must [sign up for a free trial](https://www.archiv
 Find your information and opt out of [people search](https://www.beenverified.com/app/optout/search) and [property search](https://www.beenverified.com/app/optout/address-search). BeenVerified also owns PeopleLooker and PeopleSmart. Be aware that BeenVerified only allows one opt-out per email address, so you may need to reach out via email for additional opt-outs. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### 💐 CheckPeople
-Look for [your contact info](https://checkpeople.com/do-not-sell-info). If it shows up, select “remove record.” You will need to fill out your name and email and solve a captcha.  You will receive an email which will require you to confirm your opt-out request.
+Look for [your contact info](https://checkpeople.com/do-not-sell-info). If it shows up, select your record for removal. You will need to fill out your name and email and solve a captcha.  You will receive an email which will require you to confirm your opt-out request.
 
 ### Classmates.com
 Cancel your free or paid membership following [these instructions](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-).
