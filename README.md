@@ -187,10 +187,10 @@ After finding your information, [enter your name and URL](https://usa-official.c
 Look for your number and [opt out](https://www.usphonebook.com/opt-out/).
 
 ### Verecor
-Find [your information](https://verecor.com). To opt out, [enter the profile URL](https://verecor.com/ng/control/privacy), along with your name and email. You will need to fill out a captcha, and confirm the email link to finalize your request. If it doesn’t go through, you may need to email <assist@verecor.com>. (If you opt-out of Verecor and try to out-out of Vericora (or the reverse), you will get an error stating: "You have exceeded the maximum number of requests per person." It's not clear if either site respects an opt-out on the other, so use a separate browser session and email to opt-out of each.)
+Find [your information](https://verecor.com). To opt out, [enter the profile URL](https://verecor.com/ng/control/privacy), along with your name and email. You will need to fill out a captcha, and confirm the email link to finalize your request.
 
 ### Vericora
-Find [your information](https://vericora.com/profile/search) and [opt out](https://vericora.com/ng/control/privacy). (If you opt-out of Verecor and try to out-out of Vericora (or the reverse), you will get an error stating: "You have exceeded the maximum number of requests per person." It's not clear if either site respects an opt-out on the other, so use a separate browser session and email to opt-out of each.)
+Find [your information](https://vericora.com/profile/search) and [opt out](https://vericora.com/ng/control/privacy).
 
 ### Veripages
 Find [your information](https://veripages.com/). To opt out, [enter the profile URL](https://veripages.com/inner/control-privacy), along with your name and email. You will need to fill out a captcha, and confirm the email link to finalize your request.
