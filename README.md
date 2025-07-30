@@ -174,7 +174,7 @@ If your address is listed and you want it removed, enter the telephone number an
 Search for [your information](https://unmask.com/). Once you find your entry, go to the [opt out form](https://unmask.com/opt-out/) where you'll enter your name, city, and state. They'll send a confirmation email with a link to finish the removal process. You'll need to solve a couple captchas along the way.
 
 ### USA People Search
-Find and [remove your information](https://www.usa-people-search.com/manage).
+[Find](https://www.usa-people-search.com/) and [remove your information](https://www.usa-people-search.com/removal).
 
 ### USA-Official
 After [finding your information](https://usa-official.com/), [enter your name and URL](https://usa-official.com/remove.php).
