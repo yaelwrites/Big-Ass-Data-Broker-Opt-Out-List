@@ -59,7 +59,7 @@ To find your information, you must [sign up for a free trial](https://www.archiv
 Find your information and opt out of [people search](https://www.beenverified.com/app/optout/search) and [property search](https://www.beenverified.com/app/optout/address-search). BeenVerified also owns PeopleLooker and PeopleSmart. Be aware that BeenVerified only allows one opt-out per email address, so you may need to reach out via email for additional opt-outs. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### 💐 CheckPeople
-Look for [your contact info](https://checkpeople.com/do-not-sell-info). If it shows up, select your record for removal. You will need to fill out your name and email and solve a captcha.  You will receive an email which will require you to confirm your opt-out request.
+Look for [your contact info](https://checkpeople.com/do-not-sell-info). If it shows up, select your record for removal. You will need to fill out your name and email address and solve a captcha. You will receive an email which will require you to confirm your opt-out request.
 
 ### Classmates.com
 Cancel your free or paid membership following [these instructions](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-).
