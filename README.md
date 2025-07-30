@@ -177,7 +177,7 @@ Search for [your information](https://unmask.com/). Once you find your entry, go
 Find and [remove your information](https://www.usa-people-search.com/manage).
 
 ### USA-Official
-After finding your information, [enter your name and URL](https://usa-official.com/remove.php).
+After [finding your information](https://usa-official.com/), [enter your name and URL](https://usa-official.com/remove.php).
 
 ### ☠ USPhoneBook
 Look for your number and [opt out](https://www.usphonebook.com/opt-out/).
