@@ -94,9 +94,6 @@ Look for and [remove your information](https://www.fastpeoplesearch.com/removal)
 ### HudwayGlass
 [Look for your home address](https://hudwayglass.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
 
-### IDTrue
-Find your information and [opt out](https://www.idtrue.com/optout/).
-
 ### InfoTracer
 [Find your information](https://www.infotracer.com) and opt out by [filling out the form](https://infotracer.com/optout/). You can also mail in [a different form](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946.
 
