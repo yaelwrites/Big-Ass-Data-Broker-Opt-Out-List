@@ -116,9 +116,6 @@ Find your information and [opt out](https://www.idtrue.com/optout/).
 ### Ofsearch
 Go to [Ofsearch’s information control page](https://ofsearch.org/control/privacy) and check for your information in the top bar. If available, copy and paste it in the form on the page, or email it to <contactus@ofsearch.org>. If there are multiple URLs, you will need to fill out a separate form for each URL, or include all of them via email.
 
-### ☠ PeekYou
-Look for [your information](https://www.peekyou.com) and [opt out](https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/). You will need the letters at the end of your profile’s URL in the "unique ID" field. Make sure to check "remove my entire listing." If you cannot find a unique ID, it’s possible PeekYou doesn’t have a separate profile for you. You can remove your information from the people search sites that it says it has aggregated information from by finding the instructions under the name of each site in this list.
-
 ### PeopleByName
 [Look up your name](https://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: https://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out [for each record](https://www.peoplebyname.com/remove.php).
 
