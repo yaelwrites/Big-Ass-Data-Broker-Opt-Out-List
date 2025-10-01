@@ -8,7 +8,7 @@
 | 📞      | must pick up a (gasp!) phone                         |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on July 29, 2025 to reorder the list by priority. We also removed PeekYou (which has entirely aggregate data), removed notes about Verecor/Vericora limitations which no longer exist, explained how to remove more types of Radaris records, improved CheckPeople, removed IDTrue (the site has been dead for a minute), updated USA People Search, and added 💰 to SpyFly. 
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on September 30, 2025 to remove CocoFinder, as the Google form included to opt out was removed by Google due to alleged terms of service violations. Once there is a way to opt out, it will be re-added.
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 13, start with sites marked 💐. If you can do 19, go to sites marked ☠. Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
@@ -103,9 +103,6 @@ To find your information, you must [sign up for a free trial](https://www.archiv
 
 ### Classmates.com
 Cancel your free or paid membership following [these instructions](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-).
-
-### CocoFinder
-[Look for your information](https://cocofinder.com/search) and then [opt out](https://cocofinder.com/remove-my-info). You will be sent to a [Google form](https://docs.google.com/forms/d/e/1FAIpQLScEgLH9ro7oQR4c0V9E19ug1Gb7wVMrFFSj0Sgx4sjba_ET4Q/viewform).
 
 ### Cyber Background Checks
 Look for [your information](https://www.cyberbackgroundchecks.com/) and [opt out](https://www.cyberbackgroundchecks.com/removal). 
