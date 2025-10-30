@@ -97,6 +97,7 @@ Look for your number and [opt out](https://www.usphonebook.com/opt-out/).
 
 ### Archives
 To find your information, you must [sign up for a free trial](https://www.archives.com/search/ancestor/checkout) (and then cancel). Then, [opt out](https://www.archives.com/Optout) if you found your data.
+Head to their [opt out](https://www.archives.com/Optout) page, fill in your information, and submit.  If you wish to verify whether or not you're information is on this site you must [sign up for a free trial](https://www.archives.com/search/ancestor/checkout) (and then cancel).
 
 ### Best of History Websites
 [Find your information](https://besthistorysites.net/), and then paste the URL into the [opt-out form](https://besthistorysites.net/opt-out). Then, type in your email address on the following page and click on the "remove" link. You'll need to click on the opt-out link sent to you via email.
