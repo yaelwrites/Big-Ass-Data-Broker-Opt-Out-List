@@ -31,7 +31,7 @@ Google has a free service called [Results About You](https://support.google.com/
 Find your information and opt out of [people search](https://www.beenverified.com/app/optout/search) and [property search](https://www.beenverified.com/app/optout/address-search). BeenVerified also owns PeopleLooker and PeopleSmart. Be aware that BeenVerified only allows one opt-out per email address, so you may need to reach out via email for additional opt-outs. You will need to confirm your opt-out request by clicking on a link sent to you via email.
 
 ### 💐 CheckPeople
-Look for [your contact info](https://checkpeople.com/do-not-sell-info). If it shows up, select your record for removal. You will need to fill out your name and email address and solve a captcha. You will receive an email which will require you to confirm your opt-out request.
+First, request a copy of your data by filling out your name and email address under “Right to Know” at CheckPeople's [privacy rights page](https://checkpeople.com/privacy-rights]. If CheckPeople has your information, [opt out](https://checkpeople.com/opt-out). You will be required to share your birthdate and full legal name. 
 
 ### 💐 ClustrMaps
 [Find your information](https://clustrmaps.com/), and then [remove it](https://clustrmaps.com/bl/opt-out). It will ask you to check off anything associated with your account that you want removed.
