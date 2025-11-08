@@ -10,7 +10,7 @@
 
 This list, also known as BADBOOL, was started in September 2017 and was most recently updated on 🎃👻🧙Halloween 2025 🎃👻🧙to add TruePeopleSearch.net and update CheckPeople.
 
-How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 13, start with sites marked 💐. If you can do 19 (total), go to sites marked ☠ as well. Once you’ve completed all of those, you can start to work your way through the rest of the list. 
+How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 13, start with sites marked 💐. If you can do 19 (total), go to sites marked ☠ as well. Once you’ve completed all of those, you can start to work your way through the rest of the list. The sites marked with 💐 are only applicable for US residents.
 
 Please send corrections or updates to <yael@yaelwrites.com> using the subject line “BADBOOL,” or file a pull request. (You can find other ways to reach me [on the contact page on my website](https://yaelwrites.com/contact).) Screenshots in emails are incredibly helpful. I add opt-out info only if users can verify that the data broker has their information before sharing additional data, and where removal is not limited to local laws like GDPR, CCPA, etc.
 
