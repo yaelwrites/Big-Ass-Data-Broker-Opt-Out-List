@@ -8,11 +8,11 @@
 | 📞      | must pick up a (gasp!) phone                         |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on 🎃👻🧙Halloween 2025 🎃👻🧙to add TruePeopleSearch.net and update CheckPeople.
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on November 22, 2025 to remove Dataveria and provide additional information on corrections and pull requests we accept.
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 13, start with sites marked 💐. If you can do 19 (total), go to sites marked ☠ as well. Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
-Please send corrections or updates to <yael@yaelwrites.com> using the subject line “BADBOOL,” or file a pull request. (You can find other ways to reach me [on the contact page on my website](https://yaelwrites.com/contact).) Screenshots in emails are incredibly helpful. I add opt-out info only if users can verify that the data broker has their information before sharing additional data, and where removal is not limited to local laws like GDPR, CCPA, etc.
+Please send corrections or updates to <yael@yaelwrites.com> using the subject line “BADBOOL,” or file a pull request. (You can find other ways to reach me [on the contact page on my website](https://yaelwrites.com/contact).) Screenshots in emails are incredibly helpful. With very few exceptions, I only add opt-out information if users can verify that the data broker has their information before sharing additional data. To make the site accessible to the largest number of people, I include listings where removal is not limited to people in jurisdictions with privacy laws, to specific professions, or to people who are able to provide police reports, court orders, or letters from credit reporting agencies, to prove they are at risk.
 
 _Disclaimers: Some of these opt-outs take a long time to go through. Sometimes, information is pulled from other sources and you’ll need to opt out multiple times for the same site. Data brokers come and go (and are bought out by others), and they also often change their opt-out pages. I update this regularly, but it’s not always current. There are sites I either don’t know about or do not include because there is no free way to see if they have data before requesting removal, or to provide the specific URLs needed for removal. Finally, even opting out of these sites doesn’t mean that your address is secure. In many states, real estate data and voter registration information is public (or easy to obtain). And, of course, location data can be found by physical means (e.g., following you home) and through other people who know it (i.e., social engineering). That said, removing your home address from data broker sites can significantly lower your attack surface and make it harder for people to find it. 💕_
 
@@ -35,9 +35,6 @@ First, request a copy of your data by filling out your name and email address un
 
 ### 💐 ClustrMaps
 [Find your information](https://clustrmaps.com/), and then [remove it](https://clustrmaps.com/bl/opt-out). It will ask you to check off anything associated with your account that you want removed.
-
-### 💐 Dataveria
-[Find your information](https://dataveria.com/). Opt out by entering the specific profile URL you find into the [opt-out form](https://dataveria.com/ng/control/privacy). You will need to confirm your opt-out request by clicking on a link sent to you via email. If the opt-out form doesn’t work, you can send each profile URL in a separate email to <support@federal-data.com>, but the company may redirect you back to the site that doesn’t work. (The link currently on the site bounces.) Stand by for an update once we find a more consistent working method. 
 
 ### 💐 Intelius
 [Find your information](https://www.intelius.com/). Opt out by emailing <support@mailer.intelius.com>, calling 1-888-245-1655, or [filling out a form](https://suppression.peopleconnect.us/login).  If you’re told that Intelius can't find your account, you may need to confirm your mailing address, phone number, old email addresses, or other information via email. (As always, make sure Intelius already has the information before providing it.) Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Truthfinder, US Search, and Zabasearch.
