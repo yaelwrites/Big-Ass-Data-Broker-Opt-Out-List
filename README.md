@@ -8,7 +8,7 @@
 | 📞      | must pick up a (gasp!) phone                         |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on November 22, 2025 to remove Dataveria and provide additional information on corrections and pull requests we accept.
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on November 22, 2025 to remove Dataveria, Verecor, and Vericora, and provide additional information on corrections and pull requests we accept.
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 13, start with sites marked 💐. If you can do 19 (total), go to sites marked ☠ as well. Once you’ve completed all of those, you can start to work your way through the rest of the list. 
 
@@ -179,12 +179,6 @@ Search for [your information](https://unmask.com/). Once you find your entry, go
 
 ### USA-Official
 After [finding your information](https://usa-official.com/), [enter your name and URL](https://usa-official.com/remove.php).
-
-### Verecor
-Find [your information](https://verecor.com). To opt out, [enter the profile URL](https://verecor.com/ng/control/privacy), along with your name and email. You will need to fill out a captcha, and confirm the email link to finalize your request.
-
-### Vericora
-Find [your information](https://vericora.com/profile/search) and [opt out](https://vericora.com/ng/control/privacy).
 
 ### Veripages
 Find [your information](https://veripages.com/). To opt out, [enter the profile URL](https://veripages.com/inner/control-privacy), along with your name and email. You will need to fill out a captcha, and confirm the email link to finalize your request.
