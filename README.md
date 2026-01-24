@@ -191,6 +191,12 @@ Go to [VoterRecords.com](https://voterrecords.com/), find your information, scro
 ### ZoomInfo
 Check to see if your information is on ZoomInfo by [filling out this form](https://privacyrequest.zoominfo.com/remove/verify). Opt out if it has an email on record—they will email you a code. ZoomInfo appears to have moved towards focusing primarily on business rather than individuals.
 
+### LexisNexis
+
+Please note that opting out might prevent you from getting car insurance quotes online. You can still get a quote over a phone or at an insurance agent's office.
+
+Opt out [from sharing](https://optout.lexisnexis.com/) and [from marketing](https://www.lexisnexis.com/privacy/directmarketingopt-out.aspx).
+
 ## Special Circumstances
 
 If you’re a victim of violent crime or identity theft, it’s often possible to opt out of information that others can’t opt out of. You may, however, need to provide court orders or other information. It may be worth checking more complete data broker lists which include those: [https://www.privacyrights.org/data-brokers](https://www.privacyrights.org/data-brokers). See this resource: [https://nnedv.org/mdocs-posts/people-searches-data-brokers/](https://nnedv.org/mdocs-posts/people-searches-data-brokers/).
