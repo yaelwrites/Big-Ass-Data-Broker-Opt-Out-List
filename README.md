@@ -8,11 +8,11 @@
 | 📞      | must pick up a (gasp!) phone                         |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on January 30, 2026 to update the opt-out link for Fast People Search, remove Ofsearch, and add info about California’s Delete Request and Opt-Out (DROP) portal.
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on March 1, 2026 to remove outdated information about Mozilla Monitor, remove Hudway Glass as the “information control” button appears missing, remove Best of History Websites, which no longer appears to share personal information, and update the URL to opt out of PublicDataUSA.
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 13, start with sites marked 💐. If you can do 19 (total), go to sites marked ☠ as well. Once you’ve completed all of those, you can start to work your way through the rest of the list. We’ve reordered this list by priority for your convenience. 
 
-Note that this list is primarily U.S.-based since it is a volunteer project based in the U.S. While it is intended for people in all U.S. states, note that California residents can use the [Delete Request and Opt-Out (DROP) portal](http://consumer.drop.privacy.ca.gov) to demand deletion of personal data from 500+ registered data brokers with a single request form, for free.
+Note that this list is primarily U.S.-based since it is a volunteer project based in the U.S. While it is intended for people in all U.S. states, California residents can use the [Delete Request and Opt-Out (DROP) portal](http://consumer.drop.privacy.ca.gov) to demand deletion of personal data from 500+ registered data brokers with a single request form, for free.
 
 Please send corrections or updates to <yael@yaelwrites.com> using the subject line “BADBOOL,” or file a pull request. (You can find other ways to reach me [on the contact page on my website](https://yaelwrites.com/contact).) Screenshots in emails are incredibly helpful. With very few exceptions, I only add opt-out information if users can verify that the data broker has their information before sharing additional data. To make the site accessible to the largest number of people, I include listings where removal is not limited to people in jurisdictions with privacy laws, to specific professions, or to people who are able to provide police reports, court orders, or letters from credit reporting agencies, to prove they are at risk.
 
@@ -48,7 +48,7 @@ First, request a copy of your data by filling out your name and email address un
 [Find your information](https://nuwber.com/). Try to opt out on the [removal form](https://nuwber.com/removal/link). Try "filter by state" to isolate the "person" URL you need. Don’t bother trying to get a full report; it’ll just waste your time with multiple steps and deceptive design trying to get you to pay for a subscription. If the URL you generate doesn't work in the form or you run across other problems, take a screenshot of your results and send them to <support@nuwber.com>, asking them to opt you out. 
 
 ### 💐 PublicDataUSA
-Find [your information](https://www.publicdatausa.com/). Copy the URL with your results and enter it along with your name and email address on the [remove page](https://www.publicdatausa.com/remove.php).
+Find [your information](https://publicdatausa.com/optout/) and opt out by selecting any information you want removed. This may include vehicles, political donations, etc. Lastly, you'll need to confirm your opt-out via email. Note that PublicDataUSA requires an email address from a "recognized provider," such as a Gmail, Outlook or Yahoo. You can, of course, create a new account. 
 
 ### 💐 Radaris
 Find [your information](https://radaris.com/). You can ignore sponsored links that take you to other sites. It is possible you do not have a Radaris listing even if you find sponsored links. Once you find your information you can remove it in one of two ways. If your information has a "View Profile" button, copy the URL. Use the URL to complete [a series of forms](https://radaris.com/control-privacy), hitting “next” and waiting for new pages to load. If your information does not have a "View Profile" button, copy the text of your information or take a screenshot of it. Write an email to [customer-service@radaris.com](mailto:customer-service@radaris.com). Include your information and ask them to take it down. They will send you an automatic reply telling you to use the online form. Respond to their automatic reply to tell them the form does not accept your information. You may need to reply to them several times before they confirm removal.
@@ -97,9 +97,6 @@ Look for your number and [opt out](https://www.usphonebook.com/opt-out/).
 ### Archives
 To find your information, you must [sign up for a free trial](https://www.archives.com/search/ancestor/checkout) (and then cancel). Then, [opt out](https://www.archives.com/Optout) if you found your data.
 
-### Best of History Websites
-[Find your information](https://besthistorysites.net/), and then paste the URL into the [opt-out form](https://besthistorysites.net/opt-out). Then, type in your email address on the following page and click on the "remove" link. You'll need to click on the opt-out link sent to you via email.
-
 ### Classmates.com
 Cancel your free or paid membership following [these instructions](https://help.classmates.com/hc/en-us/articles/115002224171-How-can-I-cancel-my-membership-).
 
@@ -114,9 +111,6 @@ Look for [your information](https://www.cyberbackgroundchecks.com/) and [opt out
 
 ### FreePeopleDirectory
 [Search for your information](https://www.freepeopledirectory.com). If you find it, you can opt out on [Spokeo’s opt-out page](https://www.spokeo.com/optout). Make sure to scroll down to the grammatically incorrect “opt out your information” section.
-
-### HudwayGlass
-[Look for your home address](https://hudwayglass.com/). If your name is listed alongside your address, click on the “information control” link. Opt out of applicable phone numbers and names. There's a limit per each opt out and each email you use to opt out. You will need to click the verification link they email you to finalize the opt out.
 
 ### InfoTracer
 [Find your information](https://www.infotracer.com) and opt out by [filling out the form](https://infotracer.com/optout/). You can also mail in [a different form](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946.
@@ -235,7 +229,7 @@ In general, note that removal services are not comprehensive, as some data broke
 
 There are services for media mail as well. For a fee, [PaperKarma](https://www.paperkarma.com/product/paperkarma-subscription/) will remove your name from common direct mail vendors, including charity solicitations, direct mail and catalogs. You can also remove your name from [Valpak coupon packs](https://www.valpak.com/remove-address), for free. Sign up for a free account at [https://www.catalogchoice.org/](https://www.catalogchoice.org/) to cancel catalogs you no longer wish to receive. For a fee, [DMAChoice](https://dmachoice.org/static/consumer_choice_tools.php), will remove your name from prospective mailers, not including political mail or mail from companies you’ve done business with in the past two years. DMAChoice also maintains a Deceased Do Not Contact list to allow you to remove names of deceased individuals for marketing lists, which you can register for [here](https://www.ims-dm.com/cgi/ddnc.php). (I am sorry for your loss!)
 
-There are several free services available as well. [Have I Been Pwned](https://haveibeenpwned.com/) allows you to check to see if your email address has been involved in a data breach. The free tier of [Mozilla Monitor](https://monitor.mozilla.org/) allows you to search up to five email addresses to see if your information is exposed in data breaches or found on data broker sites, and gives step-by-step instructions on removal. 
+There is also a free service. [Have I Been Pwned](https://haveibeenpwned.com/) allows you to check to see if your email address has been involved in a data breach. 
 
 ### Shameless Self-Promotion
 
