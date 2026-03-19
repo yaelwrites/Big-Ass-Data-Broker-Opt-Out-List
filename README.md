@@ -131,7 +131,7 @@ PimEyes is an online face search engine that uses face recognition to perform a 
 [Look for your information](https://www.privateeye.com/) and [initiate the opt-out](https://www.privateeye.com/removal), if needed. You will receive a link for a record removal form that you’ll have to fill out. 
 
 ### PrivateRecords
-[Search for your name and state](https://www.privaterecords.net/name/search-result) and [opt out](https://www.privaterecords.net/api/helper/optOutLight/search).
+[Search for your name and state](https://www.privaterecords.net/name/landing) and [opt out](https://www.privaterecords.net/api/helper/optOutLight/search).
 
 ### PropertyRecs
 Search for your name and state in the [opt-out page](https://dashboard.propertyrecs.com/opt-out), then opt out if needed.
