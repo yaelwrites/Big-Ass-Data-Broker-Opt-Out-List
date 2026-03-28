@@ -8,7 +8,7 @@
 | 📞      | must pick up a (gasp!) phone                         |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on March 8th, 2026 with a new URL for opting out of USA Official, and on March 1, 2026 to remove outdated information about Mozilla Monitor, remove Hudway Glass, as the “information control” button appears missing, remove Best of History Websites, which no longer appears to share personal information, and update the URL and instructions to opt out of PublicDataUSA.
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on March 28th, 2026 with new search and opt-out URLs for PrivateRecords and a new opt-out URL for MyLife. We also removed some CA-related language for MyLife since the new opt-out page appears to not be limited to CPPA.
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 13, start with sites marked 💐. If you can do 19 (total), go to sites marked ☠ as well. Once you’ve completed all of those, you can start to work your way through the rest of the list. We’ve reordered this list by priority for your convenience. 
 
