@@ -8,7 +8,9 @@
 | 📞      | must pick up a (gasp!) phone                         |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on March 28th, 2026 with new search and opt-out URLs for PrivateRecords and a new opt-out URL for MyLife. We also removed some CA-related language for MyLife since the new opt-out page appears to not be limited to CPPA.
+This list, also known as BADBOOL, was started in September 2017 and was most recently updated on April 26, 2026 with information on opting out of National Public Data. We also removed some resources that are no longer being updated, but plan to add new ones in future guides.
+
+BADBOOL is and will always be free, but you are welcome to [buy me a coffee](https://ko-fi.com/kofisupporter11745)! 💕☕️ If you’d like to learn more about me and my other work, feel free to check out my website, [Yael Writes](https://yaelwrites.com/).
 
 How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 13, start with sites marked 💐. If you can do 19 (total), go to sites marked ☠ as well. Once you’ve completed all of those, you can start to work your way through the rest of the list. We’ve reordered this list by priority for your convenience. 
 
@@ -114,6 +116,9 @@ Look for [your information](https://www.cyberbackgroundchecks.com/) and [opt out
 
 ### InfoTracer
 [Find your information](https://www.infotracer.com) and opt out by [filling out the form](https://infotracer.com/optout/). You can also mail in [a different form](https://members.infotracer.com/tspec/shared/assets/data_opt_out_form.pdf) or fax it to 1-617-933-9946.
+
+### National Public Data
+[Search for your data](https://nationalpublicdata.com/search), copy the unique URL, and paste it in the [opt-out form](https://nationalpublicdata.com/optout.html). You’ll then need to share your email address and verify the opt-out request via email.
 
 ### NeighborReport
 [Search for your name, address or phone number](https://neighbor.report/), and then [remove the report](https://neighbor.report/remove). You will need to verify the opt-out request via email.
@@ -223,26 +228,10 @@ Follow the instructions at [https://www.optoutprescreen.com/](https://www.optout
 
 ### Additional Options (Paid and Free)
 
-While there are over a dozen different data broker opt-out services, I personally use and recommend [EasyOptOuts](https://easyoptouts.com/). For more information on people search site removal services, see [the evaluation I conducted at Consumer Reports in partnership with Tall Poppy](https://innovation.consumerreports.org/new-report-data-defense-evaluating-people-search-site-removal-services/).
+While there are over a dozen different data broker opt-out services, I personally use and recommend [EasyOptOuts](https://easyoptouts.com/). 
 
 In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it. You can fill in the gaps using [this handy chart](https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/).
 
 There are services for media mail as well. For a fee, [PaperKarma](https://www.paperkarma.com/product/paperkarma-subscription/) will remove your name from common direct mail vendors, including charity solicitations, direct mail and catalogs. You can also remove your name from [Valpak coupon packs](https://www.valpak.com/remove-address), for free. Sign up for a free account at [https://www.catalogchoice.org/](https://www.catalogchoice.org/) to cancel catalogs you no longer wish to receive. For a fee, [DMAChoice](https://dmachoice.org/static/consumer_choice_tools.php), will remove your name from prospective mailers, not including political mail or mail from companies you’ve done business with in the past two years. DMAChoice also maintains a Deceased Do Not Contact list to allow you to remove names of deceased individuals for marketing lists, which you can register for [here](https://www.ims-dm.com/cgi/ddnc.php). (I am sorry for your loss!)
 
 There is also a free service. [Have I Been Pwned](https://haveibeenpwned.com/) allows you to check to see if your email address has been involved in a data breach. 
-
-### Shameless Self-Promotion
-
-Online privacy and security work hand in hand. There are important steps to take to secure your personal data beyond finding and removing it from people search sites. For my day job, I manage Consumer Reports’ [Security Planner](https://securityplanner.consumerreports.org/), a free, easy-to-use guide to staying safer online. Check it out for personalized recommendations and expert advice on topics such as keeping social media accounts from being hacked, locking down smart speakers and home security cameras, and reducing intrusive tracking by websites. This tool builds upon the work of the Citizen Lab, which originally launched and managed the project.
-
-If you’d like to learn more about me and my other work, feel free to check out my website, [Yael Writes](https://yaelwrites.com/).
-
-## Further reading
-
-[Doxing: Tips To Protect Yourself Online & How to Minimize Harm](https://www.eff.org/deeplinks/2020/12/doxxing-tips-protect-yourself-online-how-minimize-harm) (EFF)
-
-[Here are the data brokers quietly buying and selling your personal information](https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information) (Fast Company)
-
-[Personal Data Removal Workbook and Credit Freeze Guide](https://inteltechniques.com/data/workbook.pdf) (Michael Bazzell)
-
-[Preliminary results are in! CCPA testers provide important insights into the landmark privacy law](https://medium.com/cr-digital-lab/preliminary-results-are-in-ccpa-testers-provide-important-insights-into-the-landmark-privacy-law-c299f733de09) (Medium/Consumer Reports)
