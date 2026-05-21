@@ -224,7 +224,7 @@ You can also opt out of targeted ads using cookies and similar technology at the
 Follow the instructions at [https://www.optoutprescreen.com/](https://www.optoutprescreen.com/)
 
 ### Get on the Do Not Call Registry
-[https://www.donotcall.gov/register/reg.aspx](https://www.donotcall.gov/register/reg.aspx)
+[https://www.donotcall.gov](https://www.donotcall.gov/)]
 
 ### Additional Options (Paid and Free)
 
