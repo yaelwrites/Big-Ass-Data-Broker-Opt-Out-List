@@ -8,7 +8,7 @@
 | 📞      | must pick up a (gasp!) phone                         |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-This list, also known as BADBOOL, was started in September 2017 and was most recently updated on April 26, 2026 with information on opting out of National Public Data, and on April 30, 2026 to fix a link for TruePeopleSearch.net. We also removed some resources that are no longer being updated, but plan to add new ones in future guides.
+*This list, also known as BADBOOL, was started in September 2017 and was most recently updated on May 31, 2026 to add a new opt-out link for AdvancedBackGroundChecks, and to add opt-out instructions for two additional people search sites, Clustal and Men Stopping Violence. (Because these are indexed by search engines, I added them as crucial to remove.) I also added a link to EPIC’s new report about manipulative design patterns in opt-out processes, and linked to one of my recent blog posts about what my privacy and security stack looks like. 
 
 BADBOOL is and will always be free, but you are welcome to [buy me a coffee](https://ko-fi.com/kofisupporter11745)! 💕☕️ If you’d like to learn more about me and my other work, feel free to check out my website, [Yael Writes](https://yaelwrites.com/).
 
@@ -37,11 +37,18 @@ Find your information and opt out of [people search](https://www.beenverified.co
 ### 💐 CheckPeople
 First, request a copy of your data by filling out your name and email address under “Right to Know” at CheckPeople's [privacy rights page](https://checkpeople.com/privacy-rights). If CheckPeople has your information, [opt out](https://checkpeople.com/opt-out). You will be required to share your birthdate and full legal name. 
 
+### 💐Clustal
+Go to [Clustal.org](http://Clustal.org) and look for your information in the top search bar. Click on “view full record” to grab the URL. (This is important, as the original URL will not work.) Then, go to the [Privacy Control page](https://www.clustal.org/privacy-control), enter the URL, and click “remove my info.” Then enter your email address and click “remove my info” again. (Note that if you have more than one listing, you’ll need a different email address for each one.) Lastly, go to your inbox and click on the opt-out link in the email sent to you.
+
 ### 💐 ClustrMaps
 [Find your information](https://clustrmaps.com/), and then [remove it](https://clustrmaps.com/bl/opt-out). It will ask you to check off anything associated with your account that you want removed.
 
 ### 💐 Intelius
 [Find your information](https://www.intelius.com/). Opt out by emailing <support@mailer.intelius.com>, calling 1-888-245-1655, or [filling out a form](https://suppression.peopleconnect.us/login).  If you’re told that Intelius can't find your account, you may need to confirm your mailing address, phone number, old email addresses, or other information via email. (As always, make sure Intelius already has the information before providing it.) Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Truthfinder, US Search, and Zabasearch.
+
+### 💐 Men Stopping Violence
+
+First, [search for your name](https://www.menstoppingviolence.org/people/). Then enter the URL in [the opt-out page](https://www.menstoppingviolence.org/opt-out/). Click “remove my info,” and add your email address. Click on the confirmation link emailed to you.  
 
 ### 💐 📞 MyLife
 [Find your information](https://www.mylife.com), and then [opt out](https://www.mylife.com/privacyrequest). Another option is to email your removal request to <privacy@mylife.com> with your name and a link to your profile. MyLife will try to get you to create an account with a copy of your driver’s license to submit a profile removal request, and we’ve received reports that emailing the <info@mylife.com> or <removalrequests@mylife.com> email addresses will require a phone call to (888) 704-1900. Previously, calling that number and pressing 2 allowed you to be removed from MyLife (and Wink.com) after providing your name, age, date of birth, email address, current mailing address, and a previous mailing address, but this no longer appears to be the case. (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
@@ -233,5 +240,14 @@ While there are over a dozen different data broker opt-out services, I personall
 In general, note that removal services are not comprehensive, as some data brokers do not allow third parties to remove listings, and removal services do not include every data broker on this list, let alone outside of it. You can fill in the gaps using [this handy chart](https://docs.google.com/spreadsheets/d/115L6LpQg_UX638IyUfdwGhRS7dIU3lKwz6fjAcDtE-0/).
 
 There are services for media mail as well. For a fee, [PaperKarma](https://www.paperkarma.com/product/paperkarma-subscription/) will remove your name from common direct mail vendors, including charity solicitations, direct mail and catalogs. You can also remove your name from [Valpak coupon packs](https://www.valpak.com/remove-address), for free. Sign up for a free account at [https://www.catalogchoice.org/](https://www.catalogchoice.org/) to cancel catalogs you no longer wish to receive. For a fee, [DMAChoice](https://dmachoice.org/static/consumer_choice_tools.php), will remove your name from prospective mailers, not including political mail or mail from companies you’ve done business with in the past two years. DMAChoice also maintains a Deceased Do Not Contact list to allow you to remove names of deceased individuals for marketing lists, which you can register for [here](https://www.ims-dm.com/cgi/ddnc.php). (I am sorry for your loss!)
+
+### Additional Resources
+
+EPIC released a new report, [_Good Luck Opting Out: Manipulative Design Patterns in Opt-Out Processes_](https://epic.org/wp-content/uploads/2026/05/Good-Luck-Opting-Out-Manipulative-Design-Patterns-in-Opt-Out-Processes.pdf) by Justin Sherman and Caroline Kraczon, about the manipulative design patterns in opt-out processes (which you are likely intimately familiar with). 
+
+I wrote a blog post about [what my privacy and security stack actually looks like](https://blog.yaelwrites.com/what-my-privacy-and-security-stack-actually-looks-like/). This isn’t a guide, as your situation is different from mine, but it might be useful to see what someone else’s set-up looks like in practice.
+
+I am still in the process of adding additional privacy and security resources; stay tuned.
+
 
 There is also a free service. [Have I Been Pwned](https://haveibeenpwned.com/) allows you to check to see if your email address has been involved in a data breach. 
