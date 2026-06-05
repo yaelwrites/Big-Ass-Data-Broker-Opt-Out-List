@@ -12,7 +12,7 @@
 
 BADBOOL is and will always be free, but you are welcome to [buy me a coffee](https://ko-fi.com/kofisupporter11745)! 💕☕️ If you’d like to learn more about me and my other work, feel free to check out my website, [Yael Writes](https://yaelwrites.com/).
 
-How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 13, start with sites marked 💐. If you can do 19 (total), go to sites marked ☠ as well. Once you’ve completed all of those, you can start to work your way through the rest of the list. We’ve reordered this list by priority for your convenience. 
+How to use this page: We recommend opting out of high-priority sites first. If you only have the time and patience for 14, start with sites marked 💐. If you can do 20 (total), go to sites marked ☠ as well. Once you’ve completed all of those, you can start to work your way through the rest of the list. We’ve reordered this list by priority for your convenience. 
 
 Note that this list is primarily U.S.-based since it is a volunteer project based in the U.S. While it is intended for people in all U.S. states, California residents can use the [Delete Request and Opt-Out (DROP) portal](http://consumer.drop.privacy.ca.gov) to demand deletion of personal data from 500+ registered data brokers with a single request form, for free.
 
@@ -231,7 +231,7 @@ You can also opt out of targeted ads using cookies and similar technology at the
 Follow the instructions at [https://www.optoutprescreen.com/](https://www.optoutprescreen.com/)
 
 ### Get on the Do Not Call Registry
-[https://www.donotcall.gov](https://www.donotcall.gov/)]
+[https://www.donotcall.gov](https://www.donotcall.gov/)
 
 ### Additional Options (Paid and Free)
 
