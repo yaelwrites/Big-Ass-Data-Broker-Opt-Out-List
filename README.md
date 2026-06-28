@@ -85,7 +85,7 @@ Other international requests should go to the [Acxiom Consumer International Rig
 
 If you don’t have an email address, call (877) 774-2094 and follow the prompts.
 
-### ☠ Advanced Background Checks
+### ☠ AdvancedBackgroundChecks
 First, [search for your information](https://www.advancedbackgroundchecks.com). Remember that you can leave your city, state, and age blank. If your information shows up, [give an email to opt out](https://www.advancedbackgroundchecks.com/opt-out) and click the link in the email to verify with either your date of birth or your address.
 
 ### ☠ Ancestry.com
