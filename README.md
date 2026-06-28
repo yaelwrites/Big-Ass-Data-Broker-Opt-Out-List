@@ -8,7 +8,7 @@
 | 📞      | must pick up a (gasp!) phone                         |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-*This list, also known as BADBOOL, was started in September 2017 and was most recently updated on May 31, 2026 to add a new opt-out link for AdvancedBackGroundChecks, and to add opt-out instructions for two additional people search sites, Clustal and Men Stopping Violence. (Because these are indexed by search engines, I added them as crucial to remove.) I also added a link to EPIC’s new report about manipulative design patterns in opt-out processes, and linked to one of my recent blog posts about what my privacy and security stack looks like. On June 5, 2026, I corrected a math error, and removed publicdatausa.com and usa-official.com
+**This list, also known as BADBOOL, was started in September 2017 and was most recently updated on June 28, 2026 to improve the instructions for AdvancedBackgroundChecks so they are more clear, to add an email address for support for USPhoneBook in case the confirm removal process is being stupid, and to remove Clustrmaps, which is dead, rip. (Reddit tells me it has been replaced by MapMyVisitors but I can’t figure that widget-maker out.) 
 
 BADBOOL is and will always be free, but you are welcome to [buy me a coffee](https://ko-fi.com/kofisupporter11745)! 💕☕️ If you’d like to learn more about me and my other work, feel free to check out my website, [Yael Writes](https://yaelwrites.com/).
 
