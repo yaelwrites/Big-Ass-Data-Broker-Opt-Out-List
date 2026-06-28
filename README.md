@@ -40,9 +40,6 @@ First, request a copy of your data by filling out your name and email address un
 ### 💐Clustal
 Go to [Clustal.org](http://Clustal.org) and look for your information in the top search bar. Click on “view full record” to grab the URL. (This is important, as the original URL will not work.) Then, go to the [Privacy Control page](https://www.clustal.org/privacy-control), enter the URL, and click “remove my info.” Then enter your email address and click “remove my info” again. (Note that if you have more than one listing, you’ll need a different email address for each one.) Lastly, go to your inbox and click on the opt-out link in the email sent to you.
 
-### 💐 ClustrMaps
-[Find your information](https://clustrmaps.com/), and then [remove it](https://clustrmaps.com/bl/opt-out). It will ask you to check off anything associated with your account that you want removed.
-
 ### 💐 Intelius
 [Find your information](https://www.intelius.com/). Opt out by emailing <support@mailer.intelius.com>, calling 1-888-245-1655, or [filling out a form](https://suppression.peopleconnect.us/login).  If you’re told that Intelius can't find your account, you may need to confirm your mailing address, phone number, old email addresses, or other information via email. (As always, make sure Intelius already has the information before providing it.) Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Truthfinder, US Search, and Zabasearch.
 
