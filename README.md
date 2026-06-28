@@ -95,7 +95,7 @@ Search for yourself and [remove your information](https://www.familytreenow.com/
 [Look for](https://www.fastpeoplesearch.com/) and [remove your information](https://www.fastpeoplesearch.com/optout). You may need to solve a captcha.
 
 ### ☠ USPhoneBook
-Look for your number and [opt out](https://www.usphonebook.com/opt-out/).
+Look for your number and [opt out](https://www.usphonebook.com/opt-out/). If the opt-out link just hangs, email [support+optout@usphonebook.com](support+optout@usphonebook.com) for help.
 
 ### Archives
 To find your information, you must [sign up for a free trial](https://www.archives.com/search/ancestor/checkout) (and then cancel). Then, [opt out](https://www.archives.com/Optout) if you found your data.
