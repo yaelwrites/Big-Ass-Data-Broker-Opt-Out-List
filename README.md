@@ -43,10 +43,6 @@ Go to [Clustal.org](http://Clustal.org) and look for your information in the top
 ### 💐 Intelius
 [Find your information](https://www.intelius.com/). Opt out by emailing <support@mailer.intelius.com>, calling 1-888-245-1655, or [filling out a form](https://suppression.peopleconnect.us/login).  If you’re told that Intelius can't find your account, you may need to confirm your mailing address, phone number, old email addresses, or other information via email. (As always, make sure Intelius already has the information before providing it.) Intelius owns Addresses.com, Addresssearch.com, Anywho, Classmates, DateCheck, Instant Checkmate, InstantPeopleFinder, iSearch, LookUpAnyone, Peopleconnect.us, PeopleFinder, PeopleLookup, Phonesbook, Publicrecords, Spock, Truthfinder, US Search, and Zabasearch.
 
-### 💐 Men Stopping Violence
-
-First, [search for your name](https://www.menstoppingviolence.org/people/). Then enter the URL in [the opt-out page](https://www.menstoppingviolence.org/opt-out/). Click “remove my info,” and add your email address. Click on the confirmation link emailed to you.  
-
 ### 💐 📞 MyLife
 [Find your information](https://www.mylife.com), and then [opt out](https://www.mylife.com/privacyrequest). Another option is to email your removal request to <privacy@mylife.com> with your name and a link to your profile. MyLife will try to get you to create an account with a copy of your driver’s license to submit a profile removal request, and we’ve received reports that emailing the <info@mylife.com> or <removalrequests@mylife.com> email addresses will require a phone call to (888) 704-1900. Previously, calling that number and pressing 2 allowed you to be removed from MyLife (and Wink.com) after providing your name, age, date of birth, email address, current mailing address, and a previous mailing address, but this no longer appears to be the case. (It also appears that you can sign up for a free membership to remove your reputation profile, though not your personal information such as your home address.)
 
