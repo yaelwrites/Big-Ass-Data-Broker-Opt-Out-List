@@ -167,8 +167,10 @@ Follow the [removal instructions](https://www.truepeoplesearch.com/removal). You
 First, look for your [information](https://truepeoplesearch.net). Make sure to close any additional pages the site opens, and do not click on any of the “top rated background search services” links. If your information shows up, opt out by entering the URL and other information [into this form](https://docs.google.com/forms/d/e/1FAIpQLSeCPggzv4iXE20iUjcr6vdVWxBOblCyGwDLcO-jZA5j2YF5fQ/viewform). 
 
 ### United States Phone Book
-Search for [your information](https://www.unitedstatesphonebook.com/search.php).
-If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site [in this page](https://www.unitedstatesphonebook.com/contact.php).
+Search for [your information](https://www.unitedstatesphonebook.com/search.php). If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site [in this page](https://www.unitedstatesphonebook.com/contact.php).
+
+### Unite 4Heritage
+Search for [your information](Unite4heritgage.org) by filling out your first and last name, leaving off the city and state. Paste the URL in the [opt-out page](https://www.unite4heritage.org/opt-out), and click on “submit opt-out request.” Type in your email address. When you get an email, click the “confirm request” button.
 
 ### UnMask
 Search for [your information](https://unmask.com/). Once you find your entry, go to the [opt out form](https://unmask.com/opt-out/) where you'll enter your name, city, and state. They'll send a confirmation email with a link to finish the removal process. You'll need to solve a couple captchas along the way.
