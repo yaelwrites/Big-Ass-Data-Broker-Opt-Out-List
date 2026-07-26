@@ -121,9 +121,6 @@ Look for [your information](https://www.cyberbackgroundchecks.com/) and [opt out
 ### National Public Data
 [Search for your data](https://nationalpublicdata.com/search), copy the unique URL, and paste it in the [opt-out form](https://nationalpublicdata.com/optout.html). You’ll then need to share your email address and verify the opt-out request via email.
 
-### NeighborReport
-[Search for your name, address or phone number](https://neighbor.report/), and then [remove the report](https://neighbor.report/remove). You will need to verify the opt-out request via email.
-
 ### PeopleByName
 [Look up your name](https://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: https://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out [for each record](https://www.peoplebyname.com/remove.php).
 
