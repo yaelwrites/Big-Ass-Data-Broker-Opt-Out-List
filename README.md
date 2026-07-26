@@ -121,6 +121,9 @@ Look for [your information](https://www.cyberbackgroundchecks.com/) and [opt out
 ### National Public Data
 [Search for your data](https://nationalpublicdata.com/search), copy the unique URL, and paste it in the [opt-out form](https://nationalpublicdata.com/optout.html). You’ll then need to share your email address and verify the opt-out request via email.
 
+### OpenDataUSA
+OpenDataUSA has personal information as well as political donations. [Search for your records](https://opendatausa.com/optout), and check the box next to each record you want removed from the database. Once you've selected all the records, click the "Remove Selected" button at the bottom of the page. Fill out your name, address, email address, relationship to yourself, and an email address. (Note that the site will only recognize email addresses from Gmail, Yahoo, Outlook or other large providers as valid.) When you get an email, click on “confirm and remove.”
+
 ### PeopleByName
 [Look up your name](https://www.peoplebyname.com/people). Or, you can fill in your name in the URL like this: https://www.peoplebyname.com/people/[Last_Name]/[First_Name]. Opt out [for each record](https://www.peoplebyname.com/remove.php).
 
