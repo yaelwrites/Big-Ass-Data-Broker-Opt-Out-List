@@ -158,7 +158,7 @@ Find [your information](https://www.searchquarry.com/). If it’s listed, [opt o
 Find [your information](https://socialcatfish.com). Record the URL of each page that has your information. Then, go to the [opt-out page](https://socialcatfish.com/opt-out/) and scroll down to the instructions for removing URLs, email, phone number, and address. (Make sure to only ask for information to be removed if you already see it on the site.) You’ll need to provide your email address and click on a confirmation link to complete the opt-out process.
 
 ### 💰 SpyFly
-Look for [your data](https://www.spyfly.com). Then, [opt out](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing <support@spyfly.com>. You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
+Look for [your data](https://www.spyfly.com). Then, [opt out](https://www.spyfly.com/help-center/privacy-requests). You can also try emailing <support@spyfly.com>. You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
 
 ### TruePeopleSearch.com
 Follow the [removal instructions](https://www.truepeoplesearch.com/removal). You will need to enter your  name, city and state, and email address, and then you’ll need to solve several captchas to see if you are listed, after which you can remove your information.
