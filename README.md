@@ -134,7 +134,7 @@ Find your information and [opt out](https://www.peoplesearchnow.com/opt-out).
 PimEyes is an online face search engine that uses face recognition to perform a reverse image search, finding pictures of your face (or others like it) throughout the Internet. If you want to see if your photographs are in PimEyes’ database, consider [uploading a photo](https://pimeyes.com/). (I used a very public photo that I know is already online, but you can also take a photo with your camera—which PimEyes claims it does not store.)  To opt out, you’ll need to [upload an image of your face](https://pimeyes.com/en/opt-out-request-form), and also attach a photo ID with all sensitive data (other than your name and photograph) blurred. The easiest way to do this, in my opinion, is through Signal, the encrypted messaging app, which has a blur feature described [in its blog](https://signal.org/blog/blur-tools/). You can also use tools such as Photoshop or even make a copy of your ID and use a Sharpie. Finally, you’ll need to provide your email address.
 
 ### PrivateEye
-[Look for your information](https://www.privateeye.com/) and [initiate the opt-out](https://www.privateeye.com/removal), if needed. You will receive a link for a record removal form that you’ll have to fill out. 
+[Look for your information](https://www.privateeye.com/) and [initiate the opt-out](https://www.peoplefinders.com/opt-out), if needed. You will receive a link for a record removal form that you’ll have to fill out. 
 
 ### PrivateRecords
 [Search for your name and state](https://www.privaterecords.net/name/landing) and [opt out](https://www.privaterecords.net/api/helper/optOutLight/search).
