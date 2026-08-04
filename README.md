@@ -158,7 +158,7 @@ Find [your information](https://www.searchquarry.com/). If it’s listed, [opt o
 Find [your information](https://socialcatfish.com). Record the URL of each page that has your information. Then, go to the [opt-out page](https://socialcatfish.com/opt-out/) and scroll down to the instructions for removing URLs, email, phone number, and address. (Make sure to only ask for information to be removed if you already see it on the site.) You’ll need to provide your email address and click on a confirmation link to complete the opt-out process.
 
 ### 💰 SpyFly
-Look for [your data](https://www.spyfly.com). Then, [opt out](https://www.spyfly.com/help-center/remove-my-public-record). You can also try emailing <support@spyfly.com>. You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
+Look for [your data](https://www.spyfly.com). Then, [opt out](https://www.spyfly.com/help-center/privacy-requests). You can also try emailing <support@spyfly.com>. You’ll need to provide your name, age, address, and email address. Make sure SpyFly has information you'd like removed before volunteering these things.
 
 ### TruePeopleSearch.com
 Follow the [removal instructions](https://www.truepeoplesearch.com/removal). You will need to enter your  name, city and state, and email address, and then you’ll need to solve several captchas to see if you are listed, after which you can remove your information.
@@ -167,7 +167,7 @@ Follow the [removal instructions](https://www.truepeoplesearch.com/removal). You
 First, look for your [information](https://truepeoplesearch.net). Make sure to close any additional pages the site opens, and do not click on any of the “top rated background search services” links. If your information shows up, opt out by entering the URL and other information [into this form](https://docs.google.com/forms/d/e/1FAIpQLSeCPggzv4iXE20iUjcr6vdVWxBOblCyGwDLcO-jZA5j2YF5fQ/viewform). 
 
 ### Unite 4Heritage
-Search for [your information](Unite4heritgage.org) by filling out your first and last name, leaving off the city and state. Paste the URL in the [opt-out page](https://www.unite4heritage.org/opt-out), and click on “submit opt-out request.” Type in your email address. When you get an email, click the “confirm request” button.
+Search for [your-information](https://www.unite4heritage.org/) by filling out your first and last name, leaving off the city and state. Paste the URL in the [opt-out page](https://www.unite4heritage.org/opt-out), and click on “submit opt-out request.” Type in your email address. When you get an email, click the “confirm request” button.
 
 ### United States Phone Book
 Search for [your information](https://www.unitedstatesphonebook.com/search.php). If your address is listed and you want it removed, enter the telephone number and zip code listed on the above site [in this page](https://www.unitedstatesphonebook.com/contact.php).
