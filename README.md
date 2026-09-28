@@ -103,6 +103,9 @@ Cancel your free or paid membership following [these instructions](https://help.
 ### Cyber Background Checks
 Look for [your information](https://www.cyberbackgroundchecks.com/) and [opt out](https://www.cyberbackgroundchecks.com/removal). 
 
+### EveryJoe
+Look for [your information](https://www.everyjoe.com/) and insert the copied link into the [opt-out page](https://www.everyjoe.com/do-not-sell/). 
+
 ### Facecheck
 [Facecheck.id](https://Facecheck.id) is reverse image search software that uses an uploaded image to locate your face across in photos and videos on major social media platforms. If this type of search is something you are concerned about, you can [remove your face from its search engine](https://facecheck.id/Face-Search/RemoveMyPhotos) by searching for your image, uploading a driver’s license or ID card (you can hide your name, address and ID number) or a selfie with your face and two fingers touching your chin. Note that this will not remove your image from the various websites on which it was found, but simply will not allow people to search for it on the Facecheck site. Facecheck also states that it makes an exception for violent criminals.
 
