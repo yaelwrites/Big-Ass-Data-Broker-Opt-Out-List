@@ -53,9 +53,6 @@ First, [search for your name](https://www.menstoppingviolence.org/people/). Then
 ### 💐 Nuwber
 [Find your information](https://nuwber.com/). Try to opt out on the [removal form](https://nuwber.com/removal/link). Try "filter by state" to isolate the "person" URL you need. Don’t bother trying to get a full report; it’ll just waste your time with multiple steps and deceptive design trying to get you to pay for a subscription. If the URL you generate doesn't work in the form or you run across other problems, take a screenshot of your results and send them to <support@nuwber.com>, asking them to opt you out. 
 
-### 💐 Radaris
-Find [your information](https://radaris.com/). You can ignore sponsored links that take you to other sites. It is possible you do not have a Radaris listing even if you find sponsored links. Once you find your information you can remove it in one of two ways. If your information has a "View Profile" button, copy the URL. Use the URL to complete [a series of forms](https://radaris.com/control-privacy), hitting “next” and waiting for new pages to load. If your information does not have a "View Profile" button, copy the text of your information or take a screenshot of it. Write an email to [customer-service@radaris.com](mailto:customer-service@radaris.com). Include your information and ask them to take it down. They will send you an automatic reply telling you to use the online form. Respond to their automatic reply to tell them the form does not accept your information. You may need to reply to them several times before they confirm removal.
-
 ### 💐 SmartBackgroundChecks
 Find [your information](https://www.smartbackgroundchecks.com/). Then, [opt out](https://www.smartbackgroundchecks.com/optout). This will likely also remove your information from PeopleFinders. 
 
