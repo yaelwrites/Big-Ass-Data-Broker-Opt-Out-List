@@ -142,9 +142,6 @@ PimEyes is an online face search engine that uses face recognition to perform a 
 ### PropertyRecs
 Search for your name and state in the [opt-out page](https://dashboard.propertyrecs.com/opt-out), then opt out if needed.
 
-### Rehold
-Look up your home address here: [https://rehold.com/](https://rehold.com/). If there is a number or name next to it you’d like removed, click on  the red “remove” button next to it. You will need to enter your name and email address and solve a captcha.
-
 ### 💰 Searchbug
 Unfortunately, you have to sign up with a credit card to search for [your information](https://www.searchbug.com/), though your first search is free. You can contact Searchbug using the [contact form or chat link](https://www.searchbug.com/contact-us.aspx) or via phone or text at (760) 454-7301 or via fax at (760) 454-7341 to ask them to block the display of your personal information.
 
