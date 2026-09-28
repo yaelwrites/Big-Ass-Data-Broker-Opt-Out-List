@@ -8,7 +8,7 @@
 | 📞      | must pick up a (gasp!) phone                         |
 | 💰      | site charges money for access or removal (whaaaat?)  |
 
-**This list, also known as BADBOOL, was started in September 2017 and was most recently updated on August 27, 2026 to fix the dead link for Unite4 Heritage and update the link for SpyFly.
+***This list, also known as BADBOOL, was started in September 2017 and was most recently updated on September 27, 2026 to remove Radaris and Rehold (down due to a court order), OpenDataUSA (whose registration expired), and Advanced Background Check (which no longer works in all states). We also added EveryJoe, and added a link to an app to freeze credit on behalf of minors and adults under guardianship or power of attorney. And we updated United4Heritage’s name and links–it’s now United Nations Public Administration Network.
 
 BADBOOL is and will always be free, but you are welcome to [buy me a coffee](https://ko-fi.com/kofisupporter11745)! 💕☕️ If you’d like to learn more about me and my other work, feel free to check out my website, [Yael Writes](https://yaelwrites.com/).
 
